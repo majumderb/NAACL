@@ -1,0 +1,26 @@
+<Sentence id='1'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='nmod:NP2'>
+1.1	sakAla	N__NN	<fs af=',,,,,,,' name='sakAla'>
+))
+2	((	NP	<fs name='NP2' drel='k7t:VGF'>
+2.1	sAdZeV	QT__QTF	<fs af=',,,,,,,' name='sAdZeV'>
+2.2	AtatAyZa	N__NN	<fs name='AtatAyZa'>
+))
+3	((	NP	<fs af=',,,,,,,' name='NP3' drel='k5:VGF'>
+3.1	wiswA-woVrsA	N__NNP	<fs name='wiswA-woVrsA'>
+3.2	eVksapreVsa	N__NN	<fs name='eVksapreVsa'>
+3.3	WeVkeV	PSP	<fs name='WeVkeV'>
+))
+4	((	NP	<fs af=',,,,,,,' name='NP4' drel='k7p:VGF'>
+4.1	niu	JJ	<fs name='niu'>
+4.2	AlipuraxuyZAra	N__NNP	<fs name='AlipuraxuyZAra'>
+4.3	steVSaneV	N__NN	<fs name='steVSaneV'>
+))
+5	((	VGF	<fs af=',,,,,,,' stype='declarative' voicetype='active' name='VGF'>
+5.1	neVmeV	V__VM	<fs af=',,,,,,,' name='neVmeV'>
+5.2	padZalAma	V__VAUX	<fs name='padZalAma'>
+))
+6	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:VGF'>
+6.1	.	RD__PUNC	<fs name='.'>
+))
+</Sentence>
