@@ -1,0 +1,94 @@
+<solution prefix='mbh03_' sentenceNo='14562' solutionSH='7' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,6,7,8,25,32,34,36,39,40</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>ye</headword>
+	<stem>yad</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tvA</headword>
+	<stem>yuzmad</stem>
+	<morphids>x2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>viduH</headword>
+	<stem>vid_1</stem>
+	<morphids>prf a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>brAhmaRam</headword>
+	<stem>brAhmaRa</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>vAmadeva</headword>
+	<stem>vAmadeva</stem>
+	<morphids>mvs</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>vAcA</headword>
+	<stem>vAc</stem>
+	<morphids>f3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>hantum</headword>
+	<stem>hantum</stem>
+	<morphids>i</morphids>
+	<lexids>inf</lexids>
+	<root>han_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>manasA</headword>
+	<stem>manas</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>karmaRA</headword>
+	<stem>karman</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>vA</headword>
+	<stem>vA_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

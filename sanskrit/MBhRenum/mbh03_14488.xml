@@ -1,0 +1,31 @@
+<solution prefix='mbh03_' sentenceNo='14488' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tasyAH</headword>
+	<stem>tad</stem>
+	<morphids>f6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>dOHSIlyam</headword>
+	<stem>dOHSIlya</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>etat</headword>
+	<stem>etad</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

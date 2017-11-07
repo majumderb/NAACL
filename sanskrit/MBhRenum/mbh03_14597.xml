@@ -1,0 +1,94 @@
+<solution prefix='mbh03_' sentenceNo='14597' solutionSH='54' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>11,13,14,17,18,29,31,33,35,42</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>taTA</headword>
+	<stem>taTA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>kftavAn</headword>
+	<stem>kftavat</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppa.</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>pArTivaH</headword>
+	<stem>pArTiva</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>tu</headword>
+	<stem>tu</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>munim</headword>
+	<stem>muni</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>rAja</headword>
+	<stem>rAjan</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>putrI</headword>
+	<stem>putra</stem>
+	<morphids>f1s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>baBAze</headword>
+	<stem>BAz</stem>
+	<morphids>prf m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

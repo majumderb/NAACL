@@ -1,0 +1,40 @@
+<solution prefix='mbh03_' sentenceNo='14511' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,3,5</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>cakzva</headword>
+	<stem>cakz</stem>
+	<morphids>ipv[2] m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>me</headword>
+	<stem>asmad</stem>
+	<morphids>x6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>vAmyO</headword>
+	<stem>vAmya</stem>
+	<morphids>m2d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

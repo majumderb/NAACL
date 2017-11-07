@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='26105' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,4,8,11</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sA</headword>
+	<stem>tad</stem>
+	<morphids>f1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>uktAH</headword>
+	<stem>ukta</stem>
+	<morphids>f1p</morphids>
+	<lexids>pp.</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>hfzwAH</headword>
+	<stem>hfzwa</stem>
+	<morphids>f1p</morphids>
+	<lexids>pp.</lexids>
+	<root>hfz</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>jagAma</headword>
+	<stem>gam</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

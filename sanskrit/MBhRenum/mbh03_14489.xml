@@ -1,0 +1,85 @@
+<solution prefix='mbh03_' sentenceNo='14489' solutionSH='56' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,4,17,18,19,26,31</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>bahavaH</headword>
+	<stem>bahu</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>hi</headword>
+	<stem>hi_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>rAjAnaH</headword>
+	<stem>rAjan</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>tayA</headword>
+	<stem>tad</stem>
+	<morphids>f3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>labDa</headword>
+	<stem>labDa</stem>
+	<morphids>iic</morphids>
+	<lexids>pp.</lexids>
+	<root>laB</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>pUrvAH</headword>
+	<stem>pUrva</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

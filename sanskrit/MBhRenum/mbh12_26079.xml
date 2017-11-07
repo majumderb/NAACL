@@ -1,0 +1,85 @@
+<solution prefix='mbh12_' sentenceNo='26079' solutionSH='45' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,6,11,13,42</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>asti</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>mama</headword>
+	<stem>aham</stem>
+	<morphids>x6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>kim</headword>
+	<stem>ka_1</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>cit</headword>
+	<stem>cid_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>vratam</headword>
+	<stem>vrata</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>pari</headword>
+	<stem>pari</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>ava</headword>
+	<stem>ava</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>sitam</headword>
+	<stem>sita_1</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj pp., ctp na</lexids>
+	<root>sA_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

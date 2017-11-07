@@ -1,0 +1,148 @@
+<solution prefix='mbh12_' sentenceNo='26037' solutionSH='78' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,3,6,7,8,9,13,14,17,18,19,20,21,26,38,45,56,59</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>ekena</headword>
+	<stem>eka</stem>
+	<morphids>n3s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>asyena</headword>
+	<stem>Asya</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>lokezu</headword>
+	<stem>loka</stem>
+	<morphids>m7p</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>dvijEH</headword>
+	<stem>dvijA</stem>
+	<morphids>m3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>kriyAvadBiH</headword>
+	<stem>kriyAvat</stem>
+	<morphids>m3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>yajYezu</headword>
+	<stem>yajYa</stem>
+	<morphids>m7p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>su</headword>
+	<stem>su</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>hutam</headword>
+	<stem>huta</stem>
+	<morphids>m2s</morphids>
+	<lexids>adj pp., ctp prAdi</lexids>
+	<root>hu</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>somam</headword>
+	<stem>soma</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>16</padanum>
+	<headword>papO</headword>
+	<stem>pA_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>ekena</headword>
+	<stem>eka</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>24</padanum>
+	<headword>ApaH</headword>
+	<stem>ap</stem>
+	<morphids>f2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>30</padanum>
+	<headword>ekena</headword>
+	<stem>eka</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>35</padanum>
+	<headword>sendrAn</headword>
+	<stem>sendra</stem>
+	<morphids>m2p</morphids>
+	<lexids>bv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>38</padanum>
+	<headword>devAn</headword>
+	<stem>deva</stem>
+	<morphids>m2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

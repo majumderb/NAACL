@@ -1,0 +1,103 @@
+<solution prefix='mbh12_' sentenceNo='26058' solutionSH='5' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,5,10,11,13,15,16,17</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tatra</headword>
+	<stem>tatra</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>ESvarya</headword>
+	<stem>ESvarya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>yogAt</headword>
+	<stem>yoga</stem>
+	<morphids>m5s</morphids>
+	<lexids>ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>aRu</headword>
+	<stem>aRu</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>mAtraH</headword>
+	<stem>mAtra</stem>
+	<morphids>m1s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>BUtvA</headword>
+	<stem>BU_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>bisa</headword>
+	<stem>bisa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>granTim</headword>
+	<stem>granTi</stem>
+	<morphids>m2s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>viveSa</headword>
+	<stem>viS_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

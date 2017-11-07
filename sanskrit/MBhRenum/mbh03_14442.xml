@@ -1,0 +1,67 @@
+<solution prefix='mbh03_' sentenceNo='14442' solutionSH='195' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,5,7,9,31,55</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>padena</headword>
+	<stem>pada</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>anupadam</headword>
+	<stem>anupada</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>dfzwvA</headword>
+	<stem>dfSwvA</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>dfS_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>rAjAnam</headword>
+	<stem>rAjan</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>pari</headword>
+	<stem>pari</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>vArya</headword>
+	<stem>vArya</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>vf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>34</padanum>
+	<headword>atizWat</headword>
+	<stem>sTA_1</stem>
+	<morphids>ipf[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,130 @@
+<solution prefix='mbh03_' sentenceNo='14420' solutionSH='31' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,11,13,15,16,22,26,36,39,40,41,51,52</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>n6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>vana</headword>
+	<stem>vana</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>zaRqasya</headword>
+	<stem>zaRqa</stem>
+	<morphids>n6s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>maDye</headword>
+	<stem>maDya</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>atIva</headword>
+	<stem>atIva</stem>
+	<morphids>i</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>ramaRIyam</headword>
+	<stem>ramaRIya</stem>
+	<morphids>n2s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>saraH</headword>
+	<stem>saras</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>dfzwvA</headword>
+	<stem>dfzwvA</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>dfS_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>sa</headword>
+	<stem>sa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>ASvaH</headword>
+	<stem>ASva</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>agAhata</headword>
+	<stem>gAh</stem>
+	<morphids>ipf[1] m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

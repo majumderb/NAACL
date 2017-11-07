@@ -1,0 +1,76 @@
+<solution prefix='mbh12_' sentenceNo='26106' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,5,7,11</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>indraH</headword>
+	<stem>indra</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>bisa</headword>
+	<stem>bisa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>granTim</headword>
+	<stem>granTi</stem>
+	<morphids>m2s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>viveSa</headword>
+	<stem>viS_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>BUyaH</headword>
+	<stem>BUyas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

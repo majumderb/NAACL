@@ -1,0 +1,31 @@
+<solution prefix='mbh12_' sentenceNo='26032' solutionSH='3' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,6</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tAH</headword>
+	<stem>tad</stem>
+	<morphids>f1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>tam</headword>
+	<stem>tad</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>abruvan</headword>
+	<stem>brU</stem>
+	<morphids>ipf[2] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

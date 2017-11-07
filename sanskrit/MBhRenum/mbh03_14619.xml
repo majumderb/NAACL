@@ -1,0 +1,58 @@
+<solution prefix='mbh03_' sentenceNo='14619' solutionSH='99' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,3,6,8,14,17,27</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>asti</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>Kalu</headword>
+	<stem>Kalu</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>himavati</headword>
+	<stem>himavat</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>prAkArakarRaH</headword>
+	<stem>prAkArakarRa</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>nAma</headword>
+	<stem>nAman</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>ulUkaH</headword>
+	<stem>ulUka</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

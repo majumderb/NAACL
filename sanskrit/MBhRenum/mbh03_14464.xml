@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14464' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,7,11,16</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>maRqUka</headword>
+	<stem>maRqUka</stem>
+	<morphids>iic</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vaDaH</headword>
+	<stem>vaDa</stem>
+	<morphids>m1s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>kriyatAm</headword>
+	<stem>kf_1</stem>
+	<morphids>ipv p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

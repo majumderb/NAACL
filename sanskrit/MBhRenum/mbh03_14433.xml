@@ -1,0 +1,40 @@
+<solution prefix='mbh03_' sentenceNo='14433' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>arTI</headword>
+	<stem>arTin</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>tvayA</headword>
+	<stem>tvad</stem>
+	<morphids>x3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>aham</headword>
+	<stem>aham</stem>
+	<morphids>x1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

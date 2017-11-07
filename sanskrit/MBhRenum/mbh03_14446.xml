@@ -1,0 +1,76 @@
+<solution prefix='mbh03_' sentenceNo='14446' solutionSH='371' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,7,17,18,27,31,35</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>praDAna</headword>
+	<stem>praDAna</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>amAtyaH</headword>
+	<stem>amAtya</stem>
+	<morphids>m1s</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>aByASa</headword>
+	<stem>aByASa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>carAH</headword>
+	<stem>cara</stem>
+	<morphids>f2p</morphids>
+	<lexids>adj ctp upapada</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>striyaH</headword>
+	<stem>strI</stem>
+	<morphids>f2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>apfcCat</headword>
+	<stem>praS</stem>
+	<morphids>ipf[6] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

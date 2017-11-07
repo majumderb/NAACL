@@ -1,0 +1,121 @@
+<solution prefix='mbh12_' sentenceNo='26022' solutionSH='173' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,8,13,21,37,39,41,43,44,47</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>rUpaviSvaH</headword>
+	<stem>viSvarUpa</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>mAtuH</headword>
+	<stem>mAtf</stem>
+	<morphids>f6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>vAkyam</headword>
+	<stem>vAkya</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>an</headword>
+	<stem>an_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>ati</headword>
+	<stem>ati</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>kramaRIyam</headword>
+	<stem>kramaRIya</stem>
+	<morphids>n1s</morphids>
+	<lexids>ca. pfp. [2], ctp prAdi</lexids>
+	<root>kram</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>matvA</headword>
+	<stem>matvA</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>man</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>24</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>25</padanum>
+	<headword>pUjya</headword>
+	<stem>pUjya</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>pUj</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>27</padanum>
+	<headword>hiraRyakaSipum</headword>
+	<stem>hiraRyakaSipu</stem>
+	<morphids>m2s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>29</padanum>
+	<headword>agAt</headword>
+	<stem>gA_1</stem>
+	<morphids>aor[root] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

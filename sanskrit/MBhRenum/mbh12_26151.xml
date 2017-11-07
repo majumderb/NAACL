@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='26151' solutionSH='8' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,4,22</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>snAtvA</headword>
+	<stem>snAtvA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root>snA</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>AtmAnam</headword>
+	<stem>Atman</stem>
+	<morphids>x2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>pApmanaH</headword>
+	<stem>pApman</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>mokzyAm</headword>
+	<stem>mokzayAm</stem>
+	<morphids>i</morphids>
+	<lexids>ppf actn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>Asa</headword>
+	<stem>as_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

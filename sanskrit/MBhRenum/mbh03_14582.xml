@@ -1,0 +1,112 @@
+<solution prefix='mbh03_' sentenceNo='14582' solutionSH='21' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,5,9,14,18,21,24,25</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tam</headword>
+	<stem>tad</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>jahi</headword>
+	<stem>han_1</stem>
+	<morphids>ipv[2] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>tvam</headword>
+	<stem>yuzmad</stem>
+	<morphids>x1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>mad</headword>
+	<stem>asmad</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>vacanAt</headword>
+	<stem>vacana</stem>
+	<morphids>n5s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>nunnaH</headword>
+	<stem>nunna</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>nud</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>tUrRam</headword>
+	<stem>tUrRam</stem>
+	<morphids>i</morphids>
+	<lexids>adverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>priyam</headword>
+	<stem>priya</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>sAyakEH</headword>
+	<stem>sAyaka</stem>
+	<morphids>m3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>Gora</headword>
+	<stem>Gora</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>rUpEH</headword>
+	<stem>rUpa</stem>
+	<morphids>m3p</morphids>
+	<lexids>adj ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

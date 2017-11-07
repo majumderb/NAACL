@@ -1,0 +1,76 @@
+<solution prefix='mbh01_' sentenceNo='7124' solutionSH='1' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,6,8</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>yadum</headword>
+	<stem>yadu</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>turvasum</headword>
+	<stem>turvasu</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>devayAnI</headword>
+	<stem>devayAna</stem>
+	<morphids>f1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>ajAyata</headword>
+	<stem>jan</stem>
+	<morphids>ipf[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

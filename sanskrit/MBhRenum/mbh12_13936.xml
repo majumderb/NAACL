@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='13936' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>4,10,14,17,22,24</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>yAdfSam</headword>
+	<stem>yAdfS</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>dIyate</headword>
+	<stem>dA_1</stem>
+	<morphids>pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>dAnam</headword>
+	<stem>dAna</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>tAdfSam</headword>
+	<stem>tAdfS</stem>
+	<morphids>n2s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>Palam</headword>
+	<stem>Pala</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>Apyate</headword>
+	<stem>Ap</stem>
+	<morphids>pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

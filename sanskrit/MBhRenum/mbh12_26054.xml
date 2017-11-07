@@ -1,0 +1,157 @@
+<solution prefix='mbh12_' sentenceNo='26054' solutionSH='256' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,4,9,11,12,17,61,64,85,86,87,89</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tena</headword>
+	<stem>tad</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>vajreRa</headword>
+	<stem>vajra</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>Bidyena</headword>
+	<stem>Bidya</stem>
+	<morphids>n3s</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>DfzyeRa</headword>
+	<stem>Dfzya</stem>
+	<morphids>n3s</morphids>
+	<lexids>adj pfp. [1], ctp na</lexids>
+	<root>Dfz</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>brahma</headword>
+	<stem>brahman</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>asTi</headword>
+	<stem>asTan</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>BUtena</headword>
+	<stem>BUta</stem>
+	<morphids>n3s</morphids>
+	<lexids>pp., ctp3</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>31</padanum>
+	<headword>vizRu</headword>
+	<stem>vizRu</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>32</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>34</padanum>
+	<headword>vizwena</headword>
+	<stem>vizwa</stem>
+	<morphids>n3s</morphids>
+	<lexids>adj pp. ctp3</lexids>
+	<root>viS_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>40</padanum>
+	<headword>indraH</headword>
+	<stem>indra</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>42</padanum>
+	<headword>viSvarUpam</headword>
+	<stem>viSvarUpa</stem>
+	<morphids>n2s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>43</padanum>
+	<headword>jaGAna</headword>
+	<stem>han_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

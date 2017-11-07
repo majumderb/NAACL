@@ -1,0 +1,130 @@
+<solution prefix='mbh12_' sentenceNo='26056' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,6,7,8,9,26,36,38,41,42,43,46,49,50</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tasmAt</headword>
+	<stem>tad</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>anantaram</headword>
+	<stem>anantaram</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>viSvarUpa</headword>
+	<stem>viSvarUpa</stem>
+	<morphids>iic</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>gAtra</headword>
+	<stem>gAtra</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>maTana</headword>
+	<stem>maTana</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>24</padanum>
+	<headword>samBavam</headword>
+	<stem>samBava</stem>
+	<morphids>m2s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>26</padanum>
+	<headword>tvazwf</headword>
+	<stem>tvazwf</stem>
+	<morphids>iic</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>27</padanum>
+	<headword>ut</headword>
+	<stem>ud</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>28</padanum>
+	<headword>pAditam</headword>
+	<stem>pAdita</stem>
+	<morphids>m2s</morphids>
+	<lexids>adj ca. pp., ctp4</lexids>
+	<root>pad_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>29</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>30</padanum>
+	<headword>arim</headword>
+	<stem>ari</stem>
+	<morphids>m2s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>31</padanum>
+	<headword>vftram</headword>
+	<stem>vftra</stem>
+	<morphids>m2s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>32</padanum>
+	<headword>indraH</headword>
+	<stem>indra</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>33</padanum>
+	<headword>jaGAna</headword>
+	<stem>han_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

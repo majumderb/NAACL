@@ -1,0 +1,67 @@
+<solution prefix='mbh03_' sentenceNo='14663' solutionSH='18' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,9,10,12,16,17,19</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>yAvat</headword>
+	<stem>yAvat</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>SabdaH</headword>
+	<stem>Sabda</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>Bavati</headword>
+	<stem>BU_1</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>tAvat</headword>
+	<stem>tAvat</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>puruzaH</headword>
+	<stem>puruza</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>ucyate</headword>
+	<stem>vac</stem>
+	<morphids>pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

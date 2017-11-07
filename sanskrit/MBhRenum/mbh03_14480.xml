@@ -1,0 +1,22 @@
+<solution prefix='mbh03_' sentenceNo='14480' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>hanizyAmi</headword>
+	<stem>han_1</stem>
+	<morphids>fut a1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>etAn</headword>
+	<stem>etad</stem>
+	<morphids>m2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

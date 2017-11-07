@@ -1,0 +1,76 @@
+<solution prefix='mbh12_' sentenceNo='13954' solutionSH='157' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,3,7,10,13,17,27</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>samudAcAra</headword>
+	<stem>samudAcAra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>lakzaRam</headword>
+	<stem>lakzaRa</stem>
+	<morphids>n2s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>sarvam</headword>
+	<stem>sarva</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>anu</headword>
+	<stem>anu</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>KyAsyAmaH</headword>
+	<stem>KyA</stem>
+	<morphids>fut a1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,112 @@
+<solution prefix='mbh12_' sentenceNo='13900' solutionSH='39' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,4,5,15,23,29,32,33,35,37,38</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>yat</headword>
+	<stem>ya_1</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>etat</headword>
+	<stem>etad</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>BavatA</headword>
+	<stem>Bavat_2</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>hitam</headword>
+	<stem>hita_2</stem>
+	<morphids>n1s</morphids>
+	<lexids>pp.</lexids>
+	<root>DA_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>suKAnAm</headword>
+	<stem>suKa</stem>
+	<morphids>n6p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>paramAH</headword>
+	<stem>parama</stem>
+	<morphids>f1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>striyaH</headword>
+	<stem>strI</stem>
+	<morphids>f1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>gfhRImaH</headword>
+	<stem>grah</stem>
+	<morphids>pre[9] a1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

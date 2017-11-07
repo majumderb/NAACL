@@ -1,0 +1,94 @@
+<solution prefix='mbh12_' sentenceNo='26153' solutionSH='146' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,7,9,13,14,20,51,99,101</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>SApAt</headword>
+	<stem>SApa</stem>
+	<morphids>m5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>adya</headword>
+	<stem>adya</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>kzIyate</headword>
+	<stem>kzi</stem>
+	<morphids>pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>somaH</headword>
+	<stem>soma</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>amA</headword>
+	<stem>amA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>27</padanum>
+	<headword>vAsya</headword>
+	<stem>vAsya</stem>
+	<morphids>iic</morphids>
+	<lexids>pfp. [1]</lexids>
+	<root>vas_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>50</padanum>
+	<headword>antara</headword>
+	<stem>antara</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>52</padanum>
+	<headword>sTaH</headword>
+	<stem>sTa</stem>
+	<morphids>m1s</morphids>
+	<lexids>ctp7</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

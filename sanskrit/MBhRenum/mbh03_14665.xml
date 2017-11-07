@@ -1,0 +1,76 @@
+<solution sentenceNo='-1' solutionSH='8' siftSolutions='y' status='inprogress' displayEncoding='deva' inflectionFormat='SL' version='2.0'>
+	<state>1,6,8,14,15,21,22,23</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>patati</headword>
+	<stem>pat_1</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>aDamAn</headword>
+	<stem>aDama</stem>
+	<morphids>m2p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>lokAn</headword>
+	<stem>loka</stem>
+	<morphids>m2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>yAvat</headword>
+	<stem>yAvat</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>SabdaH</headword>
+	<stem>Sabda</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>kIrtyate</headword>
+	<stem>kIrt</stem>
+	<morphids>pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

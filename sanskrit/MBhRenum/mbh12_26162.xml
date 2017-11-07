@@ -1,0 +1,94 @@
+<solution prefix='mbh12_' sentenceNo='26162' solutionSH='56' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,16,40,41,51,53,59</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tena</headword>
+	<stem>tad</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>marzitena</headword>
+	<stem>marzita</stem>
+	<morphids>m3s</morphids>
+	<lexids>adj ca. pp.</lexids>
+	<root>mfz</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>Atma</headword>
+	<stem>Atman</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>gAtra</headword>
+	<stem>gAtra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>26</padanum>
+	<headword>UzmaRA</headword>
+	<stem>Uzman</stem>
+	<morphids>m3s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>28</padanum>
+	<headword>samudraH</headword>
+	<stem>samudra_1</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>32</padanum>
+	<headword>stimita</headword>
+	<stem>stimita</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>jalaH</headword>
+	<stem>jala</stem>
+	<morphids>m1s</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>33</padanum>
+	<headword>kftaH</headword>
+	<stem>kfta</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

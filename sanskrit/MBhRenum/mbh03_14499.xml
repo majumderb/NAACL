@@ -1,0 +1,40 @@
+<solution prefix='mbh03_' sentenceNo='14499' solutionSH='4' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,4,9,10</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>anu</headword>
+	<stem>anu</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>gfhItaH</headword>
+	<stem>gfhIta</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>grah</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>asmi</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

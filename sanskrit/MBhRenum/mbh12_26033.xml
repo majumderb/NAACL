@@ -1,0 +1,94 @@
+<solution prefix='mbh12_' sentenceNo='26033' solutionSH='11' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,4,7,21,24,31,32,33</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>vayam</headword>
+	<stem>aham</stem>
+	<morphids>x1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>deva</headword>
+	<stem>deva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>striyaH</headword>
+	<stem>strI</stem>
+	<morphids>f1p</morphids>
+	<lexids>adj ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>apsarasaH</headword>
+	<stem>apsaras</stem>
+	<morphids>f1p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>indram</headword>
+	<stem>indra</stem>
+	<morphids>m2s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>varadam</headword>
+	<stem>varada</stem>
+	<morphids>m2s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>purA</headword>
+	<stem>purA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>praBavizRum</headword>
+	<stem>praBavizRu</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>vfRImahe</headword>
+	<stem>vf_2</stem>
+	<morphids>pre[9] m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>16</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

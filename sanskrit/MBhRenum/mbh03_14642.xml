@@ -1,0 +1,121 @@
+<solution prefix='mbh03_' sentenceNo='14642' solutionSH='355' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,4,5,6,10,14,24,34,44,48</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>naH</headword>
+	<stem>asmad</stem>
+	<morphids>x2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>abravIt</headword>
+	<stem>brU</stem>
+	<morphids>ipf[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>asti</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>Kalu</headword>
+	<stem>Kalu</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>iha</headword>
+	<stem>iha</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>sarasi</headword>
+	<stem>saras</stem>
+	<morphids>n7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>akUparaH</headword>
+	<stem>akUpara</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>nAma</headword>
+	<stem>nAman</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>kacCapaH</headword>
+	<stem>kacCapa</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>26</padanum>
+	<headword>prati</headword>
+	<stem>prati</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>28</padanum>
+	<headword>vasati</headword>
+	<stem>vas_1</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,94 @@
+<solution prefix='mbh12_' sentenceNo='26160' solutionSH='14' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,4,6,9,11,14,22,24,27,29</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>nArAyaRaH</headword>
+	<stem>nArAyaRa</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>loka</headword>
+	<stem>loka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>hita</headword>
+	<stem>hita_2</stem>
+	<morphids>iic</morphids>
+	<lexids>pp., ctp4</lexids>
+	<root>DA_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>ArTam</headword>
+	<stem>ArTa</stem>
+	<morphids>n2s</morphids>
+	<lexids>ctp4</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>vaqavAmuKaH</headword>
+	<stem>vaqavAmuKa</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>nAma</headword>
+	<stem>nAman</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>mahA</headword>
+	<stem>mahat</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>fziH</headword>
+	<stem>fzi</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>purA</headword>
+	<stem>purA</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>aBavat</headword>
+	<stem>BU_1</stem>
+	<morphids>ipf[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

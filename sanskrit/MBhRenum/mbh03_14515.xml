@@ -1,0 +1,58 @@
+<solution prefix='mbh03_' sentenceNo='14515' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,7,8</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>enam</headword>
+	<stem>ena</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>bruvARam</headword>
+	<stem>bruvARa</stem>
+	<morphids>n2s</morphids>
+	<lexids>ppr. [2] md.</lexids>
+	<root>brU</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>abravIt</headword>
+	<stem>brU</stem>
+	<morphids>ipf[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>rAjA</headword>
+	<stem>rAjan</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

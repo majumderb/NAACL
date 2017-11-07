@@ -1,0 +1,94 @@
+<solution prefix='mbh03_' sentenceNo='14595' solutionSH='7' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,22,24,27,29,33</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>spfSa</headword>
+	<stem>spfS_1</stem>
+	<morphids>ipv[6] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>enAm</headword>
+	<stem>ena</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>mahizIm</headword>
+	<stem>mahiza</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>sAyakena</headword>
+	<stem>sAyaka</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>tasmAt</headword>
+	<stem>tad</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>enasaH</headword>
+	<stem>enas</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>16</padanum>
+	<headword>mokzyase</headword>
+	<stem>mokz</stem>
+	<morphids>pre p2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>tvam</headword>
+	<stem>yuzmad</stem>
+	<morphids>x1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

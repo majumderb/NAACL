@@ -1,0 +1,40 @@
+<solution prefix='mbh12_' sentenceNo='26075' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,8</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tAm</headword>
+	<stem>tad</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>uvAca</headword>
+	<stem>vac</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>nahuzaH</headword>
+	<stem>nahuza</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

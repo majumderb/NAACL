@@ -1,0 +1,94 @@
+<solution prefix='mbh03_' sentenceNo='14477' solutionSH='28' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,4,6,7,8,11,19,22,27,34</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>alam</headword>
+	<stem>alam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kftvA</headword>
+	<stem>kftvA</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>tava</headword>
+	<stem>tvad</stem>
+	<morphids>x6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>Darmam</headword>
+	<stem>Darma</stem>
+	<morphids>m2s</morphids>
+	<lexids>ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>maRqUkEH</headword>
+	<stem>maRqUka</stem>
+	<morphids>m3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>kim</headword>
+	<stem>ka_1</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>hatEH</headword>
+	<stem>hata</stem>
+	<morphids>m3p</morphids>
+	<lexids>adj pp.</lexids>
+	<root>han_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>hi</headword>
+	<stem>hi_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>te</headword>
+	<stem>tvad</stem>
+	<morphids>x4s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

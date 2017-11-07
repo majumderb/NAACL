@@ -1,0 +1,130 @@
+<solution prefix='mbh03_' sentenceNo='14576' solutionSH='161' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,7,17,23,24,26,28,30,37,38</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>biBezi</headword>
+	<stem>BI_1</stem>
+	<morphids>pre[3] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>cet</headword>
+	<stem>ced</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>tvam</headword>
+	<stem>tvad</stem>
+	<morphids>x1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>DarmAt</headword>
+	<stem>Darma</stem>
+	<morphids>m5s</morphids>
+	<lexids>ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>nara</headword>
+	<stem>nara</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>indra</headword>
+	<stem>indra</stem>
+	<morphids>mvs</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>yacCa</headword>
+	<stem>yam</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>me</headword>
+	<stem>asmad</stem>
+	<morphids>x4s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>SIGram</headword>
+	<stem>SIGram</stem>
+	<morphids>i</morphids>
+	<lexids>adverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>24</padanum>
+	<headword>adya</headword>
+	<stem>adya</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>25</padanum>
+	<headword>vAmyO</headword>
+	<stem>vAmya</stem>
+	<morphids>m2d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

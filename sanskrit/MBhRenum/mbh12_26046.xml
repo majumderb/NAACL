@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='26046' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,4,7,12</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>asTiBiH</headword>
+	<stem>asTan</stem>
+	<morphids>n3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>vajram</headword>
+	<stem>vajra</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>kriyatAm</headword>
+	<stem>kf_1</stem>
+	<morphids>ipv p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

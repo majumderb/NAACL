@@ -1,0 +1,112 @@
+<solution prefix='mbh03_' sentenceNo='14572' solutionSH='40' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,4,5,6,7,15,16,24,25,26,29</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>bruvan</headword>
+	<stem>bruvat</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppr. [6] ac.</lexids>
+	<root>brU</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>yAtu</headword>
+	<stem>yAtu</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>DAnEH</headword>
+	<stem>DAna</stem>
+	<morphids>n3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>hataH</headword>
+	<stem>hata</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>han_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>jagAma</headword>
+	<stem>gam</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>ASu</headword>
+	<stem>ASu</stem>
+	<morphids>i</morphids>
+	<lexids>adverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>mahIm</headword>
+	<stem>mahI_1</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>kziti</headword>
+	<stem>kziti</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>23</padanum>
+	<headword>ISaH</headword>
+	<stem>ISa</stem>
+	<morphids>m1s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

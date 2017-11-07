@@ -1,0 +1,94 @@
+<solution prefix='mbh03_' sentenceNo='14556' solutionSH='216' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,9,18,31,35,36</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>catvAraH</headword>
+	<stem>catur</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>vA</headword>
+	<stem>vA_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>gardaBAH</headword>
+	<stem>gardaBa</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>tvAm</headword>
+	<stem>yuzmad</stem>
+	<morphids>x2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>vahantu</headword>
+	<stem>vah_1</stem>
+	<morphids>ipv[1] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>SrezWa</headword>
+	<stem>SrezWa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>aSvataryaH</headword>
+	<stem>aSvatarI</stem>
+	<morphids>f1p</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>harayaH</headword>
+	<stem>hari</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>vA</headword>
+	<stem>vA_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>24</padanum>
+	<headword>turaNgAH</headword>
+	<stem>turaNga</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

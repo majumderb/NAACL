@@ -1,0 +1,148 @@
+<solution prefix='mbh12_' sentenceNo='13947' solutionSH='112' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,4,6,12,17,19,20,27,30</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>pUrvam</headword>
+	<stem>pUrva</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>BagavatA</headword>
+	<stem>Bagavat</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>loka</headword>
+	<stem>loka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>hitam</headword>
+	<stem>hita_2</stem>
+	<morphids>n1s</morphids>
+	<lexids>pp., ctp4</lexids>
+	<root>DA_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>tizWatAH</headword>
+	<stem>tizWata</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppr. [1] ac.</lexids>
+	<root>sTa</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>anu</headword>
+	<stem>anu</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>Darma</headword>
+	<stem>Darma</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>saM</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>rakzaRa</headword>
+	<stem>rakzaRa</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root>rakz</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>arTam</headword>
+	<stem>arTa</stem>
+	<morphids>i</morphids>
+	<lexids>ctp4</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>ASramAH</headword>
+	<stem>ASrama</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>catvAraH</headword>
+	<stem>catur</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>niH</headword>
+	<stem>nir</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>dizwAH</headword>
+	<stem>dizwa</stem>
+	<morphids>m1p</morphids>
+	<lexids>pp.</lexids>
+	<root>diS_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

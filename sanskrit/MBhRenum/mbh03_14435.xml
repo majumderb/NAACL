@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14435' solutionSH='16' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,33,34,35,38</state>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>samayena</headword>
+	<stem>samaya</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>26</padanum>
+	<headword>aham</headword>
+	<stem>asmad</stem>
+	<morphids>x1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>27</padanum>
+	<headword>SakyA</headword>
+	<stem>Sakya</stem>
+	<morphids>f1s</morphids>
+	<lexids>pfp. [1]</lexids>
+	<root>Sak</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>28</padanum>
+	<headword>tvayA</headword>
+	<stem>yuzmad</stem>
+	<morphids>x3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>31</padanum>
+	<headword>labDum</headword>
+	<stem>laBDum</stem>
+	<morphids>i</morphids>
+	<lexids>inf</lexids>
+	<root>laB</root>
+	<comment></comment>
+</pada>
+
+</solution>

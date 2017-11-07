@@ -1,0 +1,40 @@
+<solution prefix='mbh01_' sentenceNo='970' solutionSH='53' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,16,18,34</state>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>kena</headword>
+	<stem>ka_1</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>asi</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>aBihataH</headword>
+	<stem>aBihata</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>han_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

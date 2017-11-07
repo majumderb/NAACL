@@ -1,0 +1,85 @@
+<solution prefix='mbh12_' sentenceNo='13939' solutionSH='4' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,3,4,5,11,13,15,16,17</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>DarmaH</headword>
+	<stem>Darma</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kati</headword>
+	<stem>kati</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>viDaH</headword>
+	<stem>viDA_2</stem>
+	<morphids>m1s</morphids>
+	<lexids>cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>vA</headword>
+	<stem>vA_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>BavAn</headword>
+	<stem>Bavat_2</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>vaktum</headword>
+	<stem>vaktum</stem>
+	<morphids>i</morphids>
+	<lexids>inf</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>arhati</headword>
+	<stem>arh</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

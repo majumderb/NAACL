@@ -1,0 +1,40 @@
+<solution prefix='mbh12_' sentenceNo='25941' solutionSH='4' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,6,12</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>eka</headword>
+	<stem>eka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>yoni</headword>
+	<stem>yoni</stem>
+	<morphids>iic</morphids>
+	<lexids>bv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>AtmakO</headword>
+	<stem>Atmaka</stem>
+	<morphids>m1d</morphids>
+	<lexids>bv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>agnIzomO</headword>
+	<stem>agnIzoma</stem>
+	<morphids>m1d</morphids>
+	<lexids>pn, cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

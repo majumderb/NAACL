@@ -1,0 +1,67 @@
+<solution prefix='mbh03_' sentenceNo='14666' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,3,4,5,8,11,12</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tasmAt</headword>
+	<stem>tad</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kalyARa</headword>
+	<stem>kalyARa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vfttaH</headword>
+	<stem>vftta</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj pp., ck</lexids>
+	<root>vft_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>syAt</headword>
+	<stem>as_1</stem>
+	<morphids>pop[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>atyantAya</headword>
+	<stem>atyanta</stem>
+	<morphids>n4s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>naraH</headword>
+	<stem>nara</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>Buvi</headword>
+	<stem>BU_2</stem>
+	<morphids>f7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

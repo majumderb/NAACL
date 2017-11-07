@@ -1,0 +1,85 @@
+<solution prefix='mbh03_' sentenceNo='14584' solutionSH='54' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,11,35,37,41,42,44,49</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>uktaH</headword>
+	<stem>ukta</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>vAmadevena</headword>
+	<stem>vAmadeva</stem>
+	<morphids>m3s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>rAjan</headword>
+	<stem>rAjan</stem>
+	<morphids>mvs</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>antaH</headword>
+	<stem>antar</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>pure</headword>
+	<stem>puram</stem>
+	<morphids>n7s</morphids>
+	<lexids>cab</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>rAja</headword>
+	<stem>rAjan</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>putram</headword>
+	<stem>putra</stem>
+	<morphids>m2s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>25</padanum>
+	<headword>jaGAna</headword>
+	<stem>han_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

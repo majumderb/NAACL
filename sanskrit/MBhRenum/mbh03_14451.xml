@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14451' solutionSH='1' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,4,9,14,16</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>vanam</headword>
+	<stem>vana</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>idam</headword>
+	<stem>ayam</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>udAram</headword>
+	<stem>udAra</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>an</headword>
+	<stem>an_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>udakam</headword>
+	<stem>udaka</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj cpt na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

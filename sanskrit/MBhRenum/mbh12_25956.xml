@@ -1,0 +1,184 @@
+<solution prefix='mbh12_' sentenceNo='25956' solutionSH='328' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,7,12,15,24,26,31,37,38,39,43,46,54,56</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kzayAt</headword>
+	<stem>kzaya</stem>
+	<morphids>m5s</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>jarAt</headword>
+	<stem>jara</stem>
+	<morphids>m5s</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>marAt</headword>
+	<stem>mara</stem>
+	<morphids>m5s</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>mUrtitaH</headword>
+	<stem>mUrtitas</stem>
+	<morphids>i</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>vyApinaH</headword>
+	<stem>vyApin</stem>
+	<morphids>m5s</morphids>
+	<lexids>adj ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>kartuH</headword>
+	<stem>kartf</stem>
+	<morphids>m5s</morphids>
+	<lexids>adj ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>SASvatAt</headword>
+	<stem>SASvata</stem>
+	<morphids>m5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>tamasaH</headword>
+	<stem>tamas</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>puruzaH</headword>
+	<stem>puruza</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>prAduH</headword>
+	<stem>prAdur</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>26</padanum>
+	<headword>BUtaH</headword>
+	<stem>BUta</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>29</padanum>
+	<headword>hariH</headword>
+	<stem>hari</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>33</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>35</padanum>
+	<headword>vyayaH</headword>
+	<stem>vyaya</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

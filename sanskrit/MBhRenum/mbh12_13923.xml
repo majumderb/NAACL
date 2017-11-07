@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='13923' solutionSH='220' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,15,36,39,48</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>pfTivI</headword>
+	<stem>pfTivI</stem>
+	<morphids>f1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>BUtAnAm</headword>
+	<stem>BUta</stem>
+	<morphids>m6p</morphids>
+	<lexids>pp., ck</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>janitrI</headword>
+	<stem>janitrI</stem>
+	<morphids>f1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>viDAH</headword>
+	<stem>viDA_2</stem>
+	<morphids>m1p</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>striyaH</headword>
+	<stem>strI</stem>
+	<morphids>f1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

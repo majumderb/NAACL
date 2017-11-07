@@ -1,0 +1,121 @@
+<solution prefix='mbh03_' sentenceNo='14547' solutionSH='20' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,14,17,19,21,23,29,34,55,58,60</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>yacCa</headword>
+	<stem>yam</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vAmyO</headword>
+	<stem>vAmya</stem>
+	<morphids>m2d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>mama</headword>
+	<stem>asmad</stem>
+	<morphids>x6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>pArTiva</headword>
+	<stem>pArTiva</stem>
+	<morphids>mvs</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>tvam</headword>
+	<stem>yuzmad</stem>
+	<morphids>x1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>kftam</headword>
+	<stem>kfta</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj pp.</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>hi</headword>
+	<stem>hi_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>te</headword>
+	<stem>tvad</stem>
+	<morphids>x6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>kAryam</headword>
+	<stem>kArya</stem>
+	<morphids>n1s</morphids>
+	<lexids>pfp. [1]</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>anyEH</headword>
+	<stem>anya</stem>
+	<morphids>n3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>24</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>25</padanum>
+	<headword>Sakyam</headword>
+	<stem>Sakya</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj pfp. [1], ctp na</lexids>
+	<root>Sak</root>
+	<comment></comment>
+</pada>
+
+</solution>

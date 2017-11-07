@@ -1,0 +1,166 @@
+<solution sentenceNo='-1' solutionSH='20' siftSolutions='y' status='inprogress' displayEncoding='deva' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,6,7,8,10,13,19,21,24,26,28,29,30,32,36</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>kroDa</headword>
+	<stem>kroDa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>loBa</headword>
+	<stem>loBa</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>moha</headword>
+	<stem>moha</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>mAna</headword>
+	<stem>mAna_1</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>an</headword>
+	<stem>an_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>fta</headword>
+	<stem>fta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp., ctp na</lexids>
+	<root>f</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>AdiBiH</headword>
+	<stem>Adi</stem>
+	<morphids>m3p</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>avat</headword>
+	<stem>ava</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>CannAH</headword>
+	<stem>Canna</stem>
+	<morphids>m1p</morphids>
+	<lexids>pp.</lexids>
+	<root>Cad_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>Kalu</headword>
+	<stem>Kalu</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>asmin</headword>
+	<stem>ayam</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>loke</headword>
+	<stem>loka</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>amutra</headword>
+	<stem>amutra</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>suKam</headword>
+	<stem>suKa</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>25</padanum>
+	<headword>Apnuvanti</headword>
+	<stem>Ap</stem>
+	<morphids>pre[5] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

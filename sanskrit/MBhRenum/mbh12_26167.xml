@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='26167' solutionSH='2' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>3,8,11,12,13,14</state>
+<pada>
+	<padanum>2</padanum>
+	<headword>himavataH</headword>
+	<stem>himavat</stem>
+	<morphids>m6s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>gireH</headword>
+	<stem>giri</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>duhitaram</headword>
+	<stem>duhitf</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>umAm</headword>
+	<stem>umA</stem>
+	<morphids>f2s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>rudraH</headword>
+	<stem>rudra</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>cakame</headword>
+	<stem>kam</stem>
+	<morphids>prf m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

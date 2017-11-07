@@ -1,0 +1,148 @@
+<solution prefix='mbh03_' sentenceNo='14648' solutionSH='48' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,4,8,16,20,35,37,41,48,49,52,53,56,64</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>etat</headword>
+	<stem>etad</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>SrutvA</headword>
+	<stem>SrutvA</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>Sru</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>kacCapaH</headword>
+	<stem>kacCapa</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>tasmAt</headword>
+	<stem>tad</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>sarasaH</headword>
+	<stem>saras</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>ut</headword>
+	<stem>ud</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>TAya</headword>
+	<stem>TAya</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>sTA_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>agacCat</headword>
+	<stem>gam</stem>
+	<morphids>ipf[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>26</padanum>
+	<headword>yatra</headword>
+	<stem>yatra</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>27</padanum>
+	<headword>tizWAmaH</headword>
+	<stem>sTA_1</stem>
+	<morphids>pre[1] a1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>30</padanum>
+	<headword>vayam</headword>
+	<stem>asmad</stem>
+	<morphids>x1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>31</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>n6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>32</padanum>
+	<headword>sarasaH</headword>
+	<stem>saras</stem>
+	<morphids>n6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>37</padanum>
+	<headword>tIre</headword>
+	<stem>tIra</stem>
+	<morphids>n7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,67 @@
+<solution prefix='mbh12_' sentenceNo='13931' solutionSH='30' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,15,26,27,42,57,59</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>hutena</headword>
+	<stem>huta</stem>
+	<morphids>n3s</morphids>
+	<lexids>pp.</lexids>
+	<root>hu</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>SAmyate</headword>
+	<stem>Sam</stem>
+	<morphids>pre p3s</morphids>
+	<lexids></lexids>
+	<root>Sam_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>pApam</headword>
+	<stem>pApa</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>sva</headword>
+	<stem>sva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>aDyAye</headword>
+	<stem>aDyAya</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>26</padanum>
+	<headword>SAntiH</headword>
+	<stem>SAnti</stem>
+	<morphids>f1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>27</padanum>
+	<headword>uttamA</headword>
+	<stem>uttama</stem>
+	<morphids>f1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

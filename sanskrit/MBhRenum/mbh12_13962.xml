@@ -1,0 +1,76 @@
+<solution prefix='mbh12_' sentenceNo='13962' solutionSH='17' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,4,8,9,13,18,19,20</state>
+<pada>
+	<padanum>2</padanum>
+	<headword>atiTiH</headword>
+	<stem>atiTi</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>yasya</headword>
+	<stem>ya_1</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>Bagna</headword>
+	<stem>Bagna</stem>
+	<morphids>iic</morphids>
+	<lexids>pp.</lexids>
+	<root>BaYj</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>ASaH</headword>
+	<stem>ASa_1</stem>
+	<morphids>m1s</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>gfhAt</headword>
+	<stem>gfha</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>prati</headword>
+	<stem>prati</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>ni</headword>
+	<stem>ni</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>vartate</headword>
+	<stem>vft_1</stem>
+	<morphids>pre[1] m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

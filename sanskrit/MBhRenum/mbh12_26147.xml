@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='26147' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,4,9,22,24,28</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>paScimasyAm</headword>
+	<stem>paScima</stem>
+	<morphids>f7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>diSi</headword>
+	<stem>diS_2</stem>
+	<morphids>f7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>samudre</headword>
+	<stem>samudra_2</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>hiraRya</headword>
+	<stem>hiraRya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>saraH</headword>
+	<stem>saras</stem>
+	<morphids>iic</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>tIrTam</headword>
+	<stem>tIrTa</stem>
+	<morphids>n1s</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

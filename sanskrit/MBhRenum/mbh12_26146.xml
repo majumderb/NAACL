@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='26146' solutionSH='15' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,5,11,16</state>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>tatra</headword>
+	<stem>tatra</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>fzayaH</headword>
+	<stem>fzi</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>somam</headword>
+	<stem>soma</stem>
+	<morphids>m2s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>abruvan</headword>
+	<stem>brU</stem>
+	<morphids>ipf[2] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>kzIyase</headword>
+	<stem>kzI</stem>
+	<morphids>pre p2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>yakzmaRA</headword>
+	<stem>yakzman</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

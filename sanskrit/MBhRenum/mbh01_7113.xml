@@ -1,0 +1,22 @@
+<solution prefix='mbh01_' sentenceNo='7113' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,8</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>dakzasya</headword>
+	<stem>dakza</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>aditiH</headword>
+	<stem>aditi</stem>
+	<morphids>f1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

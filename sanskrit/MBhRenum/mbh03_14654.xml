@@ -1,0 +1,94 @@
+<solution prefix='mbh03_' sentenceNo='14654' solutionSH='120' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,4,6,7,11,26,41,42,43,47</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>saraH</headword>
+	<stem>saras</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>idam</headword>
+	<stem>idam</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>asya</headword>
+	<stem>idam</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>dakziRA</headword>
+	<stem>dakziRA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>dattABiH</headword>
+	<stem>dattA</stem>
+	<morphids>f3p</morphids>
+	<lexids>adj pp., ctp3</lexids>
+	<root>dA_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>25</padanum>
+	<headword>goBiH</headword>
+	<stem>go</stem>
+	<morphids>f3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>26</padanum>
+	<headword>ati</headword>
+	<stem>ati</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>27</padanum>
+	<headword>kramamARABiH</headword>
+	<stem>kramamARA</stem>
+	<morphids>f3p</morphids>
+	<lexids>adj ppr. [1] md., ctp prAdi</lexids>
+	<root>kram</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>30</padanum>
+	<headword>kftam</headword>
+	<stem>kfta</stem>
+	<morphids>n1s</morphids>
+	<lexids>pp.</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

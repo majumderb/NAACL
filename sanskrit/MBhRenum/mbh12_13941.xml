@@ -1,0 +1,67 @@
+<solution prefix='mbh12_' sentenceNo='13941' solutionSH='6' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,5,20,24,29,33</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sva</headword>
+	<stem>sva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>Darma</headword>
+	<stem>Darma</stem>
+	<morphids>iic</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>caraRe</headword>
+	<stem>caraRa</stem>
+	<morphids>n7s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>yuktAH</headword>
+	<stem>yukta</stem>
+	<morphids>m1p</morphids>
+	<lexids>pp.</lexids>
+	<root>yuj_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>ye</headword>
+	<stem>ya_1</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>Bavanti</headword>
+	<stem>BU_1</stem>
+	<morphids>pre[1] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>manIziRaH</headword>
+	<stem>manIzin</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

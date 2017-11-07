@@ -1,0 +1,22 @@
+<solution prefix='mbh12_' sentenceNo='13943' solutionSH='32' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,4,7,38,39</state>
+<pada>
+	<padanum>5</padanum>
+	<headword>BaradvAjaH</headword>
+	<stem>BaradvAja</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>uvAca</headword>
+	<stem>vac</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

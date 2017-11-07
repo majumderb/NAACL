@@ -1,0 +1,76 @@
+<solution prefix='mbh12_' sentenceNo='26064' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,5,9</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>an</headword>
+	<stem>an_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>indrAH</headword>
+	<stem>indra</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>balAH</headword>
+	<stem>bala</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>lokAH</headword>
+	<stem>loka</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>supraDfzyAH</headword>
+	<stem>supraDfzyA</stem>
+	<morphids>m1p</morphids>
+	<lexids>ctp prAdi</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>baBIvuH</headword>
+	<stem>BU</stem>
+	<morphids>prf a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

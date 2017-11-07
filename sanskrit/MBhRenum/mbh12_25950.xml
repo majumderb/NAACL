@@ -1,0 +1,85 @@
+<solution prefix='mbh12_' sentenceNo='25950' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,6,12,13,16,27</state>
+<pada>
+	<padanum></padanum>
+	<headword>saM</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>1</padanum>
+	<headword>prakzAlana</headword>
+	<stem>prakzAlana</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>kAle</headword>
+	<stem>kAla</stem>
+	<morphids>n7s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>ati</headword>
+	<stem>ati</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>krAnte</headword>
+	<stem>krAnta</stem>
+	<morphids>n7s</morphids>
+	<lexids>pp.</lexids>
+	<root>kram</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>caturTe</headword>
+	<stem>caturTa</stem>
+	<morphids>n7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>yuga</headword>
+	<stem>yuga</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>sahasra</headword>
+	<stem>sahasra</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>Ante</headword>
+	<stem>Anta</stem>
+	<morphids>n7s</morphids>
+	<lexids>pp., ctp6</lexids>
+	<root>am</root>
+	<comment></comment>
+</pada>
+
+</solution>

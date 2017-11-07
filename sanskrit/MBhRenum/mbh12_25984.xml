@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='25984' solutionSH='21' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,6,7,13</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>yajYAH</headword>
+	<stem>yajYa</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>devAn</headword>
+	<stem>deva</stem>
+	<morphids>m2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>tarpayanti</headword>
+	<stem>tfp_1</stem>
+	<morphids>cau pre a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>devAH</headword>
+	<stem>deva</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>pfTivIm</headword>
+	<stem>pfTivI</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>BAvayanti</headword>
+	<stem>BU_1</stem>
+	<morphids>cau pre a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

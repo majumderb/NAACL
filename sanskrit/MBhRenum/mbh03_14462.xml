@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14462' solutionSH='9' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,7,14</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tAm</headword>
+	<stem>tad</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>mfgayamARaH</headword>
+	<stem>mfgayamARa</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj ppr. [10] md.</lexids>
+	<root>mfg</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>rAjA</headword>
+	<stem>rAjan</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>apaSyat</headword>
+	<stem>paS</stem>
+	<morphids>ipf[4] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

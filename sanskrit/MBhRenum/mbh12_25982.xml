@@ -1,0 +1,85 @@
+<solution prefix='mbh12_' sentenceNo='25982' solutionSH='53' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,5,18,49,50,53,63</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>brAhmaRasya</headword>
+	<stem>brAhmaRa</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>hi</headword>
+	<stem>hi_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>yAjanam</headword>
+	<stem>yAjana</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>DIyate</headword>
+	<stem>DI_1</stem>
+	<morphids>pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>kzatra</headword>
+	<stem>kzatra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>23</padanum>
+	<headword>vESyayoH</headword>
+	<stem>vESya</stem>
+	<morphids>m6d</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>26</padanum>
+	<headword>dvijAtyoH</headword>
+	<stem>dvijati</stem>
+	<morphids>m6d</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,58 @@
+<solution prefix='mbh03_' sentenceNo='14650' solutionSH='22' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,4,8,18,19,20</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>BavAn</headword>
+	<stem>Bavat_2</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>indradyumnam</headword>
+	<stem>indradyumna</stem>
+	<morphids>m2s</morphids>
+	<lexids>adj pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>rAjAnam</headword>
+	<stem>rAjan</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>jAnAti</headword>
+	<stem>jYA_1</stem>
+	<morphids>pre[9] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

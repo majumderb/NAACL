@@ -1,0 +1,85 @@
+<solution prefix='mbh03_' sentenceNo='14641' solutionSH='199' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,7,8,11,18,22,45,64</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>asti</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>kaH</headword>
+	<stem>ka_1</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>cit</headword>
+	<stem>cid_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>anyaH</headword>
+	<stem>anya</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>BavataH</headword>
+	<stem>Bavat_2</stem>
+	<morphids>m5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>cira</headword>
+	<stem>cira</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>jAta</headword>
+	<stem>jAta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp., ck</lexids>
+	<root>jan</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>24</padanum>
+	<headword>taraH</headword>
+	<stem>tara</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>30</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

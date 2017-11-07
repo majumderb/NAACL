@@ -1,0 +1,76 @@
+<solution prefix='mbh12_' sentenceNo='13968' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,6,8,11,12,13,15</state>
+<pada>
+	<padanum>2</padanum>
+	<headword>parivAda</headword>
+	<stem>vAda</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>upa</headword>
+	<stem>upa</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>GAtO</headword>
+	<stem>GAta</stem>
+	<morphids>m1d</morphids>
+	<lexids>cdvigu</lexids>
+	<root>han</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>pAruzyam</headword>
+	<stem>pAruzya</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>atra</headword>
+	<stem>atra_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>garhitam</headword>
+	<stem>garhita</stem>
+	<morphids>n1s</morphids>
+	<lexids>pp.</lexids>
+	<root>garh</root>
+	<comment></comment>
+</pada>
+
+</solution>

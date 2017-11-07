@@ -1,0 +1,85 @@
+<solution prefix='mbh01_' sentenceNo='966' solutionSH='156' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,3,6,8,12,15,47</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tezu</headword>
+	<stem>tad</stem>
+	<morphids>m7p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>satram</headword>
+	<stem>satra</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>upAsInezu</headword>
+	<stem>upAsIna</stem>
+	<morphids>m7p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>tatra</headword>
+	<stem>tatra</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>SvA</headword>
+	<stem>Svan_1</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>aBI</headword>
+	<stem>aBi</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>agacCat</headword>
+	<stem>gam</stem>
+	<morphids>ipf[1] a3s</morphids>
+	<lexids></lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>33</padanum>
+	<headword>sArameyaH</headword>
+	<stem>sArameya</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

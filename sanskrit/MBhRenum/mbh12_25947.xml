@@ -1,0 +1,31 @@
+<solution prefix='mbh12_' sentenceNo='25947' solutionSH='2' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,4,9</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>SrI</headword>
+	<stem>SrI</stem>
+	<morphids>iic</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>BagavAn</headword>
+	<stem>Bagavat</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>uvAca</headword>
+	<stem>vac</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

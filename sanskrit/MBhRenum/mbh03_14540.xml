@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14540' solutionSH='8' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,6,8,12</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>an</headword>
+	<stem>an_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>arhAH</headword>
+	<stem>arha</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>brAhmaRAH</headword>
+	<stem>brAhmaRa</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>ratnAnAm</headword>
+	<stem>ratna</stem>
+	<morphids>n6p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>evaMviDAnAm</headword>
+	<stem>evaMviDa</stem>
+	<morphids>n6p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

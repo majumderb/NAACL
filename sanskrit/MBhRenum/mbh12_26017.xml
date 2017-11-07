@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='26017' solutionSH='1' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,13,16,25</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tata_2</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>devAH</headword>
+	<stem>deva</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>varDante</headword>
+	<stem>vfD_1</stem>
+	<morphids>pre[1] m3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>vayam</headword>
+	<stem>aham</stem>
+	<morphids>x1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>kzIyAmaH</headword>
+	<stem>kzI</stem>
+	<morphids>pre[4] a1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

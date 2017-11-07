@@ -1,0 +1,94 @@
+<solution prefix='mbh12_' sentenceNo='25952' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>4,7,11,13,15,21</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>jyotir</headword>
+	<stem>jyotir</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>DaraRi</headword>
+	<stem>DaraRi</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>vAyu</headword>
+	<stem>vAyu</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>rahite</headword>
+	<stem>rahit</stem>
+	<morphids>n7s</morphids>
+	<lexids>ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>anDe</headword>
+	<stem>anDa</stem>
+	<morphids>n7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>tamasi</headword>
+	<stem>tamas</stem>
+	<morphids>n7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>jala</headword>
+	<stem>jala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>eka</headword>
+	<stem>eka</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>arRave</headword>
+	<stem>arRava</stem>
+	<morphids>m7s</morphids>
+	<lexids>cdvigu</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>loke</headword>
+	<stem>loka</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,58 @@
+<solution prefix='mbh03_' sentenceNo='14422' solutionSH='29' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>11,18,26,29,31,32</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>SayAnaH</headword>
+	<stem>SayAna</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppr. [2] md.</lexids>
+	<root>SI_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>maDuram</headword>
+	<stem>maDura</stem>
+	<morphids>m2s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>gIta</headword>
+	<stem>gIta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp.</lexids>
+	<root>gA_2</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>Sabdam</headword>
+	<stem>Sabda</stem>
+	<morphids>m2s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>aSfRot</headword>
+	<stem>Sru</stem>
+	<morphids>ipf[5] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

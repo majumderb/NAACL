@@ -1,0 +1,76 @@
+<solution prefix='mbh03_' sentenceNo='14550' solutionSH='1' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,4,5,8,10,11,15,33</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>anaqvAhO</headword>
+	<stem>anaquh</stem>
+	<morphids>m1d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>suvratO</headword>
+	<stem>suvrata</stem>
+	<morphids>m1d</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>sADu</headword>
+	<stem>sADu</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>dAntO</headword>
+	<stem>dAnta</stem>
+	<morphids>m1d</morphids>
+	<lexids>adj pp.</lexids>
+	<root>dam_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>etat</headword>
+	<stem>etad</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>viprARAm</headword>
+	<stem>vipra</stem>
+	<morphids>m6p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>vAhanam</headword>
+	<stem>vAhana</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>vAmadeva</headword>
+	<stem>vAmadeva</stem>
+	<morphids>mvs</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

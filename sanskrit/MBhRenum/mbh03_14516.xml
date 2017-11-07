@@ -1,0 +1,40 @@
+<solution prefix='mbh03_' sentenceNo='14516' solutionSH='3' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,21,33,41,45</state>
+<pada>
+	<padanum>13</padanum>
+	<headword>vAmadeva</headword>
+	<stem>vAmadeva</stem>
+	<morphids>iic</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>ASramam</headword>
+	<stem>ASrama</stem>
+	<morphids>m2s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>25</padanum>
+	<headword>yAhi</headword>
+	<stem>yA_1</stem>
+	<morphids>ipv[2] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>28</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

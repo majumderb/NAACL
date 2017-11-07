@@ -1,0 +1,67 @@
+<solution prefix='mbh03_' sentenceNo='14533' solutionSH='64' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>4,7,10,22,25,26</state>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>manasA</headword>
+	<stem>manas</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>niS</headword>
+	<stem>nis</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>citya</headword>
+	<stem>citya</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>ci</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>mAsi</headword>
+	<stem>mAs</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>pUrRe</headword>
+	<stem>pUrRa</stem>
+	<morphids>m7s</morphids>
+	<lexids>adj pp.</lexids>
+	<root>pF</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>Sizyam</headword>
+	<stem>Sizya</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root>SAs</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>abravIt</headword>
+	<stem>brU</stem>
+	<morphids>ipf[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

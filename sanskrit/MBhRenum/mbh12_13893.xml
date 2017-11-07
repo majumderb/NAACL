@@ -1,0 +1,67 @@
+<solution prefix='mbh12_' sentenceNo='13893' solutionSH='10' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,3,4,5,7,9,11</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>rAhu</headword>
+	<stem>rAhu</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>grastasya</headword>
+	<stem>grasta</stem>
+	<morphids>m6s</morphids>
+	<lexids>pp., ctp3</lexids>
+	<root>gras</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>somasya</headword>
+	<stem>soma</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>yaTA</headword>
+	<stem>yaTA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>jyotsnAH</headword>
+	<stem>jyotsnA</stem>
+	<morphids>f1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>BAsate</headword>
+	<stem>BAs_1</stem>
+	<morphids>pre[1] m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

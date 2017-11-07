@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14531' solutionSH='3' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,3,4,7</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>me</headword>
+	<stem>asmad</stem>
+	<morphids>x4s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>prati</headword>
+	<stem>prati</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>nir</headword>
+	<stem>nir</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>yAtayati</headword>
+	<stem>yat</stem>
+	<morphids>cau pre a3s</morphids>
+	<lexids></lexids>
+	<root>yat_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,76 @@
+<solution prefix='mbh12_' sentenceNo='25987' solutionSH='121' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,7,12,15,23,29</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>agni</headword>
+	<stem>agni</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>BUtAH</headword>
+	<stem>BUta</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj pp., ck</lexids>
+	<root>BU</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>brAhmaRAH</headword>
+	<stem>brAhmaRa</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>vidvAMsaH</headword>
+	<stem>vidvas</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppf. ac.</lexids>
+	<root>vid_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>agnim</headword>
+	<stem>agni</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>BAvayanti</headword>
+	<stem>BU_1</stem>
+	<morphids>cau pre a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

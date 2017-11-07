@@ -1,0 +1,157 @@
+<solution prefix='mbh12_' sentenceNo='26016' solutionSH='364' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,9,11,12,13,14,15,16,19,29,32,35,42,47,54,66,67</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>he</headword>
+	<stem>he</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>svasaH</headword>
+	<stem>svasf</stem>
+	<morphids>fvs</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>ayam</headword>
+	<stem>ayam</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>te</headword>
+	<stem>tvad</stem>
+	<morphids>x6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>putraH</headword>
+	<stem>putra</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>tvAzwraH</headword>
+	<stem>tvAzwra</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>viSvarUpaH</headword>
+	<stem>viSvarUpa</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>triSirAH</headword>
+	<stem>triSiras</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>devAnAm</headword>
+	<stem>deva</stem>
+	<morphids>m6p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>puraH</headword>
+	<stem>puras</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>hitaH</headword>
+	<stem>hita_2</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj pp.</lexids>
+	<root>DA_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>pratyakzam</headword>
+	<stem>pratyakzam</stem>
+	<morphids>i</morphids>
+	<lexids>adverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>25</padanum>
+	<headword>deveByaH</headword>
+	<stem>deva</stem>
+	<morphids>m5p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>27</padanum>
+	<headword>BAgam</headword>
+	<stem>BAga</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>32</padanum>
+	<headword>adadat</headword>
+	<stem>dA_1</stem>
+	<morphids>ipf[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>36</padanum>
+	<headword>parokzam</headword>
+	<stem>parokzam</stem>
+	<morphids>i</morphids>
+	<lexids>adverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>37</padanum>
+	<headword>asmAkam</headword>
+	<stem>aham</stem>
+	<morphids>x6p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

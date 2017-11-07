@@ -1,0 +1,67 @@
+<solution prefix='mbh12_' sentenceNo='13967' solutionSH='59' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,4,17,29,30,36,38</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>vatsalAH</headword>
+	<stem>vatsala</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>BUtAnAm</headword>
+	<stem>BUta</stem>
+	<morphids>m6p</morphids>
+	<lexids>pp., ck</lexids>
+	<root>vA_3</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>vAcyAH</headword>
+	<stem>vAcya</stem>
+	<morphids>m1p</morphids>
+	<lexids>ca. pfp. [1]</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>Srotra</headword>
+	<stem>Srotra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>suKAH</headword>
+	<stem>suKa</stem>
+	<morphids>f1p</morphids>
+	<lexids>adj ctp4</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>giraH</headword>
+	<stem>gir</stem>
+	<morphids>f1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

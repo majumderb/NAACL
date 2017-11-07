@@ -1,0 +1,157 @@
+<solution prefix='mbh12_' sentenceNo='26128' solutionSH='261' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,6,7,8,9,10,11,13,14,17,21,53</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>AkASa</headword>
+	<stem>AkASa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>gaNgA</headword>
+	<stem>gaNgA</stem>
+	<morphids>iic</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>gataH</headword>
+	<stem>gata</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj pp., ctp2</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>purA</headword>
+	<stem>pur</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>BaradvAjaH</headword>
+	<stem>BaradvAja</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>mahA</headword>
+	<stem>mahat</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>fziH</headword>
+	<stem>fzi</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>upa</headword>
+	<stem>upa</stem>
+	<morphids>i</morphids>
+	<lexids>pv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>aspfSan</headword>
+	<stem>spfS_1</stem>
+	<morphids>ipf[6] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>trIn</headword>
+	<stem>tri</stem>
+	<morphids>m2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>16</padanum>
+	<headword>kramAn</headword>
+	<stem>krama</stem>
+	<morphids>m2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>kramatA</headword>
+	<stem>kramat</stem>
+	<morphids>m3s</morphids>
+	<lexids>adj ppr. [1] ac.</lexids>
+	<root>kram</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>vizRunA</headword>
+	<stem>vizRu</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>32</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>37</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>42</padanum>
+	<headword>sAditaH</headword>
+	<stem>sAdita</stem>
+	<morphids>m1s</morphids>
+	<lexids>ca. pp.</lexids>
+	<root>sad_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

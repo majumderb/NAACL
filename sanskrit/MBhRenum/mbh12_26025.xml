@@ -1,0 +1,67 @@
+<solution prefix='mbh12_' sentenceNo='26025' solutionSH='9' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,4,14,15,17,19</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>SApa</headword>
+	<stem>SApa</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>dAnAt</headword>
+	<stem>dAna</stem>
+	<morphids>n5s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>hiraRyakaSipuH</headword>
+	<stem>hiraRyakaSipu</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>AptavAn</headword>
+	<stem>Aptavat</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppa.</lexids>
+	<root>Ap</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>vaDam</headword>
+	<stem>vaDa</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

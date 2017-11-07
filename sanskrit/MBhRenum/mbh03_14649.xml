@@ -1,0 +1,58 @@
+<solution prefix='mbh03_' sentenceNo='14649' solutionSH='6' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,4,5,6,9</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>gatam</headword>
+	<stem>gata</stem>
+	<morphids>m2s</morphids>
+	<lexids>pp.</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>enam</headword>
+	<stem>ena</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>vayam</headword>
+	<stem>asmad</stem>
+	<morphids>x1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>apfcCAma</headword>
+	<stem>praS</stem>
+	<morphids>ipf[6] a1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

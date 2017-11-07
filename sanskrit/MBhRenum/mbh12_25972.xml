@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='25972' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,14,20</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>hitaH</headword>
+	<stem>hita_2</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>DA_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>deveBiH</headword>
+	<stem></stem>
+	<morphids></morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>mAnuze</headword>
+	<stem>mAnuza</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>jane</headword>
+	<stem>jana</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

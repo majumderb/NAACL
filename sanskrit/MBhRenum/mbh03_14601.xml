@@ -1,0 +1,103 @@
+<solution prefix='mbh03_' sentenceNo='14601' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,5,7,9,21,25,27,35</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tvayA</headword>
+	<stem>yuzmad</stem>
+	<morphids>x3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>trAtam</headword>
+	<stem>trAta</stem>
+	<morphids>n2s</morphids>
+	<lexids>pp.</lexids>
+	<root>trE</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>rAja</headword>
+	<stem>rAjan</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>kulam</headword>
+	<stem>kula</stem>
+	<morphids>n2s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>SuBa</headword>
+	<stem>SuBa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>IkzaRe</headword>
+	<stem>IkzaRA</stem>
+	<morphids>fvs</morphids>
+	<lexids>cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>varam</headword>
+	<stem>vara_2</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>vfRIzva</headword>
+	<stem>vfR</stem>
+	<morphids>ipv[9] m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>apratimam</headword>
+	<stem>apratima</stem>
+	<morphids>n2s</morphids>
+	<lexids>ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>dadAni</headword>
+	<stem>dA_1</stem>
+	<morphids>ipv[3] a1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>te</headword>
+	<stem>yuzmad</stem>
+	<morphids>x4s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

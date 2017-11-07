@@ -1,0 +1,139 @@
+<solution prefix='mbh12_' sentenceNo='26135' solutionSH='58' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,5,6,7,8,10,11,18,42,48,54,58,59,63,69,75,76</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>BikzA</headword>
+	<stem>BikzA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>pratyAKyAna</headword>
+	<stem>pratyAKyAna</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>ruzitena</headword>
+	<stem>ruzita</stem>
+	<morphids>m3s</morphids>
+	<lexids>adj pp., ctp3</lexids>
+	<root>ruz</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>buDena</headword>
+	<stem>buDa</stem>
+	<morphids>m3s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>brahma</headword>
+	<stem>brahman</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>BUtena</headword>
+	<stem>BUta</stem>
+	<morphids>m3s</morphids>
+	<lexids>adj pp., ck</lexids>
+	<root>BU</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>vivasvataH</headword>
+	<stem>vivasvat</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>dvitIye</headword>
+	<stem>dvitIya</stem>
+	<morphids>n7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>24</padanum>
+	<headword>janmanI</headword>
+	<stem>janman</stem>
+	<morphids>n7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>27</padanum>
+	<headword>aRqa</headword>
+	<stem>aRqa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>28</padanum>
+	<headword>saYjYitasya</headword>
+	<stem>saYjYita</stem>
+	<morphids>m6s</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>31</padanum>
+	<headword>aRqam</headword>
+	<stem>aRqa</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>33</padanum>
+	<headword>mAritam</headword>
+	<stem>mArita</stem>
+	<morphids>m2s</morphids>
+	<lexids>ca. pp.</lexids>
+	<root>mf</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>37</padanum>
+	<headword>adityAH</headword>
+	<stem>aditi</stem>
+	<morphids>f6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

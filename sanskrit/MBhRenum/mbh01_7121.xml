@@ -1,0 +1,40 @@
+<solution prefix='mbh01_' sentenceNo='7121' solutionSH='10' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,6,12,51</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>yayAteH</headword>
+	<stem>yayAti</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>dve</headword>
+	<stem>dva</stem>
+	<morphids>f1d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>BArye</headword>
+	<stem>BArya</stem>
+	<morphids>f1d</morphids>
+	<lexids>pfp. [1]</lexids>
+	<root>Bf</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>baBUvatuH</headword>
+	<stem>BU_1</stem>
+	<morphids>prf a3d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

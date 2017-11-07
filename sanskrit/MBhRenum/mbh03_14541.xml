@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14541' solutionSH='46' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,3,5,8,16</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>kim</headword>
+	<stem>ka_1</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>brAhmaRAnAm</headword>
+	<stem>brAhmaRa</stem>
+	<morphids>m6p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>aSvEH</headword>
+	<stem>aSva</stem>
+	<morphids>m3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>kAryam</headword>
+	<stem>kArya</stem>
+	<morphids>n1s</morphids>
+	<lexids>pfp. [1]</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,103 @@
+<solution prefix='mbh03_' sentenceNo='14426' solutionSH='218' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,8,21,22,34,38,42,44,45,46,47</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>apaSyat</headword>
+	<stem>paS</stem>
+	<morphids>ipf[4] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>kanyAm</headword>
+	<stem>kanya</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>parama</headword>
+	<stem>parama</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>23</padanum>
+	<headword>rUpa</headword>
+	<stem>rUpa</stem>
+	<morphids>iic</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>27</padanum>
+	<headword>darSanIyAm</headword>
+	<stem>darSanIya</stem>
+	<morphids>f2s</morphids>
+	<lexids>pfp. [2], adj cab</lexids>
+	<root>dfS_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>30</padanum>
+	<headword>puzpARi</headword>
+	<stem>puzpa</stem>
+	<morphids>n2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>31</padanum>
+	<headword>ava</headword>
+	<stem>ava</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>32</padanum>
+	<headword>cinvatIm</headword>
+	<stem>cinvat</stem>
+	<morphids>f2s</morphids>
+	<lexids>adj ppr. [5] ac.</lexids>
+	<root>ci</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>33</padanum>
+	<headword>gAyantIm</headword>
+	<stem>gAyat</stem>
+	<morphids>f2s</morphids>
+	<lexids>adj ppr. [1] ac.</lexids>
+	<root>gA_2</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>34</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

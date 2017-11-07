@@ -1,0 +1,22 @@
+<solution prefix='mbh03_' sentenceNo='14471' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>prasAdam</headword>
+	<stem>prasAda</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>kuru</headword>
+	<stem>kf_1</stem>
+	<morphids>ipv[8] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,85 @@
+<solution prefix='mbh12_' sentenceNo='26093' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,5,6,7,9</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tAm</headword>
+	<stem>tad</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>indraH</headword>
+	<stem>indra</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>patnIm</headword>
+	<stem>patnI</stem>
+	<morphids>f2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>kfSAm</headword>
+	<stem>kfSa</stem>
+	<morphids>f2s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>glAnAm</headword>
+	<stem>glAna</stem>
+	<morphids>f2s</morphids>
+	<lexids>adj pp.</lexids>
+	<root>glE</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>dfzwvA</headword>
+	<stem>dfzwvA</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>dfS_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>cintayAm</headword>
+	<stem>cintayAm</stem>
+	<morphids>i</morphids>
+	<lexids>ppf actn</lexids>
+	<root>cint</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>baBUva</headword>
+	<stem>BU_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='13953' solutionSH='3' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,6,9,11</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>gArhasTyam</headword>
+	<stem>gArhasTya</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>Kalu</headword>
+	<stem>Kalu</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>dvitIyam</headword>
+	<stem>dvitIya</stem>
+	<morphids>n2s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>ASramam</headword>
+	<stem>ASrama</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>vadanti</headword>
+	<stem>vad</stem>
+	<morphids>pre[1] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

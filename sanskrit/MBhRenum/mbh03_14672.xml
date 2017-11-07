@@ -1,0 +1,40 @@
+<solution prefix='mbh03_' sentenceNo='14672' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,7</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>pARqavAH</headword>
+	<stem>pARqava</stem>
+	<morphids>m1p</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>UcuH</headword>
+	<stem>uc</stem>
+	<morphids>prf a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>prItAH</headword>
+	<stem>prIta</stem>
+	<morphids>m1p</morphids>
+	<lexids>pp.</lexids>
+	<root>prI</root>
+	<comment></comment>
+</pada>
+
+</solution>

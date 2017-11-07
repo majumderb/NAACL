@@ -1,0 +1,22 @@
+<solution prefix='mbh03_' sentenceNo='14660' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>kIrtimAn</headword>
+	<stem>kIrtimat</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>asi</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

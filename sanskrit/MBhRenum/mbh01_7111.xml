@@ -1,0 +1,67 @@
+<solution prefix='mbh01_' sentenceNo='7111' solutionSH='114' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,7,9,12,24</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>SfRu</headword>
+	<stem>Sru</stem>
+	<morphids>ipv[5] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>rAjan</headword>
+	<stem>rAjan</stem>
+	<morphids>mVs</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>purA</headword>
+	<stem>purA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>samyak</headword>
+	<stem>samyak</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>mayA</headword>
+	<stem>aham</stem>
+	<morphids>x3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>dvEpAyanAt</headword>
+	<stem>dvEpAyana_2</stem>
+	<morphids>n5s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>16</padanum>
+	<headword>Srutam</headword>
+	<stem>Sruta</stem>
+	<morphids>n1s</morphids>
+	<lexids>pp.</lexids>
+	<root>Sru</root>
+	<comment></comment>
+</pada>
+
+</solution>

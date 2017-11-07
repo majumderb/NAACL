@@ -1,0 +1,22 @@
+<solution prefix='mbh03_' sentenceNo='14534' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>gacCa</headword>
+	<stem>gam</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>Atreya</headword>
+	<stem>Atreya</stem>
+	<morphids>mvs</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

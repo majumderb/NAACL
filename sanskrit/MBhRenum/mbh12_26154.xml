@@ -1,0 +1,103 @@
+<solution prefix='mbh12_' sentenceNo='26154' solutionSH='23' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,6,9,12,15</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>pOrRa</headword>
+	<stem>pOrRa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>mAsI</headword>
+	<stem>mAsI</stem>
+	<morphids>iic</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>mAtre</headword>
+	<stem>mAtra</stem>
+	<morphids>n7s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>aDi</headword>
+	<stem>aDi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>sTitaH</headword>
+	<stem>sTita</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>sTA_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>meGa</headword>
+	<stem>meGa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>leKA</headword>
+	<stem>leKA</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>prati</headword>
+	<stem>prati</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>Cannam</headword>
+	<stem>Canna</stem>
+	<morphids>n2s</morphids>
+	<lexids>adj pp. ctp3</lexids>
+	<root>Cad_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>vapuH</headword>
+	<stem>vapus</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>darSayati</headword>
+	<stem>dfS_1</stem>
+	<morphids>cau pre a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

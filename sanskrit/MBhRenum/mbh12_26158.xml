@@ -1,0 +1,103 @@
+<solution prefix='mbh12_' sentenceNo='26158' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,6,7,8,9,19,46,47,52</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>tapasA</headword>
+	<stem>tapas_1</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>tApita</headword>
+	<stem>tApita</stem>
+	<morphids>iic</morphids>
+	<lexids>ca. pp.</lexids>
+	<root>tap</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>SarIraH</headword>
+	<stem>SarIra</stem>
+	<morphids>m1s</morphids>
+	<lexids>cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>kfSaH</headword>
+	<stem>kfSa</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>vAyunA</headword>
+	<stem>vAyu</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>upa</headword>
+	<stem>uoa</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>vIjyamAnaH</headword>
+	<stem>vIjyamAna</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppr. ps.</lexids>
+	<root>vIj</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>33</padanum>
+	<headword>hfdaya</headword>
+	<stem>hfdaya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>34</padanum>
+	<headword>paritozam</headword>
+	<stem>paritoza</stem>
+	<morphids>m2s</morphids>
+	<lexids>ctp7</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>38</padanum>
+	<headword>agamat</headword>
+	<stem>gam</stem>
+	<morphids>aor[a] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

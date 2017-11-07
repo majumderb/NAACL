@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='26104' solutionSH='4' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,4,16,17,18</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tvam</headword>
+	<stem>tvad</stem>
+	<morphids>x1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>anyena</headword>
+	<stem>anya</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>upa</headword>
+	<stem>upa</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>yAtum</headword>
+	<stem>yAtum</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>yA_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>arhasi</headword>
+	<stem>arh</stem>
+	<morphids>pre[1] a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

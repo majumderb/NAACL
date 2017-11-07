@@ -1,0 +1,22 @@
+<solution prefix='mbh01_' sentenceNo='7117' solutionSH='2' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,15</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>ilAyAH</headword>
+	<stem>ilA</stem>
+	<morphids>f6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>purUravAH</headword>
+	<stem>purUrava</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

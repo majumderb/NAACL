@@ -1,0 +1,121 @@
+<solution prefix='mbh03_' sentenceNo='14563' solutionSH='384' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,8,13,15,20,21,30,34,35,37,40</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>te</headword>
+	<stem>tad</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tvAm</headword>
+	<stem>yuzmad</stem>
+	<morphids>x2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>sa</headword>
+	<stem>sa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>Sizyam</headword>
+	<stem>Sizya</stem>
+	<morphids>m2s</morphids>
+	<lexids>adj cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>iha</headword>
+	<stem>iha</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>pAtayantu</headword>
+	<stem>pat_1</stem>
+	<morphids>cau ipv a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>mat</headword>
+	<stem>asmad</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>vAkya</headword>
+	<stem>vAkya</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>nunnAH</headword>
+	<stem>nunna</stem>
+	<morphids>m1p</morphids>
+	<lexids>pp., ctp3</lexids>
+	<root>nud</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>Sita</headword>
+	<stem>Sita</stem>
+	<morphids>iic</morphids>
+	<lexids>pp.</lexids>
+	<root>SA</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>SUla</headword>
+	<stem>SUla</stem>
+	<morphids>iic</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>24</padanum>
+	<headword>asi</headword>
+	<stem>asi</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>27</padanum>
+	<headword>hastAH</headword>
+	<stem>hasta</stem>
+	<morphids>m1p</morphids>
+	<lexids>cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

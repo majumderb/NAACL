@@ -1,0 +1,22 @@
+<solution prefix='mbh01_' sentenceNo='7114' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,4</state>
+<pada>
+	<padanum>2</padanum>
+	<headword>aditeH</headword>
+	<stem>aditi</stem>
+	<morphids>f6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vivasvAn</headword>
+	<stem>vivasvat</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,76 @@
+<solution prefix='mbh12_' sentenceNo='25951' solutionSH='80' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>15,25,29,30,42</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>akte</headword>
+	<stem>akta</stem>
+	<morphids>n7s</morphids>
+	<lexids>pp., ctp na</lexids>
+	<root>aYj</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>BUta</headword>
+	<stem>BUta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp., ck</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>pralaye</headword>
+	<stem>pralaya</stem>
+	<morphids>m7s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>sTAvara</headword>
+	<stem>sTAvara</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>jaNgame</headword>
+	<stem>jaNgama</stem>
+	<morphids>n7s</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

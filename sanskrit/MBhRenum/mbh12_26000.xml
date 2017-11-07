@@ -1,0 +1,238 @@
+<solution prefix='mbh12_' sentenceNo='26000' solutionSH='376' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,9,13,14,15,16,18,21,23,25,28,29,30,31,32,34,37,49,72,73</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>itTam</headword>
+	<stem>itTam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>sura</headword>
+	<stem>sura</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>Asura</headword>
+	<stem>Asura</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>SizwAH</headword>
+	<stem>Sizwa_1</stem>
+	<morphids>m1p</morphids>
+	<lexids>pp., ctp5</lexids>
+	<root>Siz</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>brAhmaRAH</headword>
+	<stem>brAhmaRa</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>yadA</headword>
+	<stem>yadA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>mayA</headword>
+	<stem>asmad</stem>
+	<morphids>x3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>brahma</headword>
+	<stem>brahman</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>BUtena</headword>
+	<stem>BUta</stem>
+	<morphids>m3s</morphids>
+	<lexids>adj pp., ck</lexids>
+	<root>BU</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>purA</headword>
+	<stem>purA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>svayam</headword>
+	<stem>svayam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>ut</headword>
+	<stem>ud</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>pAditAH</headword>
+	<stem>pAdita</stem>
+	<morphids>m1p</morphids>
+	<lexids>ca. pp.</lexids>
+	<root>pad_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>sura</headword>
+	<stem>sura</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>Asura</headword>
+	<stem>Asura</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>mahA</headword>
+	<stem>mahat</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>23</padanum>
+	<headword>fzayaH</headword>
+	<stem>fzi</stem>
+	<morphids>m1p</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>25</padanum>
+	<headword>BUta</headword>
+	<stem>BUta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp.</lexids>
+	<root>BU</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>28</padanum>
+	<headword>viSezAH</headword>
+	<stem>viSeza</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>34</padanum>
+	<headword>sTApitAH</headword>
+	<stem>sTApita</stem>
+	<morphids>m1p</morphids>
+	<lexids>ca. pp.</lexids>
+	<root>sTA_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>46</padanum>
+	<headword>ni</headword>
+	<stem>ni</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>47</padanum>
+	<headword>gfhItAH</headword>
+	<stem>gfhIta</stem>
+	<morphids>m1p</morphids>
+	<lexids>pp.</lexids>
+	<root>grah</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>48</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

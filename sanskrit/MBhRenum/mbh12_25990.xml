@@ -1,0 +1,76 @@
+<solution prefix='mbh12_' sentenceNo='25990' solutionSH='24' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,5,7,12,13,15,16,17,18</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>viSvam</headword>
+	<stem>viSva</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>brahmA</headword>
+	<stem>brahman</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>asfjat</headword>
+	<stem>sfj_1</stem>
+	<morphids>ipf[6] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>pUrvam</headword>
+	<stem>pUrva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>AdiH</headword>
+	<stem>Adi</stem>
+	<morphids>m1s</morphids>
+	<lexids>cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>niH</headword>
+	<stem>nir</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>avaskaram</headword>
+	<stem>avaskara</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root>ava-kf</root>
+	<comment></comment>
+</pada>
+
+</solution>

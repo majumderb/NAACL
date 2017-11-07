@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='26137' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,5,6,7</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>dakzasya</headword>
+	<stem>dakza</stem>
+	<morphids>m6s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>vE</headword>
+	<stem>vE</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>duhitaraH</headword>
+	<stem>duhitf</stem>
+	<morphids>f1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>zazwiH</headword>
+	<stem>zazwi</stem>
+	<morphids>f1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>Asan</headword>
+	<stem>as_1</stem>
+	<morphids>ipf[2] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

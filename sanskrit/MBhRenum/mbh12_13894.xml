@@ -1,0 +1,67 @@
+<solution prefix='mbh12_' sentenceNo='13894' solutionSH='54' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,7,22,34</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>taTA</headword>
+	<stem>taTA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tamaH</headword>
+	<stem>tamas</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum></padanum>
+	<headword>BiBUtAnAm</headword>
+	<stem>BUta</stem>
+	<morphids>m6p</morphids>
+	<lexids>adj pp., ctp3</lexids>
+	<root>BU</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>BUtAnAm</headword>
+	<stem>BUta</stem>
+	<morphids>m6p</morphids>
+	<lexids>pp.</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>BraSyate</headword>
+	<stem>BraMS</stem>
+	<morphids>pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>suKam</headword>
+	<stem>suKa</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

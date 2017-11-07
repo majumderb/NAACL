@@ -1,0 +1,31 @@
+<solution prefix='mbh03_' sentenceNo='14539' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,3,5</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>rAjYAm</headword>
+	<stem>rAjan</stem>
+	<morphids>m6p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>etat</headword>
+	<stem>etad</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>vAhanam</headword>
+	<stem>vAhana</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

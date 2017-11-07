@@ -1,0 +1,148 @@
+<solution prefix='mbh12_' sentenceNo='13915' solutionSH='12' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,10,12,13,14,15,25,36,48,55,56,66</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>banDu</headword>
+	<stem>banDu</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>Dana</headword>
+	<stem>Dana</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vinASa</headword>
+	<stem>vinASa</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>viprayoga</headword>
+	<stem>viprayoga</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>kftEH</headword>
+	<stem>kfta</stem>
+	<morphids>n3p</morphids>
+	<lexids>adj pp., ctp3</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>mAnasEH</headword>
+	<stem>mAnasa</stem>
+	<morphids>m3p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>SokEH</headword>
+	<stem>Soka</stem>
+	<morphids>m3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>BUyante</headword>
+	<stem>BU_2</stem>
+	<morphids>pre p3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>jarA</headword>
+	<stem>jara</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>mftyu</headword>
+	<stem>mftyu</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>25</padanum>
+	<headword>kftEH</headword>
+	<stem>kfta</stem>
+	<morphids>n3p</morphids>
+	<lexids>adj pp., ctp3</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>31</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>32</padanum>
+	<headword>AnyEH</headword>
+	<stem>Anya</stem>
+	<morphids>n3p</morphids>
+	<lexids>ca. pfp. [1]</lexids>
+	<root>an_2</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>37</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

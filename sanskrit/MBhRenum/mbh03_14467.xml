@@ -1,0 +1,76 @@
+<solution prefix='mbh03_' sentenceNo='14467' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,13,19,30,33,40</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>te</headword>
+	<stem>tad</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>BItAH</headword>
+	<stem>BIta</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj pp.</lexids>
+	<root>BI_2</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>maRqUka</headword>
+	<stem>maRqUka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>rAjYe</headword>
+	<stem>rAjan</stem>
+	<morphids>m4s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>yaTA</headword>
+	<stem>yaTA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>vfttam</headword>
+	<stem>vftta</stem>
+	<morphids>n2s</morphids>
+	<lexids>pp., cab</lexids>
+	<root>vft_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>ni</headword>
+	<stem>ni</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>avedayan</headword>
+	<stem>vid_1</stem>
+	<morphids>cau ipf a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

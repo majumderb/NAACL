@@ -1,0 +1,40 @@
+<solution prefix='mbh12_' sentenceNo='13965' solutionSH='5' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,15,22,24,25</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>apatya</headword>
+	<stem>apatya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>utpAdanena</headword>
+	<stem>utpAdana</stem>
+	<morphids>n3s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>prajApatiH</headword>
+	<stem>prajApati</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,22 @@
+<solution prefix='mbh12_' sentenceNo='13908' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>atra</headword>
+	<stem>atra_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ucyatAm</headword>
+	<stem>uc</stem>
+	<morphids>ipv[4] a3d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

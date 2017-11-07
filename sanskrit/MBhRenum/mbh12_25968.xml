@@ -1,0 +1,58 @@
+<solution prefix='mbh12_' sentenceNo='25968' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>12,48,49,50,51,52</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>dIpyamAne</headword>
+	<stem>dIpyamAna</stem>
+	<morphids>m7s</morphids>
+	<lexids>ppr. ps.</lexids>
+	<root>dIp</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>agnO</headword>
+	<stem>agni</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>juhoti</headword>
+	<stem>hu</stem>
+	<morphids>pre[3] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>kftvA</headword>
+	<stem>kftvA</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>bravImi</headword>
+	<stem>brU</stem>
+	<morphids>pre[2] a1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

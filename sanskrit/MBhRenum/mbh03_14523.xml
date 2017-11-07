@@ -1,0 +1,85 @@
+<solution prefix='mbh03_' sentenceNo='14523' solutionSH='318' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>4,26,29,33,37,43,45</state>
+<pada>
+	<padanum>3</padanum>
+	<headword>kfta</headword>
+	<stem>kfta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp.</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>kAryeRa</headword>
+	<stem>kArya</stem>
+	<morphids>n3s</morphids>
+	<lexids>ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>BavatA</headword>
+	<stem>Bavat_1</stem>
+	<morphids>m3s</morphids>
+	<lexids>ppr. [1] ac.</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>mama</headword>
+	<stem>asmad</stem>
+	<morphids>x6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>nir</headword>
+	<stem>nis</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>yAtyO</headword>
+	<stem>yAtya</stem>
+	<morphids>m2d</morphids>
+	<lexids>pfp. [1]</lexids>
+	<root>yat_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>kzipram</headword>
+	<stem>kzipram</stem>
+	<morphids>i</morphids>
+	<lexids>adverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

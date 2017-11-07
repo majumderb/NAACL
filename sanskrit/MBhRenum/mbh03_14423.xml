@@ -1,0 +1,31 @@
+<solution prefix='mbh03_' sentenceNo='14423' solutionSH='5' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,4</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>SrutvA</headword>
+	<stem>SrutvA</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>Sru</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>acintayat</headword>
+	<stem>cint</stem>
+	<morphids>ipf[10] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

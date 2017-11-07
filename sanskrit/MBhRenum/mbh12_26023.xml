@@ -1,0 +1,67 @@
+<solution prefix='mbh12_' sentenceNo='26023' solutionSH='9' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,9,10,11,13</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>hEraRyagarBAt</headword>
+	<stem>hEraRyagarBa</stem>
+	<morphids>m5s</morphids>
+	<lexids>adj pn, ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>vasizWAt</headword>
+	<stem>vasizWa</stem>
+	<morphids>m5s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>hiraRyakaSipuH</headword>
+	<stem>hiraRyakaSipu</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>SApam</headword>
+	<stem>SApa</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>AptavAn</headword>
+	<stem>Aptavat</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppa.</lexids>
+	<root>Ap</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,130 @@
+<solution prefix='mbh12_' sentenceNo='26102' solutionSH='164' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,6,7,8,11,12,13,19,44,70,77</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>nahuzaH</headword>
+	<stem>nahuza</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>tvayA</headword>
+	<stem>tvad</stem>
+	<morphids>x3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>vAcyaH</headword>
+	<stem>vAcya</stem>
+	<morphids>m1s</morphids>
+	<lexids>ca. pfp. [1]</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>pUrveRa</headword>
+	<stem>pUrva</stem>
+	<morphids>n3s</morphids>
+	<lexids>adj ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>mAm</headword>
+	<stem>aham</stem>
+	<morphids>x2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>fzi</headword>
+	<stem>fzi</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>yuktena</headword>
+	<stem>yukta</stem>
+	<morphids>n3s</morphids>
+	<lexids>adj pp., ctp3</lexids>
+	<root>yuj_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>yAnena</headword>
+	<stem>yAna</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>33</padanum>
+	<headword>tvam</headword>
+	<stem>tvad</stem>
+	<morphids>x1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>34</padanum>
+	<headword>aDi</headword>
+	<stem>aDi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>35</padanum>
+	<headword>rUQaH</headword>
+	<stem>rUQa</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj pp.</lexids>
+	<root>ruh_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>37</padanum>
+	<headword>ut</headword>
+	<stem>ud</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>38</padanum>
+	<headword>vahasva</headword>
+	<stem>vah_1</stem>
+	<morphids>ipv[1] m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

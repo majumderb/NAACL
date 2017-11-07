@@ -1,0 +1,40 @@
+<solution prefix='mbh03_' sentenceNo='14659' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,6,12,13</state>
+<pada>
+	<padanum>2</padanum>
+	<headword>yaTAucitam</headword>
+	<stem>yaTAucitam</stem>
+	<morphids>i</morphids>
+	<lexids>adv cab</lexids>
+	<root>uc</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>sTAnam</headword>
+	<stem>sTAna</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>padyasva</headword>
+	<stem>pad_1</stem>
+	<morphids>ipv p2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

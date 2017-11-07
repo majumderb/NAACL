@@ -1,0 +1,31 @@
+<solution prefix='mbh12_' sentenceNo='26175' solutionSH='7' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,19</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tena</headword>
+	<stem>tad</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>jagat</headword>
+	<stem>jagat</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>DAryate</headword>
+	<stem>Df</stem>
+	<morphids>cau pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

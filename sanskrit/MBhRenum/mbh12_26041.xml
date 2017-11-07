@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='26041' solutionSH='4' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,5,25</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>vayam</headword>
+	<stem>aham</stem>
+	<morphids>x1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>BAgAH</headword>
+	<stem>BAga</stem>
+	<morphids>m1p</morphids>
+	<lexids>ctp na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>vfttAH</headword>
+	<stem>vftta</stem>
+	<morphids>m1p</morphids>
+	<lexids>pp.</lexids>
+	<root>vft_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

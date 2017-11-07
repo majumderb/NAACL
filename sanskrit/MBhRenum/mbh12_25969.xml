@@ -1,0 +1,103 @@
+<solution prefix='mbh12_' sentenceNo='25969' solutionSH='345' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>4,8,9,10,13,19,22,31,34</state>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>BUta</headword>
+	<stem>BUta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp.</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>sargaH</headword>
+	<stem>sarga</stem>
+	<morphids>m1s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>kftaH</headword>
+	<stem>kfta</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>brahmaRA</headword>
+	<stem>brahman</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>BUtAni</headword>
+	<stem>BUta</stem>
+	<morphids>n2p</morphids>
+	<lexids>pp.</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>prati</headword>
+	<stem>prati</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>sTApya</headword>
+	<stem>sTApya</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>sTA_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>trElokyam</headword>
+	<stem>trElokya</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>DAryate</headword>
+	<stem>Df</stem>
+	<morphids>cau pre p3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>25</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

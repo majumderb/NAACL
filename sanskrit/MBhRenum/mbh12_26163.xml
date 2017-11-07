@@ -1,0 +1,85 @@
+<solution prefix='mbh12_' sentenceNo='26163' solutionSH='126' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,4,6,12,24,27,28,42</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sveda</headword>
+	<stem>sveda</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>syandana</headword>
+	<stem>syandana</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppr. [1] ac., ctp6</lexids>
+	<root>syand</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>sadfSaH</headword>
+	<stem>sadfSa</stem>
+	<morphids>m1s</morphids>
+	<lexids>ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>asya</headword>
+	<stem>ayam</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>lavaRa</headword>
+	<stem>lavaRa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>BAvaH</headword>
+	<stem>BAva</stem>
+	<morphids>m1s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>janitaH</headword>
+	<stem>janita</stem>
+	<morphids>m1s</morphids>
+	<lexids>ca. pp.</lexids>
+	<root>jan</root>
+	<comment></comment>
+</pada>
+
+</solution>

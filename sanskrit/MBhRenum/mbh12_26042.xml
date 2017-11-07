@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='26042' solutionSH='0' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,9,14,25</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>asura</headword>
+	<stem>asura</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>pakzaH</headword>
+	<stem>pakza</stem>
+	<morphids>m1s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>varDate</headword>
+	<stem>vfD_1</stem>
+	<morphids>pre[1] m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>vayam</headword>
+	<stem>aham</stem>
+	<morphids>x1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>kzIyAmaH</headword>
+	<stem>kzI</stem>
+	<morphids>pre[4] a1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

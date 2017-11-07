@@ -1,0 +1,85 @@
+<solution prefix='mbh03_' sentenceNo='14560' solutionSH='29' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,6,7,12,20,23,24,25,29</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>ayasmayAH</headword>
+	<stem>ayasmaya</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>Gora</headword>
+	<stem>Gora</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>rUpAH</headword>
+	<stem>rUpa</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>mahAntaH</headword>
+	<stem>mahat</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>vahantu</headword>
+	<stem>vah_1</stem>
+	<morphids>ipv[1] a3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>tvAm</headword>
+	<stem>yuzmad</stem>
+	<morphids>x2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>Sita</headword>
+	<stem>Sita</stem>
+	<morphids>iic</morphids>
+	<lexids>pp.</lexids>
+	<root>SA</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>SUlAH</headword>
+	<stem>SUla</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>caturDA</headword>
+	<stem>caturDA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

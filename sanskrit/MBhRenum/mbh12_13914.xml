@@ -1,0 +1,130 @@
+<solution prefix='mbh12_' sentenceNo='13914' solutionSH='144' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,7,15,19,22,23,30,34,37</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>caRqa</headword>
+	<stem>caRqa</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>vAta</headword>
+	<stem>vAta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp. cd</lexids>
+	<root>vA_2</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>ati</headword>
+	<stem>ati</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>uzRa</headword>
+	<stem>uzRa</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp prAdi</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>ati</headword>
+	<stem>ati</stem>
+	<morphids>iic</morphids>
+	<lexids>cd</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>SIta</headword>
+	<stem>SIta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp. ctp prAdi</lexids>
+	<root>SyA</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>kftEH</headword>
+	<stem>kfta</stem>
+	<morphids>n3p</morphids>
+	<lexids>adj pp., ctp3</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>prati</headword>
+	<stem>prati</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>BayEH</headword>
+	<stem>Baya</stem>
+	<morphids>n3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>23</padanum>
+	<headword>SArIrEH</headword>
+	<stem>SArIra</stem>
+	<morphids>n3p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>26</padanum>
+	<headword>duHKEH</headword>
+	<stem>duHKa</stem>
+	<morphids>n3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>29</padanum>
+	<headword>upa</headword>
+	<stem>upa</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>30</padanum>
+	<headword>tapyante</headword>
+	<stem>tap</stem>
+	<morphids>pre p3p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

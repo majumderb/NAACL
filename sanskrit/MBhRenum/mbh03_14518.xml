@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14518' solutionSH='45' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,4,6,15</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>Bagavat</headword>
+	<stem>Bagavat</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>mfgaH</headword>
+	<stem>mfga</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>mayA</headword>
+	<stem>asmad</stem>
+	<morphids>x3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vidDaH</headword>
+	<stem>vidDa</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>vyaD</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>palAyate</headword>
+	<stem>palAy</stem>
+	<morphids>pre[1] m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

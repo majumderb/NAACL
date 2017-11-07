@@ -1,0 +1,94 @@
+<solution prefix='mbh12_' sentenceNo='26003' solutionSH='9' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,4,7,10,13,24,36,37</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>aSvinoH</headword>
+	<stem>aSvin</stem>
+	<morphids>m6d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>graha</headword>
+	<stem>graha</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>pratizeDa</headword>
+	<stem>pratizeDa</stem>
+	<morphids>iic</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>ud</headword>
+	<stem>ud</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>yata</headword>
+	<stem>yata</stem>
+	<morphids>iic</morphids>
+	<lexids>pp., ctp5</lexids>
+	<root>yam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>vajrasya</headword>
+	<stem>vajra</stem>
+	<morphids>m6s</morphids>
+	<lexids>bv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>puraMdarasya</headword>
+	<stem>puraMdara</stem>
+	<morphids>m6s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>cyavanena</headword>
+	<stem>cyavana</stem>
+	<morphids>m3s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>stamBitaH</headword>
+	<stem>stamBita</stem>
+	<morphids>m1s</morphids>
+	<lexids>ca. pp.</lexids>
+	<root>stamB</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>24</padanum>
+	<headword>bAhuH</headword>
+	<stem>bAhu</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

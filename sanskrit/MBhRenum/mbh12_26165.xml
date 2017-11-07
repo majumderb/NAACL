@@ -1,0 +1,85 @@
+<solution prefix='mbh12_' sentenceNo='26165' solutionSH='4' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,9,12,13,20,23,36,40,41</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>etat</headword>
+	<stem>eza</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>te</headword>
+	<stem>tvad</stem>
+	<morphids>x6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>toyam</headword>
+	<stem>toya</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>vaqavAmuKa</headword>
+	<stem>vaqavAmuKa</stem>
+	<morphids>iic</morphids>
+	<lexids>pn, ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>saYjYitena</headword>
+	<stem>saYjYita</stem>
+	<morphids>m3s</morphids>
+	<lexids>ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>pIyamAnam</headword>
+	<stem>pIyamAna</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj ppr. ps.</lexids>
+	<root>pA_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>maDuram</headword>
+	<stem>maDura</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>Bavizyati</headword>
+	<stem>BU_1</stem>
+	<morphids>fut a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

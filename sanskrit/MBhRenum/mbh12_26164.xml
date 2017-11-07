@@ -1,0 +1,49 @@
+<solution prefix='mbh12_' sentenceNo='26164' solutionSH='5' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,6,10,11,16</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>uktaH</headword>
+	<stem>ukta</stem>
+	<morphids>m1s</morphids>
+	<lexids>pp.</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>peyaH</headword>
+	<stem>peya</stem>
+	<morphids>m1s</morphids>
+	<lexids>pfp. [1], ctp na</lexids>
+	<root>pA_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>Bavizyasi</headword>
+	<stem>BU_1</stem>
+	<morphids>fut a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,22 @@
+<solution prefix='mbh01_' sentenceNo='7118' solutionSH='2' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,9</state>
+<pada>
+	<padanum>2</padanum>
+	<headword>purUrvasaH</headword>
+	<stem>purUrvas</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>AyuH</headword>
+	<stem>Ayus</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

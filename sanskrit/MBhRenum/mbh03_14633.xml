@@ -1,0 +1,49 @@
+<solution prefix='mbh03_' sentenceNo='14633' solutionSH='15' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,3,7,30</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>saH</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>asmattaH</headword>
+	<stem>asmad</stem>
+	<morphids>x5p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>cira</headword>
+	<stem>cira</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>jAta</headword>
+	<stem>jAta</stem>
+	<morphids>iic</morphids>
+	<lexids>pp., ck</lexids>
+	<root>jan</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>taraH</headword>
+	<stem>tara</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

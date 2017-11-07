@@ -1,0 +1,103 @@
+<solution prefix='mbh03_' sentenceNo='14466' solutionSH='6' siftSolutions='y' status='inprogress' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,7,20,31,32,34,39,43,46</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>maRqUka</headword>
+	<stem>maRqUka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vaDe</headword>
+	<stem>vaDa</stem>
+	<morphids>m7s</morphids>
+	<lexids>ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>Gore</headword>
+	<stem>Gora</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment>loc abs</comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>kriyamARe</headword>
+	<stem>kriyamARa</stem>
+	<morphids>m7s</morphids>
+	<lexids>ppr. ps.,</lexids>
+	<root>kf_1</root>
+	<comment>loc abs</comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>dikzu</headword>
+	<stem>diS_2</stem>
+	<morphids>f7p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>sarvAsu</headword>
+	<stem>sarva</stem>
+	<morphids>f7p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>16</padanum>
+	<headword>maRqUkAn</headword>
+	<stem>maRqUka</stem>
+	<morphids>m2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>Bayam</headword>
+	<stem>Baya</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>aviSat</headword>
+	<stem>viS_1</stem>
+	<morphids>ipf[6] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>
