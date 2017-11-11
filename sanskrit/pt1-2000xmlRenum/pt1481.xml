@@ -1,0 +1,121 @@
+<solution prefix='pt' sentenceNo='1481' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>8,20,25,30,34</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>yaH</headword>
+	<stem>ya_1</stem>
+	<morphids>m1s</morphids>
+	<lexids>pron_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>eza</headword>
+	<stem>eza</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>parvataH</headword>
+	<stem>parvata</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>bahu</headword>
+	<stem>bahu</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>SiKaraH</headword>
+	<stem>SiKara</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>dfSyate</headword>
+	<stem>dfS_1</stem>
+	<morphids>pre p3s</morphids>
+	<lexids>vt1a</lexids>
+	<root>dfS</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>m6s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>uttare</headword>
+	<stem>uttara_2</stem>
+	<morphids>n7s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>pArSve</headword>
+	<stem>pArSva</stem>
+	<morphids>n7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>darI</headword>
+	<stem>dara</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>gahane</headword>
+	<stem>gahana</stem>
+	<morphids>n7s</morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>madIya</headword>
+	<stem>madIya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>guhA</headword>
+	<stem>guha</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

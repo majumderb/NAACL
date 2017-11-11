@@ -1,0 +1,193 @@
+<solution prefix='pt' sentenceNo='732' solutionSH='147' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,5,6,7,8,14,15,16,19,21,24,48,51</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>DAya</headword>
+	<stem>DA_1</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>laguqa</headword>
+	<stem>laguqa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>prahArEH</headword>
+	<stem>prahAra</stem>
+	<morphids>m3p</morphids>
+	<lexids>ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>tAm</headword>
+	<stem>tad</stem>
+	<morphids>f2s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>jarjarita</headword>
+	<stem>jarjarita</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>dehAm</headword>
+	<stem>deha</stem>
+	<morphids>f2s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>DAya</headword>
+	<stem>DA_1</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>sTURayA</headword>
+	<stem>sTURA</stem>
+	<morphids>f3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>saha</headword>
+	<stem>saha</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>dfQa</headword>
+	<stem>dfQa</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>dfh</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>banDanena</headword>
+	<stem>banDana</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>badDvA</headword>
+	<stem>baD</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>mada</headword>
+	<stem>mada</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>vihvala</headword>
+	<stem>vihvala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>aNgaH</headword>
+	<stem>aNga</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>nidrA</headword>
+	<stem>nidrA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>vaSam</headword>
+	<stem>vaSa</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>agamat</headword>
+	<stem>gam</stem>
+	<morphids>aor[a] a3s</morphids>
+	<lexids>v1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

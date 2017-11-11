@@ -1,0 +1,130 @@
+<solution prefix='pt' sentenceNo='924' solutionSH='22' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>11,13,14,24,29,30,33,37,40,42</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>apa</headword>
+	<stem>apa</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kArizu</headword>
+	<stem>kArin</stem>
+	<morphids>m7p</morphids>
+	<lexids>adj_ctp_upapada</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>mA</headword>
+	<stem>mA</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_neg</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>pApam</headword>
+	<stem>pApa</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>cintaya</headword>
+	<stem>cint</stem>
+	<morphids>ipv[10] a2s</morphids>
+	<lexids>vt10am</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>tvam</headword>
+	<stem>tvad</stem>
+	<morphids>x1s</morphids>
+	<lexids>pron_p2</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>kadAcana</headword>
+	<stem>kadAcana</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>svayam</headword>
+	<stem>svayam</stem>
+	<morphids>i</morphids>
+	<lexids>adv_reflexive</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>patizyanti</headword>
+	<stem>pat_1</stem>
+	<morphids>fut a3p</morphids>
+	<lexids>vi1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>kUla</headword>
+	<stem>kUla</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>jAtAH</headword>
+	<stem>jAta</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj_ctp_upapada</lexids>
+	<root>jan</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>iva</headword>
+	<stem>iva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>drumAH</headword>
+	<stem>druma</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

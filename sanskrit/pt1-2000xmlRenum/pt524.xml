@@ -1,0 +1,247 @@
+<solution prefix='pt' sentenceNo='524' solutionSH='20' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,11,12,16,17,22,24,30,31,35,51,58,59,64,67,79,82,84</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>kAke</headword>
+	<stem>kAka</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>SOcam</headword>
+	<stem>SOca</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>dyu</headword>
+	<stem>dyu</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>Uta</headword>
+	<stem>Uta</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>vA_3</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>ka</headword>
+	<stem>ka_1</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>arezu</headword>
+	<stem>ara</stem>
+	<morphids></morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>satyam</headword>
+	<stem>satya</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>sarpe</headword>
+	<stem>sarpa</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>kzAntiH</headword>
+	<stem>kzAnti</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>strIzu</headword>
+	<stem>strI</stem>
+	<morphids>f7p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>ka</headword>
+	<stem>ka_1</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>AmA</headword>
+	<stem>Ama</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>Upa</headword>
+	<stem>vap_1</stem>
+	<morphids>prf a2p</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>Upa</headword>
+	<stem>vap_2</stem>
+	<morphids>prf a2p</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>SAntiH</headword>
+	<stem>SAnti</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>16</padanum>
+	<headword>klIbe</headword>
+	<stem>klIba</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>DEryam</headword>
+	<stem>DErya</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>madya</headword>
+	<stem>madya</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>pe</headword>
+	<stem>pa_1</stem>
+	<morphids>m7s</morphids>
+	<lexids>ifc</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>tattva</headword>
+	<stem>tattva</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>cintA</headword>
+	<stem>cintA</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>rAjA</headword>
+	<stem>rAjan</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>mitram</headword>
+	<stem>mitra</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>24</padanum>
+	<headword>kena</headword>
+	<stem>ka_1</stem>
+	<morphids>m3s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>25</padanum>
+	<headword>dfzwam</headword>
+	<stem>dfzwa</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>dfS_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>26</padanum>
+	<headword>Srutam</headword>
+	<stem>Sruta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>Sru</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>27</padanum>
+	<headword>vA</headword>
+	<stem>vA_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,184 @@
+<solution prefix='pt' sentenceNo='694' solutionSH='24' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,3,4,8,9,12,13,50,60,61,66,77,78,85</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>gacCan</headword>
+	<stem>gacCat</stem>
+	<morphids>m1s</morphids>
+	<lexids>prap[1]</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>deva</headword>
+	<stem>deva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>SarmA</headword>
+	<stem>Sarman</stem>
+	<morphids>m1s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>sa</headword>
+	<stem>sa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root>saha</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>BAryam</headword>
+	<stem>BAryA</stem>
+	<morphids>m2s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>kOlikam</headword>
+	<stem>kOlika</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>ekam</headword>
+	<stem>eka</stem>
+	<morphids>m2s</morphids>
+	<lexids>num_cardinal</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>madya</headword>
+	<stem>madya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>pAna</headword>
+	<stem>pAna</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>kfte</headword>
+	<stem>kfta</stem>
+	<morphids>i</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>samIpa</headword>
+	<stem>samIpa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>vartini</headword>
+	<stem>vartin</stem>
+	<morphids>m7s</morphids>
+	<lexids>adj_ctp_upapada</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>nagare</headword>
+	<stem>nagara</stem>
+	<morphids>n7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>calitam</headword>
+	<stem>calita</stem>
+	<morphids>m2s</morphids>
+	<lexids>pap</lexids>
+	<root>cal</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>ava</headword>
+	<stem>ava</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>lokya</headword>
+	<stem>lok</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>uvAca</headword>
+	<stem>vac</stem>
+	<morphids>prf a3s</morphids>
+	<lexids>vt2a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,112 @@
+<solution prefix='pt' sentenceNo='599' solutionSH='7' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,4,6,7,8,10,11,12,16,18,26</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tO</headword>
+	<stem>tad</stem>
+	<morphids>m1d</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>karawaka</headword>
+	<stem>karawaka</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>damanakO</headword>
+	<stem>damanaka</stem>
+	<morphids>m1d</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>svAmi</headword>
+	<stem>svAmin</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>prasAda</headword>
+	<stem>prasAda</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>rahitO</headword>
+	<stem>rahita</stem>
+	<morphids>m1d</morphids>
+	<lexids>ppp</lexids>
+	<root>rah</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>kzut</headword>
+	<stem>kzuD_2</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>kzAma</headword>
+	<stem>kzAma</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>kaRWO</headword>
+	<stem>kaRWa</stem>
+	<morphids>m1d</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>parasparam</headword>
+	<stem>paraspara</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>mantrayete</headword>
+	<stem>mantr</stem>
+	<morphids>pre[10] m3d</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

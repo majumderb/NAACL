@@ -1,0 +1,94 @@
+<solution prefix='pt' sentenceNo='1449' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tAvat</headword>
+	<stem>tAvat</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tasyAH</headword>
+	<stem>tad</stem>
+	<morphids>f6s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_conj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>eka</headword>
+	<stem>eka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>pradeSe</headword>
+	<stem>pradeSa</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>tfREH</headword>
+	<stem>tfRa</stem>
+	<morphids>n3p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>AvftaH</headword>
+	<stem>Avft</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>mahAn</headword>
+	<stem>mahat</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>kUpaH</headword>
+	<stem>kUpa</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>dfzwaH</headword>
+	<stem>dfzwa</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root>dfS_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

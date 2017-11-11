@@ -1,0 +1,67 @@
+<solution prefix='pt' sentenceNo='601' solutionSH='1' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,8,11,26</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>Arya</headword>
+	<stem>Arya</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root>f</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>karawaka</headword>
+	<stem>karawaka</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root>karawaka</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>AvAm</headword>
+	<stem>asmad</stem>
+	<morphids>x1d</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>tAvat</headword>
+	<stem>tAvat</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids>pcl_neg</lexids>
+	<root>na</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>praDAnatAm</headword>
+	<stem>praDAnatA</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun_ctp_na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>gatO</headword>
+	<stem>gata</stem>
+	<morphids>m1d</morphids>
+	<lexids>pap</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+
+</solution>

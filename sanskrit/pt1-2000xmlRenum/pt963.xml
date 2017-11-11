@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='963' solutionSH='2' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>11,13,16</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>bakaH</headword>
+	<stem>baka</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>cintayAm</headword>
+	<stem>cintayAm</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root>cint</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>Asa</headword>
+	<stem>as_1</stem>
+	<morphids>prf a1s</morphids>
+	<lexids>vi2a</lexids>
+	<root>as</root>
+	<comment></comment>
+</pada>
+
+</solution>

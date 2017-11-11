@@ -1,0 +1,85 @@
+<solution prefix='pt' sentenceNo='381' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,4,5,16,19,23,29</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>anena</headword>
+	<stem>ayam</stem>
+	<morphids>m3s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>asya</headword>
+	<stem>asya</stem>
+	<morphids>m6s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>sanDi</headword>
+	<stem>sanDi</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>vigraha</headword>
+	<stem>vigraha</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>dvAreRa</headword>
+	<stem>dvAra</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>mama</headword>
+	<stem>aham</stem>
+	<morphids>x6s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>piNgalakaH</headword>
+	<stem>piNgalaka</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>vaSe</headword>
+	<stem>vaSa</stem>
+	<morphids>n7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>Bavizyati</headword>
+	<stem>BU_1</stem>
+	<morphids>fut a3s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

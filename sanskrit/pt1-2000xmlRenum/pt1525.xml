@@ -1,0 +1,85 @@
+<solution prefix='pt' sentenceNo='1525' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>3</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tizWatu</headword>
+	<stem>sTA_1</stem>
+	<morphids>ipv[1] a3s</morphids>
+	<lexids>vi1a</lexids>
+	<root>sTA</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>BavAn</headword>
+	<stem>Bavat_2</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>atra</headword>
+	<stem>atra_1</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>yAvat</headword>
+	<stem>yAvat</stem>
+	<morphids>i</morphids>
+	<lexids>adv_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>aham</headword>
+	<stem>aham</stem>
+	<morphids>x1s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>kasya</headword>
+	<stem>kim</stem>
+	<morphids>n6s</morphids>
+	<lexids>pron_int</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>cit</headword>
+	<stem>cid</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment>making prec int indef</comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>darSayAmi</headword>
+	<stem>dfS_1</stem>
+	<morphids>cau pre a1s</morphids>
+	<lexids>vt1a</lexids>
+	<root>dfS</root>
+	<comment></comment>
+</pada>
+
+</solution>

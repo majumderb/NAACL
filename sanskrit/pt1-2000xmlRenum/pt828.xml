@@ -1,0 +1,58 @@
+<solution prefix='pt' sentenceNo='828' solutionSH='293' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>11,12,20,25,29,32</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>rAja</headword>
+	<stem>rAjan</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>nigrahaH</headword>
+	<stem>nigraha</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>karRa</headword>
+	<stem>karRa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>CedaH</headword>
+	<stem>Ceda</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>kAryaH</headword>
+	<stem>kArya</stem>
+	<morphids>m1s</morphids>
+	<lexids>gerundive</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

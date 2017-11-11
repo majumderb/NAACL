@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='761' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>puMScali</headword>
+	<stem>puMScala</stem>
+	<morphids>fvs</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tizWa</headword>
+	<stem>sTA_1</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids>vt1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>idAnIm</headword>
+	<stem>idAnIm</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

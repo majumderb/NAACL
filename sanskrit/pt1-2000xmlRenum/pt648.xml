@@ -1,0 +1,103 @@
+<solution prefix='pt' sentenceNo='648' solutionSH='1' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,5,6,7,8,19,24,26,27</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>yat</headword>
+	<stem>yad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_conj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>tvam</headword>
+	<stem>yuzmad</stem>
+	<morphids>x1s</morphids>
+	<lexids>pron_p2</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>saMsAra</headword>
+	<stem>saMsAra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>sAgara</headword>
+	<stem>sAgara</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>ut</headword>
+	<stem>ut</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>taraRAya</headword>
+	<stem>taraRa</stem>
+	<morphids>n4s</morphids>
+	<lexids>noun_ctp5</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>upAyam</headword>
+	<stem>upAya</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>pfcCasi</headword>
+	<stem>praS</stem>
+	<morphids>pre[6] a2s</morphids>
+	<lexids>vt6a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>SrUyatAm</headword>
+	<stem>Sru</stem>
+	<morphids>ipv p3s</morphids>
+	<lexids>vt5a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

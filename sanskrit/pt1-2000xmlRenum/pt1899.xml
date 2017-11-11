@@ -1,0 +1,121 @@
+<solution prefix='pt' sentenceNo='1899' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>4,9,22,30</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>te</headword>
+	<stem>tad</stem>
+	<morphids>m1p</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>sarve</headword>
+	<stem>sarva</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj_pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>bAzpa</headword>
+	<stem>bAzpa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>pUrita</headword>
+	<stem>pUrita</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp_cau</lexids>
+	<root>pF</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>dfSaH</headword>
+	<stem>dfS_2</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>gatvA</headword>
+	<stem>gam</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>mada</headword>
+	<stem>mada</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>utkawam</headword>
+	<stem>utkawa</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun_pn_ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>namya</headword>
+	<stem>nam</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root>nam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>upa</headword>
+	<stem>upa</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>vizwAH</headword>
+	<stem>vizwa</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppp</lexids>
+	<root>viS_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

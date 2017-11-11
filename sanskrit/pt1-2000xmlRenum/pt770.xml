@@ -1,0 +1,130 @@
+<solution prefix='pt' sentenceNo='770' solutionSH='387' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,3,6,7,10,28,31,35,45,55,56,58</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>drutam</headword>
+	<stem>drutam</stem>
+	<morphids>n2s</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>muYca</headword>
+	<stem>muc_1</stem>
+	<morphids>ipv[6] a2s</morphids>
+	<lexids>vi6am</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>mAm</headword>
+	<stem>asmad</stem>
+	<morphids>x2s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>banDanAt</headword>
+	<stem>banDana</stem>
+	<morphids>n5s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>yAvat</headword>
+	<stem>yAvat</stem>
+	<morphids>i</morphids>
+	<lexids>adv_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_neg</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>ayam</headword>
+	<stem>idam</stem>
+	<morphids>m1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>prati</headword>
+	<stem>prati</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>buDyate</headword>
+	<stem>buD_1</stem>
+	<morphids>pre[4] m3s</morphids>
+	<lexids>vt4m</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>yena</headword>
+	<stem>ya_1</stem>
+	<morphids>n3s</morphids>
+	<lexids>pron_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>sva</headword>
+	<stem>sva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>gfham</headword>
+	<stem>gfha</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>gacCAmi</headword>
+	<stem>gam</stem>
+	<morphids>pre[1] a1s</morphids>
+	<lexids>v1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

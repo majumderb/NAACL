@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='1286' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>nir</headword>
+	<stem>nir</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>kulaH</headword>
+	<stem>kula</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ctp_gati</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>tizWa</headword>
+	<stem>sTA_1</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids>vi1a</lexids>
+	<root>sTA</root>
+	<comment></comment>
+</pada>
+
+</solution>

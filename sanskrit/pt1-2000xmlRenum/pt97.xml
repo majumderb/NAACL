@@ -1,0 +1,133 @@
+<solution prefix='pt' sentenceNo='97' solutionSH='144' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,4,5,10,12,18,31,35,57</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>zazWIsambanDa</rel>
+	<ref>8</ref>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>karawaka</headword>
+	<stem>karawaka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>damanaka</headword>
+	<stem>damanaka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>nAmAnO</headword>
+	<stem>nAman</stem>
+	<morphids>m1d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>13</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>AnO</headword>
+	<stem>Ana</stem>
+	<morphids></morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>dvO</headword>
+	<stem>dva</stem>
+	<morphids>m1d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>8</ref>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>SfgAlO</headword>
+	<stem>SfgAla</stem>
+	<morphids>m1d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>13</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>Brazwa</headword>
+	<stem>Bfjj</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>aDikArO</headword>
+	<stem>aDikAra</stem>
+	<morphids>m1d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>13</ref>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>mantri</headword>
+	<stem>mantrin</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>putrO</headword>
+	<stem>putra</stem>
+	<morphids>m1d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>13</ref>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>AstAm</headword>
+	<stem>as_1</stem>
+	<morphids>ipf[2] a3d</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

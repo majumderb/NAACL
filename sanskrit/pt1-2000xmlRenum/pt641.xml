@@ -1,0 +1,85 @@
+<solution prefix='pt' sentenceNo='641' solutionSH='20' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,4,11,14,16,18,31</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kim</headword>
+	<stem>kim</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_int</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>kurvataH</headword>
+	<stem>kurvat</stem>
+	<morphids>m6s</morphids>
+	<lexids>prap[8]</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>me</headword>
+	<stem>aham</stem>
+	<morphids>x6s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>saMsAra</headword>
+	<stem>saMsAra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>samudra</headword>
+	<stem>samudra_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>ut</headword>
+	<stem>ut</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>taraRam</headword>
+	<stem>taraRa</stem>
+	<morphids>n1s</morphids>
+	<lexids>ctp5</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>Bavizyati</headword>
+	<stem>BU_1</stem>
+	<morphids>fut a3s</morphids>
+	<lexids>vi1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

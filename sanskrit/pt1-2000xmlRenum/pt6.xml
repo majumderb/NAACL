@@ -1,0 +1,225 @@
+<solution prefix='pt' sentenceNo='6' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tatra</headword>
+	<stem>tatra</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>aDikaRa</rel>
+	<ref>23</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>sakala</headword>
+	<stem>sakala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>arTa</headword>
+	<stem>arTa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>SAstra</headword>
+	<stem>SAstra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>viSAradaH</headword>
+	<stem>viSArada</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>23</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>pravara</headword>
+	<stem>pravara_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>nfpa</headword>
+	<stem>nfpa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>mukuwa</headword>
+	<stem>mukuwa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>maRi</headword>
+	<stem>maRi</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>marIci</headword>
+	<stem>marIci</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>caya</headword>
+	<stem>caya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>carcita</headword>
+	<stem>carcita</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>carc</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>caraRaH</headword>
+	<stem>caraRa</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>23</ref>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>sakala</headword>
+	<stem>sakala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>kalA</headword>
+	<stem>kalA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>pAram</headword>
+	<stem>pAram</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>gataH</headword>
+	<stem>gata</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root>gam</root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>23</ref>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>mara</headword>
+	<stem>mara</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>SaktiH</headword>
+	<stem>Sakti</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>pratiyogI</rel>
+	<ref>21</ref>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>nAma</headword>
+	<stem>nAman</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>anuyogI</rel>
+	<ref>22</ref>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>rAjA</headword>
+	<stem>rAjan</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>23</ref>
+</pada>
+<pada>
+	<padanum>23</padanum>
+	<headword>baBUva</headword>
+	<stem>BU_1</stem>
+	<morphids>prf a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

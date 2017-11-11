@@ -1,0 +1,44 @@
+<solution prefix='pt' sentenceNo='16' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>atra</headword>
+	<stem>atra_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>aDikaraRa</rel>
+	<ref>4</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>ekEkaSaH</headword>
+	<stem>ekEkaSas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>4</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>UcuH</headword>
+	<stem>vac</stem>
+	<morphids>prf a3p</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,148 @@
+<solution prefix='pt' sentenceNo='1038' solutionSH='234' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,7,9,12,20,21,22,23,26,29,33,44,45,46</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>ajAH</headword>
+	<stem>aja_1</stem>
+	<morphids>f2p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>iva</headword>
+	<stem>iva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>prajAH</headword>
+	<stem>prajA</stem>
+	<morphids>f2p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>mohAt</headword>
+	<stem>moha</stem>
+	<morphids>m5s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>yaH</headword>
+	<stem>ya_1</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>hanyAt</headword>
+	<stem>han_1</stem>
+	<morphids>pop[2] a3s</morphids>
+	<lexids>vt2a</lexids>
+	<root>han</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>pfTivI</headword>
+	<stem>pfTivI</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>patiH</headword>
+	<stem>pati</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>m6s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>ekA</headword>
+	<stem>eka</stem>
+	<morphids>f1s</morphids>
+	<lexids>num_cardinal</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>jAyate</headword>
+	<stem>jan</stem>
+	<morphids>pre[4] m3s</morphids>
+	<lexids>vi4m</lexids>
+	<root>jan</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>tfptiH</headword>
+	<stem>tfpti</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_neg</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>dvitIyA</headword>
+	<stem>dvitIya</stem>
+	<morphids>f1s</morphids>
+	<lexids>num_ordinal</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>kaTam</headword>
+	<stem>kaTam</stem>
+	<morphids>i</morphids>
+	<lexids>adv_int</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>cana</headword>
+	<stem>cana</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment>making prec int indef</comment>
+</pada>
+
+</solution>

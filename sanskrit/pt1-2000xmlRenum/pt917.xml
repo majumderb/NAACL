@@ -1,0 +1,76 @@
+<solution prefix='pt' sentenceNo='917' solutionSH='5' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,4,5,10,12,20</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>Badra</headword>
+	<stem>Badra</stem>
+	<morphids>mvs</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kim</headword>
+	<stem>ka_1</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_int</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>sati</headword>
+	<stem>sat</stem>
+	<morphids>n7s</morphids>
+	<lexids>prap[2]</lexids>
+	<root>as 1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>Apta</headword>
+	<stem>Apta</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>Ap</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>kAlam</headword>
+	<stem>kAla_1</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>manyase</headword>
+	<stem>man</stem>
+	<morphids>pre[4] m2s</morphids>
+	<lexids>vt4m</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

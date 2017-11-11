@@ -1,0 +1,157 @@
+<solution prefix='pt' sentenceNo='1643' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>21,24,26</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>mada</headword>
+	<stem>mada</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>Srama</headword>
+	<stem>Srama</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>nidrA</headword>
+	<stem>nidrA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>parIta</headword>
+	<stem>parita</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>kAyaH</headword>
+	<stem>kAya</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>yadA</headword>
+	<stem>yadA</stem>
+	<morphids>i</morphids>
+	<lexids>adv_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>nf</headword>
+	<stem>nara</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>patiH</headword>
+	<stem>pati</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>Bavati</headword>
+	<stem>BU_1</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids>vi1a</lexids>
+	<root>BU</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>tadA</headword>
+	<stem>tadA</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>niBftam</headword>
+	<stem>niBfta</stem>
+	<morphids>n2s</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>pAdayoH</headword>
+	<stem>pAda</stem>
+	<morphids>m6d</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>tvayA</headword>
+	<stem>tvad</stem>
+	<morphids>x3s</morphids>
+	<lexids>pron_p2</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>daMzwavyaH</headword>
+	<stem>daMzwavya</stem>
+	<morphids>m1s</morphids>
+	<lexids>gerundive</lexids>
+	<root>daMS</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>etO</headword>
+	<stem>eza</stem>
+	<morphids>m1d</morphids>
+	<lexids>adj_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>deSa</headword>
+	<stem>deSa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>kAlO</headword>
+	<stem>kAla</stem>
+	<morphids>m1d</morphids>
+	<lexids>noun_cdi</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

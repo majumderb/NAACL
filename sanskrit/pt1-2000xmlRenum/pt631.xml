@@ -1,0 +1,130 @@
+<solution prefix='pt' sentenceNo='631' solutionSH='97' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>2,3,4,22,23,26,28,38,41,44,46</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>enam</headword>
+	<stem>etad</stem>
+	<morphids>m2s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vacanEH</headword>
+	<stem>vacana</stem>
+	<morphids>n3p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>viSvAsya</headword>
+	<stem>viSvAsya</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>aham</headword>
+	<stem>asmad</stem>
+	<morphids>x1s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>CAtratAm</headword>
+	<stem>CAtratA</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>vrajAmi</headword>
+	<stem>vraj</stem>
+	<morphids>pre[1] a1s</morphids>
+	<lexids>v1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment>cAdi</comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>yena</headword>
+	<stem>yad</stem>
+	<morphids>n3s</morphids>
+	<lexids>pron_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>viSvastaH</headword>
+	<stem>viSvasta</stem>
+	<morphids>m1s</morphids>
+	<lexids>pap</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>mama</headword>
+	<stem>aham</stem>
+	<morphids>x6s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>hasta</headword>
+	<stem>hasta</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>gataH</headword>
+	<stem>gata</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_ctp7</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>Bavati</headword>
+	<stem>BU_1</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids>v1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

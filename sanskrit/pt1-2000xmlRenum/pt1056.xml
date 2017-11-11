@@ -1,0 +1,130 @@
+<solution prefix='pt' sentenceNo='1056' solutionSH='1' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,4,9,10,13,14,25,29,31,33</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>siMhaH</headword>
+	<stem>siMha</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>velA</headword>
+	<stem>velA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>atikrameRa</headword>
+	<stem>atikrama</stem>
+	<morphids>m3s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>kzut</headword>
+	<stem>kzuD_2</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>kzAma</headword>
+	<stem>kzAma</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>kaRWaH</headword>
+	<stem>kaRWa</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>kopa</headword>
+	<stem>kopa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>vizwaH</headword>
+	<stem>vizwa</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ctp3</lexids>
+	<root>viS_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>sfkviRI</headword>
+	<stem>sfkva</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>pari</headword>
+	<stem>pari</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>lihan</headword>
+	<stem>lihat</stem>
+	<morphids>m1s</morphids>
+	<lexids>prap</lexids>
+	<root>lih_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>acintayat</headword>
+	<stem>cint</stem>
+	<morphids>ipf[10] a3s</morphids>
+	<lexids>vt10am</lexids>
+	<root>cint</root>
+	<comment></comment>
+</pada>
+
+</solution>

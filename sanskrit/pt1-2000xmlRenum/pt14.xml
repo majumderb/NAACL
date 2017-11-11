@@ -1,0 +1,205 @@
+<solution prefix='pt' sentenceNo='14' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>kim</headword>
+	<stem>ka_1</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>3</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tayA</headword>
+	<stem>tad</stem>
+	<morphids>f3s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>4</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>kriyate</headword>
+	<stem>kf_1</stem>
+	<morphids>pre p3s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>DenvA</headword>
+	<stem>Denu</stem>
+	<morphids>f3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>3</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>yA</headword>
+	<stem>yad</stem>
+	<morphids>f1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>sUte</headword>
+	<stem>sU</stem>
+	<morphids>pre[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>anuyogI</rel>
+	<ref>5</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>dugDa</headword>
+	<stem>dugDa</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>duh_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>dA</headword>
+	<stem>da</stem>
+	<morphids>f1s</morphids>
+	<lexids>ifc</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>pratiyogI</rel>
+	<ref>8</ref>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>kaH</headword>
+	<stem>ka_1</stem>
+	<morphids>m1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>14</ref>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>arTaH</headword>
+	<stem>arTa</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karmasamAnADikaraRa</rel>
+	<ref>11</ref>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>putreRa</headword>
+	<stem>putra</stem>
+	<morphids>m3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>14</ref>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>jAtena</headword>
+	<stem>jAta</stem>
+	<morphids>m3s</morphids>
+	<lexids>ppp</lexids>
+	<root>jan</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>yaH</headword>
+	<stem>yad</stem>
+	<morphids>m1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>vidvAn</headword>
+	<stem>vidvas</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>BaktimAn</headword>
+	<stem>Baktimat</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>0</ref>
+</pada>
+
+</solution>

@@ -1,0 +1,121 @@
+<solution prefix='pt' sentenceNo='821' solutionSH='168' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,5,6,12,31,32,43</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>jambukaH</headword>
+	<stem>jambuka</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>huqa</headword>
+	<stem>huqa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>yudDena</headword>
+	<stem>yudDa</stem>
+	<morphids></morphids>
+	<lexids>noun_ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>vayam</headword>
+	<stem>asmad</stem>
+	<morphids>x1p</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_conj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>AzAQaBUtinA</headword>
+	<stem>AzAQaBUti</stem>
+	<morphids>m3s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>dUtikA</headword>
+	<stem>dUtikA</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>para</headword>
+	<stem>para</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>kAryeRa</headword>
+	<stem>kArya</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun_ck</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>trayaH</headword>
+	<stem>tri</stem>
+	<morphids>m1p</morphids>
+	<lexids>num_cardinal</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>dozAH</headword>
+	<stem>doza</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>svayam</headword>
+	<stem>svayam</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>kftAH</headword>
+	<stem>kfta</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj_ctp2</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

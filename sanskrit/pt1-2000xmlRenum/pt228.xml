@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='228' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>3,9,11,16</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>SivAH</headword>
+	<stem>Siva</stem>
+	<morphids>f1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>te</headword>
+	<stem>tvad</stem>
+	<morphids>x6s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>panTAnaH</headword>
+	<stem>paTin</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>santu</headword>
+	<stem>as_1</stem>
+	<morphids>ipv[2] a3p</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

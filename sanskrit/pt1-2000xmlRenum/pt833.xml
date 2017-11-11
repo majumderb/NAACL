@@ -1,0 +1,58 @@
+<solution prefix='pt' sentenceNo='833' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,5,16,18,20,23</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>evaMviDe</headword>
+	<stem>evaMviDa</stem>
+	<morphids>n7s</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vyatikare</headword>
+	<stem>vyatikara</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>kim</headword>
+	<stem>kim</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_int</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>kartavyam</headword>
+	<stem>kartavya</stem>
+	<morphids>n1s</morphids>
+	<lexids>gerundive</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>AvayoH</headword>
+	<stem>asmad</stem>
+	<morphids>x6d</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

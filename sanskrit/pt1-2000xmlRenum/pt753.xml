@@ -1,0 +1,85 @@
+<solution prefix='pt' sentenceNo='753' solutionSH='13' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,5,6,7,12,19,22,26</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>saKi</headword>
+	<stem>saKi</stem>
+	<morphids>fvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>mada</headword>
+	<stem>mada</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vihvalaH</headword>
+	<stem>vihvala</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>ayam</headword>
+	<stem>idam</stem>
+	<morphids>m1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>sUrya</headword>
+	<stem>sUrya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>kara</headword>
+	<stem>kara_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>spfzwaH</headword>
+	<stem>spfzwa</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_ctp3</lexids>
+	<root>spfS_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>praboDam</headword>
+	<stem>praboDa</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>yAsyati</headword>
+	<stem>yA_1</stem>
+	<morphids>fut a3s</morphids>
+	<lexids>vt2a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

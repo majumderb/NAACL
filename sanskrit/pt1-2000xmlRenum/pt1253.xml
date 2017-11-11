@@ -1,0 +1,76 @@
+<solution prefix='pt' sentenceNo='1253' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>5,6,14</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tata_2</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>suDA</headword>
+	<stem>suDA</stem>
+	<morphids>f1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>plAvitam</headword>
+	<stem>plAvita</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun_ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>iva</headword>
+	<stem>iva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>AtmAnam</headword>
+	<stem>Atman</stem>
+	<morphids>m2s</morphids>
+	<lexids>pron_reflexive</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>manyamAnaH</headword>
+	<stem>manyamat</stem>
+	<morphids>m1s</morphids>
+	<lexids>prpp</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>devIm</headword>
+	<stem>deva</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>uvAca</headword>
+	<stem>vac</stem>
+	<morphids>prf a3s</morphids>
+	<lexids>vt2a</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+
+</solution>

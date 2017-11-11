@@ -1,0 +1,76 @@
+<solution sentenceNo='-1' solutionSH='0' siftSolutions='y' status='done' displayEncoding='deva' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,7,8</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_conj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>jasram</headword>
+	<stem>jasra</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun_ctp_na</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>mfga</headword>
+	<stem>mfga</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>utsAdanam</headword>
+	<stem>utsAdana</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>kurute</headword>
+	<stem>kf_1</stem>
+	<morphids>pre[8] m3s</morphids>
+	<lexids>vt8am</lexids>
+	<root>kf</root>
+	<comment></comment>
+</pada>
+
+</solution>

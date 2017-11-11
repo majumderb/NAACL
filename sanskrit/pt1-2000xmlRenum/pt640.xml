@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='640' solutionSH='7' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,4,6,10</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>etat</headword>
+	<stem>etad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>mayA</headword>
+	<stem>asmad</stem>
+	<morphids>x3s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>jYAtam</headword>
+	<stem>jYAta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>jYA_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>samyak</headword>
+	<stem>samyak</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

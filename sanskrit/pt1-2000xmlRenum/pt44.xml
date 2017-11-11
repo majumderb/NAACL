@@ -1,0 +1,106 @@
+<solution prefix='pt' sentenceNo='44' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>te</headword>
+	<stem>tad</stem>
+	<morphids>m1p</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>1</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>tAni</headword>
+	<stem>tad</stem>
+	<morphids>n2p</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>5</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>aDi</headword>
+	<stem>aDi</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>itya</headword>
+	<stem>itya</stem>
+	<morphids>i</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>i</root>
+	<comment></comment>
+	<rel>pUrvakAla</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>mAsa</headword>
+	<stem>mAsa</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>zawkena</headword>
+	<stem>zawka</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>SezasambanDa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>yaToktAH</headword>
+	<stem>yaTokta</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root>as_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>jAtAH</headword>
+	<stem>jAta</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppp</lexids>
+	<root>jan</root>
+	<comment></comment>
+</pada>
+
+</solution>

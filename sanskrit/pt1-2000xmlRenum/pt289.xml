@@ -1,0 +1,22 @@
+<solution prefix='pt' sentenceNo='289' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>svAmin</headword>
+	<stem>svAmin</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>SfRomi</headword>
+	<stem>Sru</stem>
+	<morphids>pre[5] a1s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

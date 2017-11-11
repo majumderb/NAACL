@@ -1,0 +1,112 @@
+<solution prefix='pt' sentenceNo='1031' solutionSH='48' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,4,6,14,23,28,33,38,39,41</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>sarva</headword>
+	<stem>sarva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>Suci</headword>
+	<stem>Suci</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>niDAnasya</headword>
+	<stem>niDAna</stem>
+	<morphids>n6s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>kftaGnasya</headword>
+	<stem>kftaGna</stem>
+	<morphids>n6s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vinASinaH</headword>
+	<stem>vinASin</stem>
+	<morphids>n6s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>SarIrakasya</headword>
+	<stem>SarIraka</stem>
+	<morphids>n6s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>kfte</headword>
+	<stem>kfta</stem>
+	<morphids>n7s</morphids>
+	<lexids>ppp</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>mUQAH</headword>
+	<stem>mUQa</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppp</lexids>
+	<root>muh</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>pApAni</headword>
+	<stem>pApa</stem>
+	<morphids>n2p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>kurvate</headword>
+	<stem>kf_1</stem>
+	<morphids>pre[8] m3p</morphids>
+	<lexids>vt8am</lexids>
+	<root>kf</root>
+	<comment></comment>
+</pada>
+
+</solution>

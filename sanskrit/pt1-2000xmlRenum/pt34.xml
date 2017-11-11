@@ -1,0 +1,75 @@
+<solution prefix='pt' sentenceNo='34' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>5</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>aham</headword>
+	<stem>asmad</stem>
+	<morphids>x1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>5</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vidyA</headword>
+	<stem>vidyA</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>vikrayam</headword>
+	<stem>vikraya</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>5</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>karomi</headword>
+	<stem>kf_1</stem>
+	<morphids>pre[8] a1s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>SAsana</headword>
+	<stem>SAsana</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>Satena</headword>
+	<stem>Sata</stem>
+	<morphids>n3s</morphids>
+	<lexids>num_cardinal</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karaRa</rel>
+	<ref>5</ref>
+</pada>
+
+</solution>

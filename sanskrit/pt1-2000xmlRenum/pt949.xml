@@ -1,0 +1,148 @@
+<solution prefix='pt' sentenceNo='949' solutionSH='316' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>5,6,11,19,26,33,41,53,61,64,68,69</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>mAma</headword>
+	<stem>mAma</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tAta</headword>
+	<stem>tAta</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>BrAtaH</headword>
+	<stem>BrAtf</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>saKe</headword>
+	<stem>saKi</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>pari</headword>
+	<stem>pari</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>nata</headword>
+	<stem>nata</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>nam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>budDe</headword>
+	<stem>budDa</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun, adj_cbv xxxxx</lexids>
+	<root>buD_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>yataH</headword>
+	<stem>yatas</stem>
+	<morphids>i</morphids>
+	<lexids>adv_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>apAyaH</headword>
+	<stem>apAya</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>SrUyate</headword>
+	<stem>Sru</stem>
+	<morphids>pre p3s</morphids>
+	<lexids>vt5a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>tataH</headword>
+	<stem>tatas</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>upAyaH</headword>
+	<stem>upAya</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>laByate</headword>
+	<stem>laB</stem>
+	<morphids>pre p3s</morphids>
+	<lexids>vt1m</lexids>
+	<root>laB</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,22 @@
+<solution prefix='pt' sentenceNo='749' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>sA</headword>
+	<stem>tad</stem>
+	<morphids>f1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>abravIt</headword>
+	<stem>brU</stem>
+	<morphids>ipf[2] a3s</morphids>
+	<lexids>vt2am</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

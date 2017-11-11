@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='762' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,5</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_neg</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tvAm</headword>
+	<stem>yuzmad</stem>
+	<morphids>x2s</morphids>
+	<lexids>pron_p2</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>BUyaH</headword>
+	<stem>BUyas</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>tozayizyAmi</headword>
+	<stem>tuz</stem>
+	<morphids>cau fut a1s</morphids>
+	<lexids>vt4a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

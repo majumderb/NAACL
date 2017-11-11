@@ -1,0 +1,155 @@
+<solution prefix='pt' sentenceNo='35' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>etAn</headword>
+	<stem>etad</stem>
+	<morphids>m2p</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezana</rel>
+	<ref>8</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>punaH</headword>
+	<stem>punar</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>mAsa</headword>
+	<stem>mAsa</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>zawkena</headword>
+	<stem>zawka</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>SezasaMbanDa</rel>
+	<ref>8</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>yadi</headword>
+	<stem>yadi</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>nIti</headword>
+	<stem>nIti</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>SAstra</headword>
+	<stem>SAstra</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>jYAn</headword>
+	<stem>jYa</stem>
+	<morphids>m2p</morphids>
+	<lexids>ifc</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>karomi</headword>
+	<stem>kf_1</stem>
+	<morphids>pre[8] a1s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>tataH</headword>
+	<stem>tata_2</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>15</ref>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>sva</headword>
+	<stem>sva</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>nAma</headword>
+	<stem>nAma</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>parityAgam</headword>
+	<stem>parityAga</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>15</ref>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>karomi</headword>
+	<stem>kf_1</stem>
+	<morphids>pre[8] a1s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

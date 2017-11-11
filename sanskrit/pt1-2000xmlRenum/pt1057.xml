@@ -1,0 +1,67 @@
+<solution prefix='pt' sentenceNo='1057' solutionSH='12' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>5,7,19,22,23</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>aho</headword>
+	<stem>aho</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>mayA</headword>
+	<stem>aham</stem>
+	<morphids>x3s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>prAtaH</headword>
+	<stem>prAtar</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>samasta</headword>
+	<stem>samsta</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>mfga</headword>
+	<stem>mfga</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vaDaH</headword>
+	<stem>vaDa</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>kartavyaH</headword>
+	<stem>kartavya</stem>
+	<morphids>m1s</morphids>
+	<lexids>gerundive</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

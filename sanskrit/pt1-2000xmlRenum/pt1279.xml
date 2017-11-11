@@ -1,0 +1,94 @@
+<solution prefix='pt' sentenceNo='1279' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,4,6</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>vatse</headword>
+	<stem>vatsa</stem>
+	<morphids>fvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tvadIya</headword>
+	<stem>tvadIya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>BartuH</headword>
+	<stem>Bartf</stem>
+	<morphids>m6s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>balAt</headword>
+	<stem>bala</stem>
+	<morphids>n5s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>asmABiH</headword>
+	<stem>aham</stem>
+	<morphids>x3p</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>SatruRA</headword>
+	<stem>Satru</stem>
+	<morphids>m3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>saha</headword>
+	<stem>saha</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>vigrahaH</headword>
+	<stem>vigraha</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>prA</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root>A</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>rabDaH</headword>
+	<stem>rabDa</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root>raB</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,88 @@
+<solution prefix='pt' sentenceNo='57' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>ataH</headword>
+	<stem>atas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>praBUnA</headword>
+	<stem>praBu</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>8</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>2</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>dravyeRa</headword>
+	<stem>dravya_2</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karaRa</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>tasya</headword>
+	<stem>tad</stem>
+	<morphids>m6s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>eva</headword>
+	<stem>eva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>5</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>vfdDiH</headword>
+	<stem>vfdDi</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>8</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>karaRIyA</headword>
+	<stem>karaRIya</stem>
+	<morphids>f1s</morphids>
+	<lexids>gerundive_anIya</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

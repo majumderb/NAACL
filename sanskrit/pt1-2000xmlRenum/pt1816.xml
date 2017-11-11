@@ -1,0 +1,148 @@
+<solution prefix='pt' sentenceNo='1816' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,5,21,25,32</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>bahavaH</headword>
+	<stem>bahu</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>paRqitAH</headword>
+	<stem>paRqita</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>kzudrAH</headword>
+	<stem>kzudra</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>sarve</headword>
+	<stem>sarva</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj_pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>mAyA</headword>
+	<stem>mAya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>upa</headword>
+	<stem>upa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>jIvinaH</headword>
+	<stem>jIvin</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun_ctp_upapada</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>kuryuH</headword>
+	<stem>kf_1</stem>
+	<morphids>pop[8] a3p</morphids>
+	<lexids>vt8am</lexids>
+	<root>kf</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>kftyam</headword>
+	<stem>kftya</stem>
+	<morphids>n2s</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>kftyam</headword>
+	<stem>kftya</stem>
+	<morphids>n2s</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>vA</headword>
+	<stem>vA_1</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_disj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>uzwre</headword>
+	<stem>uzwra</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>kAka</headword>
+	<stem>kAka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>AdayaH</headword>
+	<stem>Adi</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun, adj_cbv xxxxx</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>yaTA</headword>
+	<stem>yaTA</stem>
+	<morphids>i</morphids>
+	<lexids>adv_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

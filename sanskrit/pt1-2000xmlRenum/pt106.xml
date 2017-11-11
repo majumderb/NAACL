@@ -1,0 +1,24 @@
+<solution prefix='pt' sentenceNo='106' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>damanakaH</headword>
+	<stem>damanaka</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>2</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>Aha</headword>
+	<stem>ah</stem>
+	<morphids>pre a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

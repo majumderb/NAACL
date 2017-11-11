@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='1316' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>deva</headword>
+	<stem>deva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>aMSakaH</headword>
+	<stem>aMSaka</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>kOlikaH</headword>
+	<stem>kOlika</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>ayam</headword>
+	<stem>ayam</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

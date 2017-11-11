@@ -1,0 +1,139 @@
+<solution prefix='pt' sentenceNo='883' solutionSH='152' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>4,6,7,10,14,16,20,29,30,39,43,44,45</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>upAyena</headword>
+	<stem>upAya</stem>
+	<morphids>m3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>hi</headword>
+	<stem>hi_1</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_sub</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>kuryAt</headword>
+	<stem>kf_1</stem>
+	<morphids>pop[8] a3s</morphids>
+	<lexids>vt8am</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>yat</headword>
+	<stem>ya_1</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_neg</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>Sakyam</headword>
+	<stem>Sakya</stem>
+	<morphids>n1s</morphids>
+	<lexids>gerundive</lexids>
+	<root>Sak</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>parAkramEH</headword>
+	<stem>parAkrama</stem>
+	<morphids>m3p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>kAkyA</headword>
+	<stem>kAka</stem>
+	<morphids>f3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>kanaka</headword>
+	<stem>kanaka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>sUtreRa</headword>
+	<stem>sUtra</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>kfzRa</headword>
+	<stem>kfzRa</stem>
+	<morphids>iic</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>sarpaH</headword>
+	<stem>sarpa</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>ni</headword>
+	<stem>ni</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>pAtitaH</headword>
+	<stem>pAtita</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp_cau</lexids>
+	<root>pat_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

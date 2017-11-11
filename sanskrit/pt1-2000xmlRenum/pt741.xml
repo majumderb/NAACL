@@ -1,0 +1,49 @@
+<solution prefix='pt' sentenceNo='741' solutionSH='5' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,4,6,7,8</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>saKi</headword>
+	<stem>saKi</stem>
+	<morphids>fvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>mA</headword>
+	<stem>mA_2</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_neg</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>mA</headword>
+	<stem>mA_2</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_neg</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>vada</headword>
+	<stem>vad</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids>vt1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

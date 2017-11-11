@@ -1,0 +1,67 @@
+<solution prefix='pt' sentenceNo='1501' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,5,7,9,13</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>gfham</headword>
+	<stem>gfha</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>gacCatA</headword>
+	<stem>gacCat</stem>
+	<morphids>m3s</morphids>
+	<lexids>prap[1]</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>tena</headword>
+	<stem>tad</stem>
+	<morphids>m3s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>smftam</headword>
+	<stem>smfta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>smf</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vAnara</headword>
+	<stem>vAnara</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>uktam</headword>
+	<stem>ukta</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun_ctp3</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+
+</solution>

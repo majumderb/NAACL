@@ -1,0 +1,104 @@
+<solution prefix='pt' sentenceNo='18' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>yadi</headword>
+	<stem>yadi</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>kaTam</headword>
+	<stem>kaTam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>5</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>3</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>jYAyate</headword>
+	<stem>jYA_1</stem>
+	<morphids>pre p3s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>tataH</headword>
+	<stem>tata_2</stem>
+	<morphids>i</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>anuyogI</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>Darma</headword>
+	<stem>Darma</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>arTa</headword>
+	<stem>arTa</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>SAstrARi</headword>
+	<stem>SAstra</stem>
+	<morphids>n1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>jYAyante</headword>
+	<stem>jYA_1</stem>
+	<morphids>pre p3p</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

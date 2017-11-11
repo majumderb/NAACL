@@ -1,0 +1,94 @@
+<solution prefix='pt' sentenceNo='1559' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,7,12,16,19</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>dvijena</headword>
+	<stem>dvija</stem>
+	<morphids>m3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>AditaH</headword>
+	<stem>Aditas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>praBfti</headword>
+	<stem>praBfti</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>yaTA</headword>
+	<stem>yaTA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>vfttam</headword>
+	<stem>vftta</stem>
+	<morphids>n2s</morphids>
+	<lexids>cab</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>anu</headword>
+	<stem>anu_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>BUtam</headword>
+	<stem>BUta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>sarvam</headword>
+	<stem>sarva</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj_pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>KyAtam</headword>
+	<stem>KyAta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>KyA</root>
+	<comment></comment>
+</pada>
+
+</solution>

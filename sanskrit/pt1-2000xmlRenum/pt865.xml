@@ -1,0 +1,112 @@
+<solution prefix='pt' sentenceNo='865' solutionSH='360' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,21,23,24,26,28,31,32,38,42,45</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>parA</headword>
+	<stem>parA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>aBidroha</headword>
+	<stem>aBidroha</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>budDeH</headword>
+	<stem>budDi</stem>
+	<morphids>f6s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>Ikzitam</headword>
+	<stem>Ikzita</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun_ctp_na</lexids>
+	<root>Ikz</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>sat</headword>
+	<stem>sat</stem>
+	<morphids>iic</morphids>
+	<lexids>prap[2]</lexids>
+	<root>as_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>doza</headword>
+	<stem>doza</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>SrAvaRam</headword>
+	<stem>SrAvaRa_1</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>vAk</headword>
+	<stem>vAc</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>pAruzyam</headword>
+	<stem>pAruzya</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun_ctp7</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

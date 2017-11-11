@@ -1,0 +1,173 @@
+<solution prefix='pt' sentenceNo='12' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>jAta</headword>
+	<stem>jan</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>mfta</headword>
+	<stem>mfta</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>mUrKeByaH</headword>
+	<stem>mUrKa</stem>
+	<morphids>m5p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viBakta</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>mfta</headword>
+	<stem>mfta</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>jAtO</headword>
+	<stem>jAta</stem>
+	<morphids>m1d</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartfsamAnADikaraRa</rel>
+	<ref>8</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>sutO</headword>
+	<stem>suta_1</stem>
+	<morphids>m1d</morphids>
+	<lexids>ppp</lexids>
+	<root>su_2</root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>9</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>varam</headword>
+	<stem>vara_2</stem>
+	<morphids>i</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>yataH</headword>
+	<stem>yatas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>tO</headword>
+	<stem>tad</stem>
+	<morphids>m1d</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>svalpa</headword>
+	<stem>svalpa</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>duHKAya</headword>
+	<stem>duHKa</stem>
+	<morphids>n4s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>prayojan</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>yAvat</headword>
+	<stem>yAvat</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>jIvam</headword>
+	<stem>jIva</stem>
+	<morphids>i</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>17</ref>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>jaqaH</headword>
+	<stem>jaqa</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>17</ref>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>dahet</headword>
+	<stem>dah_1</stem>
+	<morphids>pop[1] a3s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

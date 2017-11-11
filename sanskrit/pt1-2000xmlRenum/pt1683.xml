@@ -1,0 +1,49 @@
+<solution prefix='pt' sentenceNo='1683' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>3</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>BoH</headword>
+	<stem>BoH</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>vAhitAH</headword>
+	<stem>vAhita</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppp_cau</lexids>
+	<root>vah_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vayam</headword>
+	<stem>aham</stem>
+	<morphids>x1p</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>anena</headword>
+	<stem>ayam</stem>
+	<morphids>m3s</morphids>
+	<lexids>adj_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>SfgAlena</headword>
+	<stem>SfgAla</stem>
+	<morphids>m3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

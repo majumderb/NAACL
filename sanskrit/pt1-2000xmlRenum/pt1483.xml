@@ -1,0 +1,58 @@
+<solution prefix='pt' sentenceNo='1483' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>7</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>uktvA</headword>
+	<stem>vac</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>guhA</headword>
+	<stem>guhA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>aBimuKam</headword>
+	<stem>aBimuKa</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun_ctp2</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>ayAt</headword>
+	<stem>yA_1</stem>
+	<morphids>ipf[2] a3s</morphids>
+	<lexids>vt2a</lexids>
+	<root>yA</root>
+	<comment></comment>
+</pada>
+
+</solution>

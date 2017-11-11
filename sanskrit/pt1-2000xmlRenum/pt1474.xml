@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='1474' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>3,5</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tri</headword>
+	<stem>tri</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>satyena</headword>
+	<stem>satya</stem>
+	<morphids>n3s</morphids>
+	<lexids>ctp_dvigu</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>AtmAnam</headword>
+	<stem>Atman</stem>
+	<morphids>m2s</morphids>
+	<lexids>pron_reflexive</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>SapAmi</headword>
+	<stem>Sap</stem>
+	<morphids>pre[1] a1s</morphids>
+	<lexids>vt1a</lexids>
+	<root>Sap</root>
+	<comment></comment>
+</pada>
+
+</solution>

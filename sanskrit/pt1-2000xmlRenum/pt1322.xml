@@ -1,0 +1,841 @@
+<solution prefix='pt' sentenceNo='1322' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>6,21,28,29,31,39,49,55,57,68,83,87,103,114,118,132,135,138</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ukte</headword>
+	<stem>ukta</stem>
+	<morphids>n7s</morphids>
+	<lexids>ppp</lexids>
+	<root>vac</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>kfta</headword>
+	<stem>kfta</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>kf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>maNgala</headword>
+	<stem>maNgala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>viDiH</headword>
+	<stem>viDi</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>sAMgrAmika</headword>
+	<stem>sAMgrAmika</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>alam</headword>
+	<stem>alam</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>karaRa</headword>
+	<stem>karaRa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>vi</headword>
+	<stem>vI_2</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>BUzitaH</headword>
+	<stem>BUzita</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_ctp3</lexids>
+	<root>BUz</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>gorocana</headword>
+	<stem>gorocana</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>asita</headword>
+	<stem>asita</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>sidDa</headword>
+	<stem>sidDa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>arTaka</headword>
+	<stem>arTaka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>kusuma</headword>
+	<stem>kusuma</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>Adi</headword>
+	<stem>Adi</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>kfta</headword>
+	<stem>kfta</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>vandanaH</headword>
+	<stem>vandana</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>udite</headword>
+	<stem>udita_2</stem>
+	<morphids>m7s</morphids>
+	<lexids>ppp</lexids>
+	<root>vad</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>21</padanum>
+	<headword>Bagavati</headword>
+	<stem>Bagavat</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>kamalA</headword>
+	<stem>kamalA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>kara</headword>
+	<stem>kara_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>24</padanum>
+	<headword>bAnDave</headword>
+	<stem>bAnDava</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>25</padanum>
+	<headword>prAcI</headword>
+	<stem>prAc</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>26</padanum>
+	<headword>dik</headword>
+	<stem>diS_2</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>27</padanum>
+	<headword>vaDU</headword>
+	<stem>vaDU</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>28</padanum>
+	<headword>muKa</headword>
+	<stem>muKa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>29</padanum>
+	<headword>tilake</headword>
+	<stem>tilaka</stem>
+	<morphids>m7s</morphids>
+	<lexids>adj_ctp7</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>30</padanum>
+	<headword>sahasra</headword>
+	<stem>sahasra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>31</padanum>
+	<headword>kiraRe</headword>
+	<stem>kiraRa</stem>
+	<morphids>m7s</morphids>
+	<lexids>ctp_dvigu</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>32</padanum>
+	<headword>vEjayikezu</headword>
+	<stem>vEjayika</stem>
+	<morphids>m7p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>33</padanum>
+	<headword>saNgrAma</headword>
+	<stem>saNgrAma</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>34</padanum>
+	<headword>tUryezu</headword>
+	<stem>tUrya</stem>
+	<morphids>n7p</morphids>
+	<lexids>noun_ctp7</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>35</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>36</padanum>
+	<headword>hatezu</headword>
+	<stem>hata</stem>
+	<morphids>m7p</morphids>
+	<lexids>ppp</lexids>
+	<root>han_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>37</padanum>
+	<headword>nagarAt</headword>
+	<stem>nagara</stem>
+	<morphids>n5s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>38</padanum>
+	<headword>niH</headword>
+	<stem>niH</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>39</padanum>
+	<headword>gatya</headword>
+	<stem>gam</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>40</padanum>
+	<headword>saNgrAma</headword>
+	<stem>saNgrAma</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>41</padanum>
+	<headword>BUmim</headword>
+	<stem>BUmi</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>42</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>43</padanum>
+	<headword>Apte</headword>
+	<stem>Apta</stem>
+	<morphids>m7s</morphids>
+	<lexids>ppp</lexids>
+	<root>Ap</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>44</padanum>
+	<headword>rAjani</headword>
+	<stem>rAjan</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>45</padanum>
+	<headword>yaTA</headword>
+	<stem>yaTA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>46</padanum>
+	<headword>sTAnam</headword>
+	<stem>sTAna</stem>
+	<morphids>i</morphids>
+	<lexids>adv_cab</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>47</padanum>
+	<headword>uBaya</headword>
+	<stem>uBaya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>48</padanum>
+	<headword>balezu</headword>
+	<stem>bala</stem>
+	<morphids></morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>49</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>50</padanum>
+	<headword>Uhitezu</headword>
+	<stem>Uhita</stem>
+	<morphids>n7p</morphids>
+	<lexids>ppp</lexids>
+	<root>Uh</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>51</padanum>
+	<headword>vftte</headword>
+	<stem>vftta</stem>
+	<morphids>m7s</morphids>
+	<lexids>ppp</lexids>
+	<root>vft_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>52</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_conj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>53</padanum>
+	<headword>pAda</headword>
+	<stem>pAda</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>54</padanum>
+	<headword>Ata</headword>
+	<stem>Ata</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>55</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>56</padanum>
+	<headword>prahAre</headword>
+	<stem>prahAra</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun_ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>57</padanum>
+	<headword>kOlikaH</headword>
+	<stem>kOlika</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>58</padanum>
+	<headword>garuqam</headword>
+	<stem>garuqa</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>59</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>60</padanum>
+	<headword>ruhya</headword>
+	<stem>ruh_1</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>61</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>62</padanum>
+	<headword>tIrRa</headword>
+	<stem>tIrRa</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>tF</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>63</padanum>
+	<headword>suvarRa</headword>
+	<stem>suvarRa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>64</padanum>
+	<headword>ratna</headword>
+	<stem>ratna</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>65</padanum>
+	<headword>Adi</headword>
+	<stem>Adi</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>66</padanum>
+	<headword>dAna</headword>
+	<stem>dAna</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>67</padanum>
+	<headword>viDiH</headword>
+	<stem>viDi</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>68</padanum>
+	<headword>Davala</headword>
+	<stem>Davala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>69</padanum>
+	<headword>gfhAt</headword>
+	<stem>gfha</stem>
+	<morphids>n5s</morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>70</padanum>
+	<headword>ut</headword>
+	<stem>ut</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>71</padanum>
+	<headword>patya</headword>
+	<stem>pat_1</stem>
+	<morphids>i</morphids>
+	<lexids>abs</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>72</padanum>
+	<headword>vihAyas</headword>
+	<stem>vihAyas</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>73</padanum>
+	<headword>talam</headword>
+	<stem>tala</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>74</padanum>
+	<headword>kutUhala</headword>
+	<stem>kutUhala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>75</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>76</padanum>
+	<headword>vizwEH</headword>
+	<stem>vizwa</stem>
+	<morphids>m3p</morphids>
+	<lexids>adj_cbv</lexids>
+	<root>viS_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>77</padanum>
+	<headword>nagara</headword>
+	<stem>nagara</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>78</padanum>
+	<headword>janEH</headword>
+	<stem>jana</stem>
+	<morphids>m3p</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>79</padanum>
+	<headword>niH</headword>
+	<stem>niH</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>80</padanum>
+	<headword>IkzyamARaH</headword>
+	<stem>IkzyamARa</stem>
+	<morphids>m1s</morphids>
+	<lexids>prpp</lexids>
+	<root>Ikz</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>81</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>82</padanum>
+	<headword>vandyamAnaH</headword>
+	<stem>vandyamAna</stem>
+	<morphids>m1s</morphids>
+	<lexids>prpp</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>83</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_conj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>84</padanum>
+	<headword>nagarAt</headword>
+	<stem>nagara</stem>
+	<morphids>n5s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>85</padanum>
+	<headword>bahiH</headword>
+	<stem>bahis</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment>svarAdi</comment>
+</pada>
+<pada>
+	<padanum>86</padanum>
+	<headword>sva</headword>
+	<stem>sva</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>87</padanum>
+	<headword>sEnyasya</headword>
+	<stem>sEnya</stem>
+	<morphids>n6s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>88</padanum>
+	<headword>upari</headword>
+	<stem>upari</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>89</padanum>
+	<headword>prOQa</headword>
+	<stem>prOQa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>90</padanum>
+	<headword>nAdam</headword>
+	<stem>nAda</stem>
+	<morphids>n2s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>91</padanum>
+	<headword>pAYcajanyam</headword>
+	<stem>pAYcajanya</stem>
+	<morphids>n2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>92</padanum>
+	<headword>SaNKam</headword>
+	<stem>SaNKa</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>93</padanum>
+	<headword>apUrayat</headword>
+	<stem>pF</stem>
+	<morphids>cau ipf a3s</morphids>
+	<lexids>vt3a</lexids>
+	<root>pF</root>
+	<comment></comment>
+</pada>
+
+</solution>

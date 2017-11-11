@@ -1,0 +1,22 @@
+<solution prefix='pt' sentenceNo='1067' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,11</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>SaSakaH</headword>
+	<stem>SaSaka</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>Aha</headword>
+	<stem>ah</stem>
+	<morphids>prf a3s</morphids>
+	<lexids>vt2a</lexids>
+	<root>brU</root>
+	<comment></comment>
+</pada>
+
+</solution>

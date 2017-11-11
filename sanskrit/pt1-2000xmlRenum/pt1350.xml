@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='1350' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,6</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>kutaH</headword>
+	<stem>kutas</stem>
+	<morphids>i</morphids>
+	<lexids>adv_int</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>BavAn</headword>
+	<stem>Bavat_2</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>cirAt</headword>
+	<stem>cirAt</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment>not in svarAdi, but ciram is</comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>dfzwaH</headword>
+	<stem>dfzwa</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root>dfS_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

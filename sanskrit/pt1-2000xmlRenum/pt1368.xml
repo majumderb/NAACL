@@ -1,0 +1,22 @@
+<solution prefix='pt' sentenceNo='1368' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tena</headword>
+	<stem>tad</stem>
+	<morphids>m3s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>hi</headword>
+	<stem>hi_1</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_sub</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

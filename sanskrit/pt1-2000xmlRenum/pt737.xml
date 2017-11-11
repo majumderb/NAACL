@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='737' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,5</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>paSya</headword>
+	<stem>dfS</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids>vt1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>mama</headword>
+	<stem>asmad</stem>
+	<morphids>x6s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>avasTAm</headword>
+	<stem>avasTA_2</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

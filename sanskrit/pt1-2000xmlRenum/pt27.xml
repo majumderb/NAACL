@@ -1,0 +1,44 @@
+<solution prefix='pt' sentenceNo='27' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tasmE</headword>
+	<stem>tad</stem>
+	<morphids>m4s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sampradAna</rel>
+	<ref>3</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>arpaya</headword>
+	<stem>f</stem>
+	<morphids>cau ipv a2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>etAn</headword>
+	<stem>etad</stem>
+	<morphids>m2p</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>3</ref>
+</pada>
+
+</solution>

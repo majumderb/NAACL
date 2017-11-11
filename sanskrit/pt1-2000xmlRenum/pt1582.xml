@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='1582' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>kataraH</headword>
+	<stem>katara</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_comp</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>eza</headword>
+	<stem>eza</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>nayaH</headword>
+	<stem>naya</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

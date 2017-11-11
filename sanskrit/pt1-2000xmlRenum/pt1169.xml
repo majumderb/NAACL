@@ -1,0 +1,121 @@
+<solution prefix='pt' sentenceNo='1169' solutionSH='108' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,11,12,15,16,28,29,34,40</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>dikzu</headword>
+	<stem>diS_2</stem>
+	<morphids>f7p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>BUmO</headword>
+	<stem>BUmi</stem>
+	<morphids>f7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>taTA</headword>
+	<stem>taTA</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>AkASe</headword>
+	<stem>AkAsa</stem>
+	<morphids>n7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>sarvatra</headword>
+	<stem>sarvatra</stem>
+	<morphids>i</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_conj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>BAvyate</headword>
+	<stem>BU_1</stem>
+	<morphids>cau pre p3s</morphids>
+	<lexids>vi1a</lexids>
+	<root>BU</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>smaryate</headword>
+	<stem>smf</stem>
+	<morphids>cau pre p3s</morphids>
+	<lexids>vt1a</lexids>
+	<root>smf</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>prARa</headword>
+	<stem>prARa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>sandehe</headword>
+	<stem>sandeha</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>tanvI</headword>
+	<stem>tanu_1</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>nArAyaRAyate</headword>
+	<stem>nArAyaRAy</stem>
+	<morphids>iic</morphids>
+	<lexids>vt10m</lexids>
+	<root>denom</root>
+	<comment> P. 3.1.11</comment>
+</pada>
+
+</solution>

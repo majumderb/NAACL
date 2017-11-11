@@ -1,0 +1,58 @@
+<solution prefix='pt' sentenceNo='1312' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>4,7</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>Bagavat</headword>
+	<stem>Bagavat</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>BaktAH</headword>
+	<stem>Bakta</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root>Baj</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_conj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>tridaRqinaH</headword>
+	<stem>tridaRqin</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>pravrajyAm</headword>
+	<stem>pravrajya</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>tyakzyanti</headword>
+	<stem>tyaj_1</stem>
+	<morphids>fut a3p</morphids>
+	<lexids>vt1a</lexids>
+	<root>tyaj</root>
+	<comment></comment>
+</pada>
+
+</solution>

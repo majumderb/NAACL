@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='638' solutionSH='18' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,18,23</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>aBra</headword>
+	<stem>aBra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>CAyA</headword>
+	<stem>CAyA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>sadfSAH</headword>
+	<stem>sadfSa</stem>
+	<morphids>m1p</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>BogAH</headword>
+	<stem>Boga_1</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

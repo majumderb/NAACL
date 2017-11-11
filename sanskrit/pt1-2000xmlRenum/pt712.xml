@@ -1,0 +1,139 @@
+<solution prefix='pt' sentenceNo='712' solutionSH='144' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>4,5,8,13,15,17,19,21,22,24,34,35,38,40</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>paryaNkezu</headword>
+	<stem>paryaNka</stem>
+	<morphids>m7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>AstaraRam</headword>
+	<stem>AstaraRa</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>patim</headword>
+	<stem>pati</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>anukUlam</headword>
+	<stem>anukUla</stem>
+	<morphids>n2s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>manaH</headword>
+	<stem>manas</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>haram</headword>
+	<stem>hara</stem>
+	<morphids>n2s</morphids>
+	<lexids>adj_ctp_upapada</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>Sayanam</headword>
+	<stem>Sayana</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun_action</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>tfRam</headword>
+	<stem>tfRa</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>iva</headword>
+	<stem>iva</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>laGu</headword>
+	<stem>laGu</stem>
+	<morphids>n2s</morphids>
+	<lexids>adv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>manyante</headword>
+	<stem>man</stem>
+	<morphids>pre[4] m3p</morphids>
+	<lexids>vt4m</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>kAminyaH</headword>
+	<stem>kAmin</stem>
+	<morphids>f1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>cOrya</headword>
+	<stem>cOrya</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>rata</headword>
+	<stem>rata</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root>ram</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>lubDAH</headword>
+	<stem>lubDa</stem>
+	<morphids>f1p</morphids>
+	<lexids>adj_ctp7</lexids>
+	<root>luB</root>
+	<comment></comment>
+</pada>
+
+</solution>

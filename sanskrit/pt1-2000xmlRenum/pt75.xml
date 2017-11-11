@@ -1,0 +1,102 @@
+<solution prefix='pt' sentenceNo='75' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>evam</headword>
+	<stem>evam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>3</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>diSya</headword>
+	<stem>diS_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>pUrvakAla</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>yaTA</headword>
+	<stem>yaTA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>lazitam</headword>
+	<stem>lazita</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>laz</root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>deSa</headword>
+	<stem>deSa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>antaram</headword>
+	<stem>antara</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>sTitaH</headword>
+	<stem>sTita</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root>sTA_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

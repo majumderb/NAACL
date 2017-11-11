@@ -1,0 +1,94 @@
+<solution prefix='pt' sentenceNo='955' solutionSH='40' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>11,15,16,17,39</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>mAma</headword>
+	<stem>mAma</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>saKe</headword>
+	<stem>saKi</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>nizkAraRa</headword>
+	<stem>nizkAraRa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>banDo</headword>
+	<stem>banDU</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>mAm</headword>
+	<stem>aham</stem>
+	<morphids>x2s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>mAm</headword>
+	<stem>aham</stem>
+	<morphids>x2s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>praTama</headword>
+	<stem>praTama</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>taram</headword>
+	<stem>taram</stem>
+	<morphids>i</morphids>
+	<lexids>adj_comp</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>naya</headword>
+	<stem>nI</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids>vt1am</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

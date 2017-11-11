@@ -1,0 +1,121 @@
+<solution prefix='pt' sentenceNo='1160' solutionSH='148' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>3,9,12,13,19,21,30,36,38,40,41</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>ekam</headword>
+	<stem>eka</stem>
+	<morphids>n1s</morphids>
+	<lexids>num_cardinal</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>utkaRWayA</headword>
+	<stem>utkaRWA</stem>
+	<morphids>f3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>Aptam</headword>
+	<stem>Apta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>Ap</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>anyat</headword>
+	<stem>anya</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>dayitayA</headword>
+	<stem>dayita</stem>
+	<morphids>f3s</morphids>
+	<lexids>ppp</lexids>
+	<root>day</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>hftam</headword>
+	<stem>hfta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>hf_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>cEtanyam</headword>
+	<stem>cEtanya</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>aparam</headword>
+	<stem>apara</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>Datte</headword>
+	<stem>DA_1</stem>
+	<morphids>pre[3] m3s</morphids>
+	<lexids>vt3am</lexids>
+	<root>DA</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>kiyanti</headword>
+	<stem>kiyat</stem>
+	<morphids>n1p</morphids>
+	<lexids>adj_int</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>hfdayAni</headword>
+	<stem>hfdaya</stem>
+	<morphids>n1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>me</headword>
+	<stem>aham</stem>
+	<morphids>x6s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

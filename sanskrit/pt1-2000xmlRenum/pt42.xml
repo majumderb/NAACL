@@ -1,0 +1,210 @@
+<solution prefix='pt' sentenceNo='42' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>etAm</headword>
+	<stem>etad</stem>
+	<morphids>f2s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>brAhmaRasya</headword>
+	<stem>brAhmaRa</stem>
+	<morphids>m6s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>BAvyAm</headword>
+	<stem>BAvya</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>pratijYAm</headword>
+	<stem>pratijYA_2</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>SrutvA</headword>
+	<stem>Sru</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>pUrvakAla</rel>
+	<ref>20</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>sa</headword>
+	<stem>sa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>sacivaH</headword>
+	<stem>saciva</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>rAjA</headword>
+	<stem>rAjan</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>20</ref>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>vismaya</headword>
+	<stem>vismaya</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>anu</headword>
+	<stem>anu_1</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>itaH</headword>
+	<stem>ita</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root>i</root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>tasmE</headword>
+	<stem>tad</stem>
+	<morphids>m4s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sampradAna</rel>
+	<ref>17</ref>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>kumArAn</headword>
+	<stem>kumAra</stem>
+	<morphids>m2p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>17</ref>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root>f</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>arpay</headword>
+	<stem>f</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>pUrvakAla</rel>
+	<ref>20</ref>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>parAm</headword>
+	<stem>para</stem>
+	<morphids>f2s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>19</ref>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>nirvftim</headword>
+	<stem>nirvfti</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>20</ref>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>jagAma</headword>
+	<stem>gam</stem>
+	<morphids>prf a3s</morphids>
+	<lexids>v1a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

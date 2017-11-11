@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='831' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>jambukaH</headword>
+	<stem>jambuka</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>huqa</headword>
+	<stem>huqa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>yudDena</headword>
+	<stem>yudDa</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun_ctp3</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>ityAdi</headword>
+	<stem>ityAdi</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

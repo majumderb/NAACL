@@ -1,0 +1,73 @@
+<solution prefix='pt' sentenceNo='17' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>deva</headword>
+	<stem>deva</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>dvA</headword>
+	<stem>dva</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>daSaBiH</headword>
+	<stem>daSan</stem>
+	<morphids>x3p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>4</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>varzEH</headword>
+	<stem>varza</stem>
+	<morphids>n3p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>Seza sambanDa</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>tAvat</headword>
+	<stem>tAvat</stem>
+	<morphids>i</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vyAkaraRam</headword>
+	<stem>vyAkaraRa</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>SrUyate</headword>
+	<stem>Sru</stem>
+	<morphids>pre p3s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

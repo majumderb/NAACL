@@ -1,0 +1,64 @@
+<solution prefix='pt' sentenceNo='31' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>aham</headword>
+	<stem>asmad</stem>
+	<morphids>x1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>prayojakakartf</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tvAm</headword>
+	<stem>yuzmad</stem>
+	<morphids>x2s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>prayojyakartf</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>SAsana</headword>
+	<stem>SAsana</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>Satena</headword>
+	<stem>Sata</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karaRa</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>ni</headword>
+	<stem>ni</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>yojayizyAmi</headword>
+	<stem>yuj_1</stem>
+	<morphids>cau fut a1s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

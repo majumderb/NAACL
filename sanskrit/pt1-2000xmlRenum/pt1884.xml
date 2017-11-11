@@ -1,0 +1,58 @@
+<solution prefix='pt' sentenceNo='1884' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,4,11</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>yat</headword>
+	<stem>ya_1</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kAraRam</headword>
+	<stem>kAraRa</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>devaH</headword>
+	<stem>deva</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>paTyA</headword>
+	<stem>paTyA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>hArI</headword>
+	<stem>hArin</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_ctp_upapada</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vartate</headword>
+	<stem>vft_1</stem>
+	<morphids>pre[1] m3s</morphids>
+	<lexids>vi1m</lexids>
+	<root>vft</root>
+	<comment></comment>
+</pada>
+
+</solution>

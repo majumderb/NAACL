@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='1696' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,4,8</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>Badra</headword>
+	<stem>Badra</stem>
+	<morphids>mvs</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>BavataH</headword>
+	<stem>Bavat_2</stem>
+	<morphids>m6s</morphids>
+	<lexids>adj</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>kuSalam</headword>
+	<stem>kuSala</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

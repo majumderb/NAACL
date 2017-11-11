@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='531' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,6,10</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>nUnam</headword>
+	<stem>nUnam</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>asya</headword>
+	<stem>ayam</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>goraBakasya</headword>
+	<stem>goraBaka</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>cezwitam</headword>
+	<stem>cezwita</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>cezw</root>
+	<comment></comment>
+</pada>
+
+</solution>

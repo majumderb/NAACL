@@ -1,0 +1,67 @@
+<solution prefix='pt' sentenceNo='445' solutionSH='21' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,4,6,15,27,34</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>etat</headword>
+	<stem>eza</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>vanam</headword>
+	<stem>vana</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>caRqikA</headword>
+	<stem>caRqika</stem>
+	<morphids>f1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>vAhanasya</headword>
+	<stem>vAhana</stem>
+	<morphids>n6s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>piNgalakasya</headword>
+	<stem>piNgalaka</stem>
+	<morphids>m6s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vizayI</headword>
+	<stem>vizayin</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>BUtam</headword>
+	<stem>BUta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='1274' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>6</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tizWata</headword>
+	<stem>sTA_1</stem>
+	<morphids>ipv[1] a2p</morphids>
+	<lexids>vi1a</lexids>
+	<root>sTA</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>yUyam</headword>
+	<stem>tvad</stem>
+	<morphids>x1p</morphids>
+	<lexids>pron_p2</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>yaTA</headword>
+	<stem>yaTA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>suKam</headword>
+	<stem>suKa</stem>
+	<morphids>i</morphids>
+	<lexids>cab</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

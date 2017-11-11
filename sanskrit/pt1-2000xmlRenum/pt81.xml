@@ -1,0 +1,113 @@
+<solution prefix='pt' sentenceNo='81' solutionSH='80' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>4,5,6,14,15</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>prati</headword>
+	<stem>prati</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>aham</headword>
+	<stem>ahan</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>11</ref>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>valmIka</headword>
+	<stem>valmIka</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>SiKarARi</headword>
+	<stem>SiKara</stem>
+	<morphids>n2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>9</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>SfNga</headword>
+	<stem>SfNga</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>agra</headword>
+	<stem>agra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>GawwanEH</headword>
+	<stem>Gawwana</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karaRa</rel>
+	<ref>9</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>ut</headword>
+	<stem>ut</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>liKan</headword>
+	<stem>liKat</stem>
+	<morphids>m1s</morphids>
+	<lexids>prap[6]</lexids>
+	<root>liK</root>
+	<comment></comment>
+	<rel>samAnakAla</rel>
+	<ref>11</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>dantivat</headword>
+	<stem>dantivat</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>11</ref>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>tizWati</headword>
+	<stem>sTA_1</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

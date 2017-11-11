@@ -1,0 +1,104 @@
+<solution prefix='pt' sentenceNo='60' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>yujyamAnaH</headword>
+	<stem>yujyamAna</stem>
+	<morphids>m1s</morphids>
+	<lexids>prpp</lexids>
+	<root>yuj_1</root>
+	<comment></comment>
+	<rel>samAnakAla</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>prayojana</headword>
+	<stem>prayojana</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>utpattO</headword>
+	<stem>utpatti</stem>
+	<morphids>f7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>vizayADikaraRa</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>tulyaH</headword>
+	<stem>tulya</stem>
+	<morphids>m1s</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>tul</root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>0</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>Aptasya</headword>
+	<stem>Aptasya</stem>
+	<morphids>m6s</morphids>
+	<lexids>ppp</lexids>
+	<root>Ap</root>
+	<comment></comment>
+	<rel>zazWIsambanDa</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>0</ref>
+</pada>
+
+</solution>

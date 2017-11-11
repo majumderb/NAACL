@@ -1,0 +1,115 @@
+<solution prefix='pt' sentenceNo='59' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>loka</headword>
+	<stem>loka</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>mArgeRa</headword>
+	<stem>mArga</stem>
+	<morphids>m3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karaRa</rel>
+	<ref>4</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>2</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>rakzyamARaH</headword>
+	<stem>rakzyamARa</stem>
+	<morphids>m1s</morphids>
+	<lexids>prpp</lexids>
+	<root>rakz</root>
+	<comment></comment>
+	<rel>samAnakAla</rel>
+	<ref>11</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>arTaH</headword>
+	<stem>arTa</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>11</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>bahu</headword>
+	<stem>bahu</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>apa</headword>
+	<stem>apa</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>dravatayA</headword>
+	<stem>dravatA</stem>
+	<morphids>f3s</morphids>
+	<lexids></lexids>
+	<root>dru_1</root>
+	<comment></comment>
+	<rel>karaRa</rel>
+	<ref>11</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>sadyaH</headword>
+	<stem>sadyas</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>11</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>naSyet</headword>
+	<stem>naS_1</stem>
+	<morphids>pop[4] a3s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

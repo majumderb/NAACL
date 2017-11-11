@@ -1,0 +1,58 @@
+<solution prefix='pt' sentenceNo='1947' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,11</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>svAmin</headword>
+	<stem>svAmin</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>ete</headword>
+	<stem>eza</stem>
+	<morphids>m1p</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>tAvat</headword>
+	<stem>tAvat</stem>
+	<morphids>i</morphids>
+	<lexids>adv_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>BakzyAH</headword>
+	<stem>Bakzya</stem>
+	<morphids>m1p</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>Bakz</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>BavatAm</headword>
+	<stem>Bavat_2</stem>
+	<morphids>m6p</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

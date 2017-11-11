@@ -1,0 +1,46 @@
+<solution prefix='pt' sentenceNo='110' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>asti</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>kasminScit</headword>
+	<stem>kasminScid</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>3</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>pradeSe</headword>
+	<stem>pradeSa</stem>
+	<morphids>m7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>deSADikaraRa</rel>
+	<ref>1</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>nagaram</headword>
+	<stem>nagara</stem>
+	<morphids>n1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>1</ref>
+</pada>
+
+</solution>

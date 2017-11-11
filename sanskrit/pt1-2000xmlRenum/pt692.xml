@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='692' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,3,4</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>dehi</headword>
+	<stem>dA_1</stem>
+	<morphids>ipv[3] a2s</morphids>
+	<lexids>vt3am</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>me</headword>
+	<stem>asmad</stem>
+	<morphids>x4s</morphids>
+	<lexids>1st pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>prativacanam</headword>
+	<stem>prativacana</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

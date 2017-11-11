@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='1616' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,4,8</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>gamyatAm</headword>
+	<stem>gam</stem>
+	<morphids>ipv p3s</morphids>
+	<lexids>v1a</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>asmAt</headword>
+	<stem>ayam</stem>
+	<morphids>n5s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>tvaritam</headword>
+	<stem>tvarita</stem>
+	<morphids>n2s</morphids>
+	<lexids>ppp_cau</lexids>
+	<root>tvar</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

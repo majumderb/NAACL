@@ -1,0 +1,146 @@
+<solution prefix='pt' sentenceNo='49' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>aTa</headword>
+	<stem>aTa</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>ataH</headword>
+	<stem>ataH</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>raByate</headword>
+	<stem>raB</stem>
+	<morphids>pre p3s</morphids>
+	<lexids>vt1m</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>mitra</headword>
+	<stem>mitra</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>BedaH</headword>
+	<stem>Beda</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>pratiyogI</rel>
+	<ref>8</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>nAma</headword>
+	<stem>nAman</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>anuyogI</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>praTamam</headword>
+	<stem>praTama</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>tantram</headword>
+	<stem>tantra</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>5</ref>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>yasya</headword>
+	<stem>yad</stem>
+	<morphids>m6s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>zazWIsambanDa</rel>
+	<ref>14</ref>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>ayam</headword>
+	<stem>idam</stem>
+	<morphids>m1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>14</ref>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>AdyaH</headword>
+	<stem>Adya_2</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>14</ref>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>SlokaH</headword>
+	<stem>Sloka</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>0</ref>
+</pada>
+
+</solution>

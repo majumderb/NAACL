@@ -1,0 +1,121 @@
+<solution prefix='pt' sentenceNo='1898' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>5,8,12,16</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>Apadam</headword>
+	<stem>Apad_2</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>ApnuyAt</headword>
+	<stem>Ap</stem>
+	<morphids>pop[5] a3s</morphids>
+	<lexids>vt5a</lexids>
+	<root>Ap</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>svAmI</headword>
+	<stem>svAmin</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>yasya</headword>
+	<stem>ya_1</stem>
+	<morphids>m6s</morphids>
+	<lexids>pron_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>Bftyasya</headword>
+	<stem>Bftya</stem>
+	<morphids>m6s</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>Bf</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>paSyataH</headword>
+	<stem>paSyat</stem>
+	<morphids>m6s</morphids>
+	<lexids>prap[4]</lexids>
+	<root>paS</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>prARezu</headword>
+	<stem>prARa</stem>
+	<morphids>m7p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>vidyamAnezu</headword>
+	<stem>vidyamAna</stem>
+	<morphids>m7p</morphids>
+	<lexids>prpp</lexids>
+	<root>vid_2</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids>adj_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>BftyaH</headword>
+	<stem>Bftya</stem>
+	<morphids>m1s</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>Bf</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>narakam</headword>
+	<stem>naraka</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>vrajet</headword>
+	<stem>vraj</stem>
+	<morphids>pop[1] a3s</morphids>
+	<lexids>vt1a</lexids>
+	<root>vraj</root>
+	<comment></comment>
+</pada>
+
+</solution>

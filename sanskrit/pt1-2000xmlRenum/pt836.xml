@@ -1,0 +1,49 @@
+<solution prefix='pt' sentenceNo='836' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,13,21,23</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>yena</headword>
+	<stem>ya_1</stem>
+	<morphids>m3s</morphids>
+	<lexids>pron_rel</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>saYjIvakam</headword>
+	<stem>saYjIvaka</stem>
+	<morphids>n2s</morphids>
+	<lexids>pn</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>praBoH</headword>
+	<stem>praBu</stem>
+	<morphids>m6s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>SlezayizyAmi</headword>
+	<stem>Sliz</stem>
+	<morphids>cau fut a1s</morphids>
+	<lexids>vt4a</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

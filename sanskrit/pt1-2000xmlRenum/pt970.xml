@@ -1,0 +1,58 @@
+<solution prefix='pt' sentenceNo='970' solutionSH='1' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,3,5,6,7</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>paSya</headword>
+	<stem>paS</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids>vt1a</lexids>
+	<root>dfS</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>imAm</headword>
+	<stem>ayam</stem>
+	<morphids>f2s</morphids>
+	<lexids>adj_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>stIrRAm</headword>
+	<stem>stIrRa</stem>
+	<morphids>f2s</morphids>
+	<lexids>ppp</lexids>
+	<root>stF</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>tapta</headword>
+	<stem>tapta</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>tap</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>SilAm</headword>
+	<stem>SilA</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,121 @@
+<solution prefix='pt' sentenceNo='703' solutionSH='105' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>3,6,10,11,12,14,22,24,40,42</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>svAgatena</headword>
+	<stem>svAgata</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>agnayaH</headword>
+	<stem>agni</stem>
+	<morphids>m1p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>prItAH</headword>
+	<stem>prIta</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppp</lexids>
+	<root>prI</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>Asanena</headword>
+	<stem>Asana</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>Sata</headword>
+	<stem>Sata</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>kratuH</headword>
+	<stem>kratu</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_pn_ctp_dvigu</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>pAda</headword>
+	<stem>pAda</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>SOcena</headword>
+	<stem>SOca</stem>
+	<morphids>n3s</morphids>
+	<lexids>noun_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>govindaH</headword>
+	<stem>govinda</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_pn_ctp_upapada</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>anna</headword>
+	<stem>anna</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>Adyena</headword>
+	<stem>Adya</stem>
+	<morphids>n3s, m3s</morphids>
+	<lexids>adj_cbv</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>prajA</headword>
+	<stem>prajA</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>patiH</headword>
+	<stem>pati</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun_pn_ctp6</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

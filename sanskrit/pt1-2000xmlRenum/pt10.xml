@@ -1,0 +1,128 @@
+<solution prefix='pt' sentenceNo='10' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>etAn</headword>
+	<stem>eza</stem>
+	<morphids>m2p</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>3</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>paSyataH</headword>
+	<stem>paSyat</stem>
+	<morphids>m6s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>samAnakAla</rel>
+	<ref>12</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>me</headword>
+	<stem>asmad</stem>
+	<morphids>x6s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>zazWisambanDa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>hata</headword>
+	<stem>han_1</stem>
+	<morphids>iic</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>kaRwakam</headword>
+	<stem>kaRwaka</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>8</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>nirDAraka</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>rAjyam</headword>
+	<stem>rAjya</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun_gerundive_ya</lexids>
+	<root>rAj_1</root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>12</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>12</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>sOKyam</headword>
+	<stem>sOKya</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>12</ref>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>A</headword>
+	<stem>A</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>vahati</headword>
+	<stem>vah_1</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

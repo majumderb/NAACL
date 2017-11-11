@@ -1,0 +1,257 @@
+<solution prefix='pt' sentenceNo='83' solutionSH='7' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,3,9,10,11,12,13,14,15,16,17,18,21,23,24,25,26,27,29,35,81,87</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>sa</headword>
+	<stem>tad</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>7</ref>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>saYjIvakasya</headword>
+	<stem>saYjIvaka</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>zazWIsambanDa</rel>
+	<ref>6</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>mahAntam</headword>
+	<stem>mahat</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>6</ref>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>garjita</headword>
+	<stem>garjita</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>garj</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>Sabdam</headword>
+	<stem>Sabda</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>7</ref>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>aSfRot</headword>
+	<stem>Sru</stem>
+	<morphids>ipf[5] a3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>8</padanum>
+	<headword>tam</headword>
+	<stem>tad</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>10</ref>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>SrutvA</headword>
+	<stem>Sru</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>pUrvakAla</rel>
+	<ref>25</ref>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>atIva</headword>
+	<stem>atIva</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>13</ref>
+</pada>
+<pada selected='y'>
+	<padanum>12</padanum>
+	<headword>kzuBita</headword>
+	<stem>kzuBita</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>kzuB</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>13</padanum>
+	<headword>hfdayaH</headword>
+	<stem>hfdaya</stem>
+	<morphids>m1s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>25</ref>
+</pada>
+<pada selected='y'>
+	<padanum>14</padanum>
+	<headword>svakIyam</headword>
+	<stem>svakIya</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>15</ref>
+</pada>
+<pada selected='y'>
+	<padanum>15</padanum>
+	<headword>AkAram</headword>
+	<stem>AkAra_1</stem>
+	<morphids>m2s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>17</ref>
+</pada>
+<pada selected='y'>
+	<padanum>16</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>17</padanum>
+	<headword>CAdya</headword>
+	<stem>Cad_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>pUrvakAla</rel>
+	<ref>25</ref>
+</pada>
+<pada selected='y'>
+	<padanum>18</padanum>
+	<headword>maRqala</headword>
+	<stem>maRqala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>19</padanum>
+	<headword>vawasya</headword>
+	<stem>vawa</stem>
+	<morphids>m6s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>zazWIsambanDa</rel>
+	<ref>20</ref>
+</pada>
+<pada selected='y'>
+	<padanum>20</padanum>
+	<headword>aDastAt</headword>
+	<stem>aDastAt</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>aDikaraRa</rel>
+	<ref>25</ref>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>catur</headword>
+	<stem>catur</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>22</padanum>
+	<headword>maRqala</headword>
+	<stem>maRqala</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>23</padanum>
+	<headword>avasTAnena</headword>
+	<stem>avasTAna</stem>
+	<morphids>n3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>SezasambanDa</rel>
+	<ref>25</ref>
+</pada>
+<pada selected='y'>
+	<padanum>24</padanum>
+	<headword>ava</headword>
+	<stem>ava</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>25</padanum>
+	<headword>sTitaH</headword>
+	<stem>sTita</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root>sTA_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

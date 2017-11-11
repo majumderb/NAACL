@@ -1,0 +1,40 @@
+<solution sentenceNo='-1' solutionSH='8' siftSolutions='y' status='done' displayEncoding='deva' inflectionFormat='SL' version='2.0'>
+	<state>2,4,6,19</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>aBi</headword>
+	<stem>aBi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>izwa</headword>
+	<stem>izwa_1</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>iz_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>devatAm</headword>
+	<stem>devatA</stem>
+	<morphids>f2s</morphids>
+	<lexids>noun_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>smarata</headword>
+	<stem>smf</stem>
+	<morphids>ipv[1] a2p</morphids>
+	<lexids>vt1a</lexids>
+	<root>smf</root>
+	<comment></comment>
+</pada>
+
+</solution>

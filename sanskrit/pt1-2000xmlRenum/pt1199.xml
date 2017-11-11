@@ -1,0 +1,22 @@
+<solution prefix='pt' sentenceNo='1199' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tyaja</headword>
+	<stem>tyaj_1</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids>vt1a</lexids>
+	<root>tyaj</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>nErASyam</headword>
+	<stem>nErASya</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

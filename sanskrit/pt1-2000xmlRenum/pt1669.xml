@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='1669' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,5</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tat</headword>
+	<stem>tad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>dUra</headword>
+	<stem>dUra</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>taram</headword>
+	<stem>tara</stem>
+	<morphids>n2s</morphids>
+	<lexids>adj_comp</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>gacCAmaH</headword>
+	<stem>gam</stem>
+	<morphids>pre[1] a1p</morphids>
+	<lexids>v1a</lexids>
+	<root>gam</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,22 @@
+<solution prefix='pt' sentenceNo='884' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>karawakaH</headword>
+	<stem>karawaka</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>Aha</headword>
+	<stem>ah</stem>
+	<morphids>pre a3s</morphids>
+	<lexids>vt2a</lexids>
+	<root>brU</root>
+	<comment></comment>
+</pada>
+
+</solution>

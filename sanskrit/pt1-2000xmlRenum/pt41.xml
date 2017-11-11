@@ -1,0 +1,259 @@
+<solution prefix='pt' sentenceNo='41' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>yat</headword>
+	<stem>yad</stem>
+	<morphids>n1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>17</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>aham</headword>
+	<stem>asmad</stem>
+	<morphids>x1s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>16</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>zaw</headword>
+	<stem>zaz</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>mAsa</headword>
+	<stem>mAsa</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>aByantare</headword>
+	<stem>aByantara</stem>
+	<morphids>n7s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kAlADikaraRa</rel>
+	<ref>16</ref>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>tava</headword>
+	<stem>yuzmad</stem>
+	<morphids>x6s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>zazWIsambanDa</rel>
+	<ref>7</ref>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>putrAn</headword>
+	<stem>putra</stem>
+	<morphids>m2p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>muKyakarma</rel>
+	<ref>16</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>nIti</headword>
+	<stem>nIti</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>SAstram</headword>
+	<stem>SAstra</stem>
+	<morphids>n2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>SezasambanDa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>pratI</headword>
+	<stem>pratI_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>16</ref>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>an</headword>
+	<stem>an_1</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>anu</headword>
+	<stem>anu_1</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>sadfSAn</headword>
+	<stem>sadfSa</stem>
+	<morphids>n2p</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>gORakarma</rel>
+	<ref>16</ref>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>16</ref>
+</pada>
+<pada>
+	<padanum>16</padanum>
+	<headword>karomi</headword>
+	<stem>kf_1</stem>
+	<morphids>pre[8] a1s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>17</padanum>
+	<headword>tataH</headword>
+	<stem>tata_2</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>anuyogI</rel>
+	<ref>18</ref>
+</pada>
+<pada>
+	<padanum>18</padanum>
+	<headword>arhati</headword>
+	<stem>arh</stem>
+	<morphids>pre[1] a3s</morphids>
+	<lexids>root</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>19</padanum>
+	<headword>me</headword>
+	<stem>aham</stem>
+	<morphids></morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>zazWIsambanDa</rel>
+	<ref>22</ref>
+</pada>
+<pada>
+	<padanum>20</padanum>
+	<headword>devaH</headword>
+	<stem>deva</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>18</ref>
+</pada>
+<pada>
+	<padanum>21</padanum>
+	<headword>deva</headword>
+	<stem>deva</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>22</padanum>
+	<headword>mArgam</headword>
+	<stem>mArga</stem>
+	<morphids>m2s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>24</ref>
+</pada>
+<pada>
+	<padanum>23</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root>as_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>24</padanum>
+	<headword>darSayitum</headword>
+	<stem>dfS_1</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>18</ref>
+</pada>
+<pada>
+	<padanum>25</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>18</ref>
+</pada>
+
+</solution>

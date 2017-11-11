@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='575' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,2,4</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>vayasya</headword>
+	<stem>vayasya</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>Betavyam</headword>
+	<stem>Betavya</stem>
+	<morphids>n1s</morphids>
+	<lexids>gerundive_tavya</lexids>
+	<root>BI_1</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,62 @@
+<solution prefix='pt' sentenceNo='22' solutionSH='6' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>6,18,23,25</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>BUta</headword>
+	<stem>BUta</stem>
+	<morphids>iic</morphids>
+	<lexids>ppp</lexids>
+	<root>BU_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>kAla</headword>
+	<stem>kAla_1</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>jYeyAni</headword>
+	<stem>jYeya</stem>
+	<morphids>n1p</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>jYA_1</root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>6</ref>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>Sabda</headword>
+	<stem>Sabda</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>SAstrARi</headword>
+	<stem>SAstra</stem>
+	<morphids>n1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>0</ref>
+</pada>
+
+</solution>

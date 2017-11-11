@@ -1,0 +1,102 @@
+<solution prefix='pt' sentenceNo='61' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tataH</headword>
+	<stem>tataH</stem>
+	<morphids>i</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kriyAviSezaRa</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>pra</headword>
+	<stem>pra</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>Aptasya</headword>
+	<stem>Apta</stem>
+	<morphids>m6s</morphids>
+	<lexids>ppp</lexids>
+	<root>Ap</root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>9</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>sataH</headword>
+	<stem>sat</stem>
+	<morphids>m6s</morphids>
+	<lexids>prap[2]</lexids>
+	<root>as_1</root>
+	<comment></comment>
+	<rel>pUrvakAla</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>rakzaRa</headword>
+	<stem>rakzaRa</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>vi</headword>
+	<stem>vI_2</stem>
+	<morphids>iic</morphids>
+	<lexids>ifc</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>varDana</headword>
+	<stem>varDana</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>upayoga</headword>
+	<stem>upayoga</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>Adi</headword>
+	<stem>Adi</stem>
+	<morphids>n1s</morphids>
+	<lexids>noun_cbv</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>10</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>kAryam</headword>
+	<stem>kArya</stem>
+	<morphids>n1s</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

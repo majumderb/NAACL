@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='440' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>2,4,5</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>jYAtam</headword>
+	<stem>jYAta</stem>
+	<morphids>n1s</morphids>
+	<lexids>ppp</lexids>
+	<root>jYA_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>aDunA</headword>
+	<stem>aDunA</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>mayA</headword>
+	<stem>aham</stem>
+	<morphids>x3s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

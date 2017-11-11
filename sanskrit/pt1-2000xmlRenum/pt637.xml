@@ -1,0 +1,40 @@
+<solution prefix='pt' sentenceNo='637' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='undefined'>
+	<state>1,2,5,7</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>tfRa</headword>
+	<stem>tfRa</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>agni</headword>
+	<stem>agni</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>samam</headword>
+	<stem>sama</stem>
+	<morphids>n1s</morphids>
+	<lexids>adj_ck</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>jIvitavyam</headword>
+	<stem>jIvitavya</stem>
+	<morphids>n1s</morphids>
+	<lexids>gerundive_tavya</lexids>
+	<root>jIv</root>
+	<comment></comment>
+</pada>
+
+</solution>

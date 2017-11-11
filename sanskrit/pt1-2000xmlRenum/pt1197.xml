@@ -1,0 +1,22 @@
+<solution prefix='pt' sentenceNo='1197' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>ut</headword>
+	<stem>ut</stem>
+	<morphids>i</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>tizWa</headword>
+	<stem>sTA_1</stem>
+	<morphids>ipv[1] a2s</morphids>
+	<lexids>vi1a</lexids>
+	<root>sTA</root>
+	<comment></comment>
+</pada>
+
+</solution>

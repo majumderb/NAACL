@@ -1,0 +1,151 @@
+<solution prefix='pt' sentenceNo='58' solutionSH='160' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>1,4,5,8,11,13,19,30,36,39</state>
+<pada selected='y'>
+	<padanum>1</padanum>
+	<headword>a</headword>
+	<stem>a</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>2</padanum>
+	<headword>labDAH</headword>
+	<stem>labDa</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppp</lexids>
+	<root>laB</root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>3</ref>
+</pada>
+<pada selected='y'>
+	<padanum>3</padanum>
+	<headword>arTAH</headword>
+	<stem>arTa</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>4</ref>
+</pada>
+<pada selected='y'>
+	<padanum>4</padanum>
+	<headword>laByAH</headword>
+	<stem>laBya</stem>
+	<morphids>m1p</morphids>
+	<lexids>gerundive_ya</lexids>
+	<root>laB</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>5</padanum>
+	<headword>labDAH</headword>
+	<stem>labDa</stem>
+	<morphids>m1p</morphids>
+	<lexids>ppp</lexids>
+	<root>laB</root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>3</ref>
+</pada>
+<pada selected='y'>
+	<padanum>6</padanum>
+	<headword>pari</headword>
+	<stem>pari</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>7</padanum>
+	<headword>rakzaRIyAH</headword>
+	<stem>rakzaRIya</stem>
+	<morphids>m1p</morphids>
+	<lexids>gerundive_anIya</lexids>
+	<root>rakz</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>rakzitAH</headword>
+	<stem>rakzita</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>karma</rel>
+	<ref>3</ref>
+</pada>
+<pada selected='y'>
+	<padanum>9</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>10</padanum>
+	<headword>varDanIyAH</headword>
+	<stem>varDanIya</stem>
+	<morphids>m1p</morphids>
+	<lexids>gerundive_anIya</lexids>
+	<root>vfD_1</root>
+	<comment></comment>
+</pada>
+<pada selected='y'>
+	<padanum>11</padanum>
+	<headword>pAtre</headword>
+	<stem>pAtra</stem>
+	<morphids>n7s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>aDikaraRa</rel>
+	<ref>13</ref>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>sam</headword>
+	<stem>sam</stem>
+	<morphids>iic</morphids>
+	<lexids>preverb</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>pAdanIyAH</headword>
+	<stem>pAdanIya</stem>
+	<morphids>m1p</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>ca</headword>
+	<stem>ca</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>15</padanum>
+	<headword>iti</headword>
+	<stem>iti</stem>
+	<morphids>i</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>sambanDa</rel>
+	<ref>13</ref>
+</pada>
+
+</solution>

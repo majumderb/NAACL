@@ -1,0 +1,40 @@
+<solution sentenceNo='-1' solutionSH='5' siftSolutions='y' status='done' displayEncoding='deva' inflectionFormat='SL' version='2.0'>
+	<state>1,3,4,6</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>mfgasya</headword>
+	<stem>mfga</stem>
+	<morphids>m6s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>dfzwasya</headword>
+	<stem>dfzwa</stem>
+	<morphids>m6s</morphids>
+	<lexids>ppp</lexids>
+	<root>dfS_1</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>na</headword>
+	<stem>na</stem>
+	<morphids>i</morphids>
+	<lexids>pcl_neg</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>sahate</headword>
+	<stem>sah_1</stem>
+	<morphids>pre[1] m3s</morphids>
+	<lexids>vt1m</lexids>
+	<root>sah</root>
+	<comment></comment>
+</pada>
+
+</solution>

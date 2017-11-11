@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='1247' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>deva</headword>
+	<stem>deva</stem>
+	<morphids>mvs</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>dizwyA</headword>
+	<stem>dizwi</stem>
+	<morphids>f3s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>varDase</headword>
+	<stem>vfD_1</stem>
+	<morphids>pre[1] m2s</morphids>
+	<lexids>vi1m</lexids>
+	<root>vfD</root>
+	<comment></comment>
+</pada>
+
+</solution>

@@ -1,0 +1,31 @@
+<solution prefix='pt' sentenceNo='766' solutionSH='1' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>5</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>ayi</headword>
+	<stem>ayi</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>Sivam</headword>
+	<stem>Sivam</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>BavatyAH</headword>
+	<stem>Bavat_2</stem>
+	<morphids>f6s</morphids>
+	<lexids>pron</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>

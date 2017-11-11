@@ -1,0 +1,146 @@
+<solution prefix='pt' sentenceNo='50' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state></state>
+<pada>
+	<padanum>1</padanum>
+	<headword>varDa</headword>
+	<stem>varDa</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>mAnaH</headword>
+	<stem>mAna_1</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>4</ref>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>mahAn</headword>
+	<stem>mahat</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>4</ref>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>snehaH</headword>
+	<stem>sneha</stem>
+	<morphids>m1s</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>prayojyakartf</rel>
+	<ref>14</ref>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>siMha</headword>
+	<stem>siMha</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>6</padanum>
+	<headword>go</headword>
+	<stem>go</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>7</padanum>
+	<headword>vfzayoH</headword>
+	<stem>vfza</stem>
+	<morphids>m6d</morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>kartf</rel>
+	<ref>4</ref>
+</pada>
+<pada>
+	<padanum>8</padanum>
+	<headword>vane</headword>
+	<stem>vana</stem>
+	<morphids></morphids>
+	<lexids>noun</lexids>
+	<root></root>
+	<comment></comment>
+	<rel>aDikaraRa</rel>
+	<ref>14</ref>
+</pada>
+<pada>
+	<padanum>9</padanum>
+	<headword>jambukena</headword>
+	<stem>jambuka</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>payojakakartf</rel>
+	<ref>14</ref>
+</pada>
+<pada>
+	<padanum>10</padanum>
+	<headword>ati</headword>
+	<stem>ati</stem>
+	<morphids>iic</morphids>
+	<lexids>iic</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>11</padanum>
+	<headword>lubDena</headword>
+	<stem>lubDa</stem>
+	<morphids>m3s</morphids>
+	<lexids>ppp</lexids>
+	<root>luB</root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>9</ref>
+</pada>
+<pada>
+	<padanum>12</padanum>
+	<headword>piSunena</headword>
+	<stem>piSuna</stem>
+	<morphids>m3s</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+	<rel>viSezaRa</rel>
+	<ref>9</ref>
+</pada>
+<pada>
+	<padanum>13</padanum>
+	<headword>vi</headword>
+	<stem>vi</stem>
+	<morphids>iic</morphids>
+	<lexids></lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>14</padanum>
+	<headword>nASitaH</headword>
+	<stem>nASita</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root>SA</root>
+	<comment></comment>
+</pada>
+
+</solution>

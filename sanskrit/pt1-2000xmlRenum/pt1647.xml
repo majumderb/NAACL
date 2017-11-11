@@ -1,0 +1,49 @@
+<solution prefix='pt' sentenceNo='1647' solutionSH='0' siftSolutions='y' status='done' displayEncoding='roman' inflectionFormat='SL' version='2.0'>
+	<state>13</state>
+<pada>
+	<padanum>1</padanum>
+	<headword>are</headword>
+	<stem>are</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment>cAdi</comment>
+</pada>
+<pada>
+	<padanum>2</padanum>
+	<headword>dazwaH</headword>
+	<stem>daSwa</stem>
+	<morphids>m1s</morphids>
+	<lexids>ppp</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>3</padanum>
+	<headword>asmi</headword>
+	<stem>as_1</stem>
+	<morphids>pre[2] a1s</morphids>
+	<lexids>vi2a</lexids>
+	<root>as</root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>4</padanum>
+	<headword>kena</headword>
+	<stem>ka_1</stem>
+	<morphids>m3s</morphids>
+	<lexids>pron_dem</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+<pada>
+	<padanum>5</padanum>
+	<headword>api</headword>
+	<stem>api</stem>
+	<morphids>i</morphids>
+	<lexids>pcl</lexids>
+	<root></root>
+	<comment></comment>
+</pada>
+
+</solution>
