@@ -21,7 +21,8 @@ def prepare_data(folder_name):
             root = lxml.etree.fromstring(f.read())
             results = root.findall('pada')
             morphids = [r.find('morphids').text for r in results]
-            final_list.append([file_name] + [','.join([id for id in morphids if id is not None])])
+            word = r.find('headword').text
+            final_list.append([file_name] + [','.join([id for id in morphids if id is not None])] + [word])
 
 prepare_data('MBhRenum')
 prepare_data('pt1-2000xmlRenum')
