@@ -24,9 +24,9 @@ def prepare_data(folder_name):
             words = [r.find('headword').text for r in results]
             lexids = [r.find('lexids').text for r in results]
             final_list.append([file_name] +
-                                [','.join([id for id in morphids if id is not None])] + 
+                                [','.join([id if id is not None else '0' for id in morphids])] + 
                                 [','.join([word for word in words if word is not None])] + 
-                                [','.join([id for id in lexids if id is not None])])
+                                [','.join([id if id is not None else '0' for id in lexids])])
 
 prepare_data('MBhRenum')
 prepare_data('pt1-2000xmlRenum')
