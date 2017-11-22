@@ -1,0 +1,468 @@
+lexid,filename,sentence,word
+preveb,mbh12_13944.xml,"['yat', 'etat', 'cAtura', 'ASramyam', 'brahma', 'fzi', 'vi', 'hitam', 'purA']",hitam
+inf,mbh12_26043.xml,"['tat', 'arhasi', 'naH', 'vi', 'DAtum', 'SreyaH', 'yat', 'an', 'antaram', 'iti']",DAtum
+inf,mbh03_14562.xml,"['ye', 'tvA', 'viduH', 'brAhmaRam', 'vAmadeva', 'vAcA', 'hantum', 'manasA', 'karmaRA', 'vA']",hantum
+adj_ctp2,pt1302.xml,"['kim', 'ca', 'yudDam', 'aNgI', 'kftavantam', 'kadA', 'cit', 'dA', 'cit', 'garuqa', 'A', 'rUQam', 'mAm', 'paSyantaH', 'vAsudevam', 'matvA', 'SatravaH', 'pra', 'parA', 'ayate', 'uktam', 'ca']",rUQam
+adj_ctp2,pt821.xml,"['jambukaH', 'huqa', 'yudDena', 'vayam', 'ca', 'AzAQaBUtinA', 'dUtikA', 'para', 'kAryeRa', 'trayaH', 'dozAH', 'svayam', 'kftAH']",kftAH
+adverb,mbh12_26014.xml,"['sa', 'pratyakzam', 'deveByaH', 'BAgam', 'adadat', 'parokzam', 'asureByaH']",pratyakzam
+adverb,mbh03_14506.xml,"['SIGram', 'mAm', 'vahasva', 'iti']",SIGram
+noun_ck,pt1875.xml,"['yadi', 'evam', 'BUyaH', 'vadasi', 'tat', 'tvAm', 'tat', 'kzaRAt', 'eva', 'hanizyAmi', 'yataH', 'mayA', 'tasya', 'a', 'Baya', 'pradAnam', 'dattam']",kzaRAt
+noun_ck,pt1937.xml,"['etEH', 'tAvat', 'SoBA', 'vacanAni', 'aBi', 'hitAni', 'na', 'ca', 'ekaH', 'api', 'svAminA', 'vi', 'nASitaH']",vacanAni
+ ctp5,mbh03_14416.xml,"['ayoDyAyAm', 'ikzvAku', 'kula', 'ut', 'pannaH', 'pArTivaH', 'parikzit', 'nAma', 'mfgayAm', 'agamat']",pArTivaH
+ ctp5,mbh12_25998.xml,"['veda', 'purARa', 'itihAsa', 'prAmARyAt', 'nArAyaRa', 'muKa', 'ut', 'gatAH', 'sarva', 'AtmAnaH', 'sarva', 'kartAraH', 'sarva', 'BAvanAH', 'ca', 'brAhmaRAH']",sarva
+vt9am,pt1632.xml,"['deSam', 'kAlam', 'kAryam', 'param', 'AtmAnam', 'ca', 'yaH', 'na', 'jAnAti', 'a', 'vi', 'mfSya', 'yaH', 'karoti', 'ca', 'na', 'sa', 'Palam', 'Apnoti', 'vE', 'mUrKaH']",jAnAti
+adj ctp7,mbh12_13978.xml,"['tyakta', 'grAmya', 'vastra', 'AhAra', 'upaBogAH', 'vanya', 'OzaDi', 'mUla', 'Pala', 'parRa', 'pari', 'mita', 'vicitra', 'ni', 'yata', 'AhArAH', 'sTAna', 'AsaninaH', 'BUmi', 'pAzARa', 'sikatA', 'SarkarA', 'vAlukA', 'Basma', 'SAyinaH', 'kASa', 'kuSa', 'carma', 'valkala', 'saM', 'vfta', 'aNgAH', 'keSa', 'SmaSru', 'naKa', 'roma', 'DAriRaH', 'niyata', 'kAla', 'upasparSanAH', 'askanna', 'homa', 'bali', 'kAla', 'anu', 'zWAyinaH', 'samitkuSa', 'kusuma', 'upahAra', 'homa', 'arjana', 'labDa', 'viSrAmAH', 'SItA', 'uzRa', 'pavana', 'niH', 'tapta', 'vi', 'Binna', 'sarva', 'tvacaH', 'viviDa', 'niyama', 'yoga', 'carya', 'avihita', 'Darma', 'anu', 'zWAna', 'hfta', 'mAMsa', 'SoRitAH', 'tvak', 'asTi', 'BUtAH', 'Dfti', 'parAH', 'sattva', 'yogAt', 'SarIrARi', 'ud', 'vahanti']",pAzARa
+pcl_disj,pt1396.xml,"['pUjyaH', 'banDuH', 'api', 'priyaH', 'api', 'tanayaH', 'BrAtA', 'vayasyaH', 'api', 'vA', 'yaH', 'mohAt', 'an', 'avadya', 'kArya', 'vimuKaH', 'heyaH', 'sa', 'kArya', 'arTinA', 'loke', 'hi', 'praTitAH', 'nanu', 'SrutiH', 'iyam', 'na', 'arTaH', 'api', 'gAyanti', 'yAm', 'kim', 'kAryam', 'kanakena', 'tena', 'Bavati', 'CedAya', 'karRasya', 'yat']",vA
+pcl_disj,pt1565.xml,"['sva', 'janaH', 'aTa', 'suhft', 'guruH', 'nfpaH', 'vA', 'puruzeRa', 'utpaTagaH', 'ni', 'vAraRIyaH', 'vini', 'vartayitum', 'sa', 'cet', 'na', 'SakyaH', 'parataH', 'tasya', 'manas', 'anugam', 'vi', 'Deyam']",vA
+vi5a,pt905.xml,"['tat', 'na', 'SaknumaH', 'pari', 'tyaktum']",SaknumaH
+dem_adv,pt1083.xml,"['Badra', 'yadi', 'evam', 'tarhi', 'satvaram', 'darSaya', 'mama', 'tam', 'cOra', 'siMham', 'yena', 'etam', 'mfga', 'kopam', 'tasya', 'upari', 'kziptvA', 'svasTaH', 'BavAmi']",tarhi
+ ppr. [2] md.,mbh12_13982.xml,"['vi', 'mucya', 'agni', 'Dana', 'kalatra', 'paribarha', 'saNgAn', 'AtmanaH', 'sneha', 'pASAn', 'ava', 'DUya', 'pari', 'vrajanti', 'sama', 'lozwa', 'aSma', 'kAYcanAH', 'tri', 'varga', 'pra', 'vfttezu', 'AramBezu', 'a', 'sakta', 'budDayaH', 'ari', 'mitra', 'ud', 'AsInezu', 'tulya', 'vfttayaH', 'sTAvara', 'jara', 'Ayuja', 'aRqaja', 'svedaja', 'ud', 'BijjAnAm', 'BUtAnAm', 'vAk', 'manaH', 'karmaBiH', 'an', 'aBi', 'drohiRaH', 'a', 'niketAH', 'parvata', 'pulina', 'vfkza', 'mUla', 'devata', 'yatanAni', 'anu', 'carantaH', 'vAsa', 'ArTam', 'upa', 'IyuH', 'nagaram', 'grAmam', 'vA', 'nagare', 'paYca', 'rAtrikAH', 'grAma', 'eka', 'rAtrikAH']",vfttayaH
+vt4m,pt917.xml,"['Badra', 'kim', 'evam', 'sati', 'pra', 'Apta', 'kAlam', 'manyase']",manyase
+vt4m,pt840.xml,"['vyasanam', 'hi', 'mahA', 'rAjYaH', 'mohAt', 'sam', 'prati', 'padyate', 'viDinA', 'SAstra', 'dfzwena', 'mftyuH', 'vAryaH', 'pra', 'yatnataH']",padyate
+ppp,pt1140.xml,"['kfte', 'viniScaye', 'puMsAm', 'devAH', 'yAnti', 'sahAyatAm', 'vizRuH', 'cakram', 'garutmAn', 'ca', 'kOlikasya', 'yaTA', 'Ahave']",kfte
+ppp,pt251.xml,"['kanaka', 'BUzaRa', 'saNgrahaRa', 'ucitaH', 'yadi', 'maRiH', 'trapuRi', 'prati', 'baDyate', 'na', 'sa', 'vi', 'rOti', 'na', 'ca', 'api', 'na', 'SoBate', 'Bavati', 'yojayituH', 'vacanIyatA']",ucitaH
+ ck,mbh12_13923.xml,"['pfTivI', 'sarva', 'BUtAnAm', 'janitrI', 'viDAH', 'striyaH']",janitrI
+ ck,mbh12_25951.xml,"['a', 'vi', 'akte', 'sarva', 'BUta', 'pralaye', 'sTAvara', 'jaNgame']",sTAvara
+ca. pfp. [3],mbh03_14439.xml,"['udakam', 'me', 'na', 'darSayitavyam', 'iti']",darSayitavyam
+prpp,pt1972.xml,"['raTakAraH', 'api', 'tam', 'ati', 'BayAnakam', 'siMham', 'dfzwvA', 'gatAsum', 'iva', 'AtmAnam', 'manyamAnaH', 'pratyutpanna', 'mati', 'tayA', 'vA', 'balavat', 'upa', 'sarpaRam', 'eva', 'SreyaH', 'iti', 'tat', 'aBimuKam', 'gatvA', 'pra', 'namya', 'pra', 'uvAca']",manyamAnaH
+prpp,pt1253.xml,"['tataH', 'suDA', 'plAvitam', 'iva', 'AtmAnam', 'manyamAnaH', 'devIm', 'uvAca']",manyamAnaH
+noun_ctp5,pt1396.xml,"['pUjyaH', 'banDuH', 'api', 'priyaH', 'api', 'tanayaH', 'BrAtA', 'vayasyaH', 'api', 'vA', 'yaH', 'mohAt', 'an', 'avadya', 'kArya', 'vimuKaH', 'heyaH', 'sa', 'kArya', 'arTinA', 'loke', 'hi', 'praTitAH', 'nanu', 'SrutiH', 'iyam', 'na', 'arTaH', 'api', 'gAyanti', 'yAm', 'kim', 'kAryam', 'kanakena', 'tena', 'Bavati', 'CedAya', 'karRasya', 'yat']",vimuKaH
+noun_ctp5,pt1048.xml,"['aTa', 'taTA', 'iti', 'prati', 'jYAya', 'nirvfti', 'BAjaH', 'tatra', 'vane', 'nirBayAH', 'te', 'parI', 'awanti', 'ekaH', 'ca', 'jAti', 'krameRa', 'vfdDaH', 'vA', 'vErAgya', 'yuktaH', 'vA', 'Soka', 'grastaH', 'vA', 'putra', 'kalatra', 'nASa', 'BItaH', 'vA', 'tasya', 'AhAra', 'arTam', 'maDya', 'ahna', 'samaye', 'pratidinam', 'upa', 'tizWate', 'iti']",BItaH
+cau abs,mbh12_26090.xml,"['tAm', 'mUrDnA', 'pra', 'namya', 'uvAca', 'SacI', 'Bagavati', 'arhasi', 'me', 'BartAram', 'darSayitum', 'tvam', 'satyA', 'matA', 'ca', 'iti']",darSayitum
+indefinite adj,pt672.xml,"['aTa', 'evam', 'tasya', 'gacCataH', 'agre', 'kaScid', 'nadI', 'sam', 'A', 'yAtA']",kaScid
+vt10am,pt680.xml,"['deva', 'SarmA', 'api', 'tat', 'A', 'lokya', 'vi', 'acintayat']",acintayat
+vt10am,pt980.xml,"['aTa', 'vA', 'kim', 'atra', 'cintyate']",cintyate
+adj ppr. [10] md.,mbh03_14462.xml,"['tAm', 'mfgayamARaH', 'rAjA', 'na', 'apaSyat']",mfgayamARaH
+pn,mbh12_26165.xml,"['etat', 'ca', 'te', 'toyam', 'vaqavAmuKa', 'saYjYitena', 'pIyamAnam', 'maDuram', 'Bavizyati']",vaqavAmuKa
+pn,mbh12_26044.xml,"['tAn', 'brahma', 'uvAca', 'fziH', 'BArgavaH', 'tapaH', 'tapyate', 'daDIcaH']",brahma
+ctp4,mbh12_13978.xml,"['tyakta', 'grAmya', 'vastra', 'AhAra', 'upaBogAH', 'vanya', 'OzaDi', 'mUla', 'Pala', 'parRa', 'pari', 'mita', 'vicitra', 'ni', 'yata', 'AhArAH', 'sTAna', 'AsaninaH', 'BUmi', 'pAzARa', 'sikatA', 'SarkarA', 'vAlukA', 'Basma', 'SAyinaH', 'kASa', 'kuSa', 'carma', 'valkala', 'saM', 'vfta', 'aNgAH', 'keSa', 'SmaSru', 'naKa', 'roma', 'DAriRaH', 'niyata', 'kAla', 'upasparSanAH', 'askanna', 'homa', 'bali', 'kAla', 'anu', 'zWAyinaH', 'samitkuSa', 'kusuma', 'upahAra', 'homa', 'arjana', 'labDa', 'viSrAmAH', 'SItA', 'uzRa', 'pavana', 'niH', 'tapta', 'vi', 'Binna', 'sarva', 'tvacaH', 'viviDa', 'niyama', 'yoga', 'carya', 'avihita', 'Darma', 'anu', 'zWAna', 'hfta', 'mAMsa', 'SoRitAH', 'tvak', 'asTi', 'BUtAH', 'Dfti', 'parAH', 'sattva', 'yogAt', 'SarIrARi', 'ud', 'vahanti']",arjana
+ctp4,mbh12_13898.xml,"['saH', 'eza', 'kAmyaH', 'guRa', 'viSezaH', 'Darma', 'ArTayoH', 'AramBaH', 'tat', 'hetuH', 'asya', 'utpattiH', 'suKa', 'prayojanA']",ArTayoH
+vt3a,pt1184.xml,"['kzatriyaH', 'asO', 'rAjA', 'tvam', 'ca', 'vESyaH', 'san', 'a', 'DarmAt', 'api', 'na', 'biBezi']",biBezi
+vt3a,pt1322.xml,"['iti', 'ukte', 'kfta', 'maNgala', 'viDiH', 'sAMgrAmika', 'alam', 'karaRa', 'vi', 'BUzitaH', 'gorocana', 'asita', 'sidDa', 'arTaka', 'kusuma', 'Adi', 'kfta', 'vandanaH', 'aBi', 'udite', 'Bagavati', 'kamalA', 'kara', 'bAnDave', 'prAcI', 'dik', 'vaDU', 'muKa', 'tilake', 'sahasra', 'kiraRe', 'vEjayikezu', 'saNgrAma', 'tUryezu', 'A', 'hatezu', 'nagarAt', 'niH', 'gatya', 'saNgrAma', 'BUmim', 'pra', 'Apte', 'rAjani', 'yaTA', 'sTAnam', 'uBaya', 'balezu', 'vi', 'Uhitezu', 'vftte', 'ca', 'pAda', 'Ata', 'sam', 'prahAre', 'kOlikaH', 'garuqam', 'A', 'ruhya', 'vi', 'tIrRa', 'suvarRa', 'ratna', 'Adi', 'dAna', 'viDiH', 'Davala', 'gfhAt', 'ut', 'patya', 'vihAyas', 'talam', 'kutUhala', 'A', 'vizwEH', 'nagara', 'janEH', 'niH', 'IkzyamARaH', 'aBi', 'vandyamAnaH', 'ca', 'nagarAt', 'bahiH', 'sva', 'sEnyasya', 'upari', 'prOQa', 'nAdam', 'pAYcajanyam', 'SaNKam', 'apUrayat']",apUrayat
+adv_dem,pt1969.xml,"['aTa', 'tatra', 'vane', 'vimalaH', 'nAma', 'siMhaH', 'prati', 'vasati', 'sma']",tatra
+adv_dem,pt1643.xml,"['mada', 'Srama', 'nidrA', 'parIta', 'kAyaH', 'yadA', 'nf', 'patiH', 'Bavati', 'tadA', 'niBftam', 'pAdayoH', 'tvayA', 'daMzwavyaH', 'etO', 'deSa', 'kAlO']",tadA
+ppf actn,mbh03_14645.xml,"['tataH', 'sa', 'bakaH', 'tam', 'akUpAram', 'kacCapam', 'vijYApyAm', 'Asa']",vijYApyAm
+ppf actn,mbh12_26093.xml,"['tAm', 'indraH', 'patnIm', 'kfSAm', 'glAnAm', 'ca', 'dfzwvA', 'cintayAm', 'baBUva']",cintayAm
+noun_pn_ctp3,pt1900.xml,"['aTa', 'tAn', 'dfzwvA', 'mada', 'utkawaH', 'pra', 'Aha']",utkawaH
+noun_pn_ctp3,pt1899.xml,"['tataH', 'te', 'sarve', 'bAzpa', 'pUrita', 'dfSaH', 'gatvA', 'mada', 'utkawam', 'pra', 'namya', 'upa', 'vizwAH']",utkawam
+prap_desid,pt1358.xml,"['kim', 'BavAn', 'vivakzuH', 'iti']",vivakzuH
+prap_desid,pt1362.xml,"['tat', 'enam', 'hftvA', 'svayam', 'eva', 'aham', 'suKena', 'rAjyam', 'grahIzyAmi', 'adya', 'eva', 'ayam', 'saYjIvakaH', 'enam', 'arTam', 'cikIrzuH', 'asti']",cikIrzuH
+iic.,pt52.xml,"['dAkziRAtyezu', 'jana', 'padezu', 'purandarapurasya', 'fdDi', 'sarva', 'guRa', 'sam', 'pannam', 'pfTivyAH', 'cUqA', 'maRi', 'ratna', 'BUtam', 'kElAsa', 'SiKara', 'Akfti', 'viviDa', 'yantra', 'praharaRa', 'AcaraRa', 'pari', 'pUrRa', 'go', 'pura', 'awwAlakam', 'visaNkawa', 'utkawa', 'dfQa', 'pariGa', 'kapAwa', 'toraRa', 'argala', 'upagata', 'indra', 'kIla', 'vipula', 'dvAram', 'su', 'vi', 'hita', 'SfNgAwaka', 'catuzpaTa', 'prati', 'sTita', 'an', 'eka', 'devatA', 'Ayatanam', 'pariKA', 'pari', 'karita', 'ut', 'Srita', 'hima', 'giri', 'sadfSa', 'AkAra', 'prAkAra', 'valaya', 'pari', 'vezwitam', 'mahilA', 'ropyam', 'nAma', 'nagaram']",mahilA
+iic.,pt316.xml,"['Sakti', 'vEkalya', 'namrasya', 'niHsAratvAt', 'laGIyasaH', 'janminaH', 'mAna', 'hInasya', 'tfRasya', 'ca', 'samA', 'gatiH']",Sakti
+noun_cdi,pt1643.xml,"['mada', 'Srama', 'nidrA', 'parIta', 'kAyaH', 'yadA', 'nf', 'patiH', 'Bavati', 'tadA', 'niBftam', 'pAdayoH', 'tvayA', 'daMzwavyaH', 'etO', 'deSa', 'kAlO']",kAlO
+noun_cdi,pt1563.xml,"['vyAGra', 'vAnara', 'sarpARAm', 'iti']",sarpARAm
+patronymic,pt1103.xml,"['AtmanaH', 'Saktim', 'ut', 'vi', 'Ikzya', 'mAna', 'utsAhO', 'tu', 'yaH', 'vrajet', 'SatrUn', 'ekaH', 'api', 'hanyAt', 'ca', 'kzatriyAn', 'BArgavaH', 'yaTA']",BArgavaH
+prap[10],pt385.xml,"['evam', 'cintayan', 'piNgalaka', 'aBimuKaH', 'pra', 'tasTe']",cintayan
+prap[10],pt794.xml,"['evam', 'tasya', 'parivrAjakasya', 'cintayataH', 'niSA', 'mahatA', 'kfcCreRa', 'ati', 'cakrAma']",cintayataH
+pron_dem,pt1637.xml,"['tat', 'ca', 'smftvA', 'tat', 'vacanam', 'prati', 'padya', 'aBi', 'hitavatI']",tat
+pron_dem,pt988.xml,"['tEH', 'ca', 'aBi', 'hitaH']",tEH
+gerundive_anIya,pt86.xml,"['tatra', 'sarvezu', 'eva', 'nagara', 'pattana', 'aDi', 'sTAna', 'Kewaka', 'vawa', 'bARa', 'agra', 'hAra', 'kAnana', 'vana', 'sTAnezu', 'ekaH', 'eva', 'siMha', 'sTAnIyaH', 'Bavati']",sTAnIyaH
+gerundive_anIya,pt25.xml,"['an', 'anta', 'pAram', 'kila', 'Sabda', 'SAstram', 'svalpam', 'taTA', 'AyuH', 'bahavaH', 'ca', 'viGnAH', 'yat', 'sAra', 'BUtam', 'tat', 'upa', 'AsanIyam', 'haMsEH', 'yaTA', 'kzIram', 'iva', 'ambu', 'maDyAt']",AsanIyam
+adj ctp3,mbh12_26095.xml,"['nazwam', 'hi', 'mAm', 'iyam', 'anu', 'izya', 'upa', 'agamat', 'duHKA', 'ArtA', 'iti']",ArtA
+adj ctp3,mbh12_26157.xml,"['tasya', 'tapaH', 'tapyamAnasya', 'sarva', 'ganDa', 'vahaH', 'SuciH', 'vAyuH', 'vi', 'vAyamAnaH', 'SarIram', 'aspfSat']",vahaH
+ppr. [2] ac.,mbh12_25959.xml,"['na', 'sat', 'AsIt', 'na', 'a', 'sat', 'AsIt']",sat
+ppr. [2] ac.,mbh12_25954.xml,"['na', 'rAtryAm', 'na', 'divase', 'na', 'sati', 'na', 'a', 'sati', 'na', 'vi', 'akte', 'na', 'a', 'vi', 'akte', 'vi', 'ava', 'sTite']",sati
+gerundive,pt1643.xml,"['mada', 'Srama', 'nidrA', 'parIta', 'kAyaH', 'yadA', 'nf', 'patiH', 'Bavati', 'tadA', 'niBftam', 'pAdayoH', 'tvayA', 'daMzwavyaH', 'etO', 'deSa', 'kAlO']",daMzwavyaH
+gerundive,pt1889.xml,"['yasmin', 'kule', 'yaH', 'puruzaH', 'praDAnaH', 'sadA', 'eva', 'yatnena', 'sa', 'rakzaRIyaH', 'tasmin', 'vinazwe', 'hi', 'kulam', 'vinazwam', 'na', 'nABi', 'BaNge', 'hi', 'arakAH', 'vahanti']",rakzaRIyaH
+ ctp7,mbh12_26092.xml,"['tatra', 'indram', 'bisa', 'granTi', 'gatam', 'adarSayat']",adarSayat
+ ctp7,mbh12_13970.xml,"['a', 'hiMsA', 'satyam', 'a', 'kroDaH', 'sarva', 'ASrama', 'gatam', 'tapaH']",tapaH
+iic,pt220.xml,"['yasya', 'yasya', 'hi', 'yaH', 'BAvaH', 'tasya', 'tasya', 'hi', 'tam', 'naraH', 'anupra', 'viSya', 'meDAvI', 'kzipram', 'Atma', 'vaSam', 'nayet']",Atma
+iic,pt260.xml,"['aSvaH', 'Sastram', 'SAstram', 'vIRA', 'vARI', 'naraH', 'ca', 'nArI', 'ca', 'puruza', 'viSezam', 'pra', 'AptAH', 'Bavanti', 'a', 'yogyAH', 'ca', 'yogyAH', 'ca']",puruza
+ppr. [1] md.,mbh12_26038.xml,"['aTa', 'indraH', 'tam', 'vi', 'varDamAnam', 'soma', 'pAna', 'A', 'pyAyita', 'sarva', 'gAtram', 'dfzwvA', 'cintAm', 'A', 'pede']",varDamAnam
+ppr. [1] md.,mbh03_14559.xml,"['Goram', 'vratam', 'brAhmaRasya', 'etat', 'AhuH', 'etat', 'rAjan', 'yat', 'iha', 'a', 'jIvamAnaH']",jIvamAnaH
+adj_dem,pt1643.xml,"['mada', 'Srama', 'nidrA', 'parIta', 'kAyaH', 'yadA', 'nf', 'patiH', 'Bavati', 'tadA', 'niBftam', 'pAdayoH', 'tvayA', 'daMzwavyaH', 'etO', 'deSa', 'kAlO']",etO
+adj_dem,pt1004.xml,"['aTa', 'sA', 'vAyasI', 'kanaka', 'sUtram', 'ekam', 'A', 'dAya', 'sva', 'vfzA', 'aBimuKI', 'pra', 'tasTe']",sA
+vA,mbh12_26157.xml,"['tasya', 'tapaH', 'tapyamAnasya', 'sarva', 'ganDa', 'vahaH', 'SuciH', 'vAyuH', 'vi', 'vAyamAnaH', 'SarIram', 'aspfSat']",vAyamAnaH
+ adj cab,mbh03_14426.xml,"['aTa', 'apaSyat', 'kanyAm', 'parama', 'rUpa', 'darSanIyAm', 'puzpARi', 'ava', 'cinvatIm', 'gAyantIm', 'ca']",puzpARi
+pcl_conj,pt1140.xml,"['kfte', 'viniScaye', 'puMsAm', 'devAH', 'yAnti', 'sahAyatAm', 'vizRuH', 'cakram', 'garutmAn', 'ca', 'kOlikasya', 'yaTA', 'Ahave']",ca
+pcl_conj,pt1312.xml,"['Bagavat', 'BaktAH', 'ca', 'tridaRqinaH', 'pravrajyAm', 'tyakzyanti']",ca
+cbv,mbh03_14601.xml,"['tvayA', 'trAtam', 'rAja', 'kulam', 'SuBa', 'IkzaRe', 'varam', 'vfRIzva', 'apratimam', 'dadAni', 'te']",IkzaRe
+cbv,mbh12_26052.xml,"['aTa', 'daDIcaH', 'taTA', 'eva', 'a', 'vimanAH', 'suKa', 'duHKa', 'samaH', 'mahA', 'yogI', 'AtmAnam', 'sam', 'DAya', 'SarIra', 'parityAgam', 'cakAra']",samaH
+pcl_neg,pt687.xml,"['SanEH', 'SanEH', 'yAvat', 'A', 'gacCati', 'tAvat', 'AzAQaBUti', 'na', 'paSyati']",na
+pcl_neg,pt1889.xml,"['yasmin', 'kule', 'yaH', 'puruzaH', 'praDAnaH', 'sadA', 'eva', 'yatnena', 'sa', 'rakzaRIyaH', 'tasmin', 'vinazwe', 'hi', 'kulam', 'vinazwam', 'na', 'nABi', 'BaNge', 'hi', 'arakAH', 'vahanti']",na
+ppr. [6] ac.,mbh12_26009.xml,"['a', 'mfta', 'utpAdane', 'puraScaraRatAm', 'upa', 'gatasya', 'aNgirasaH', 'bfhaspateH', 'upa', 'spfSataH', 'na', 'prasAdam', 'gatavatyaH', 'kila', 'apaH']",na
+ppr. [6] ac.,mbh03_14572.xml,"['evam', 'bruvan', 'eva', 'sa', 'yAtu', 'DAnEH', 'hataH', 'jagAma', 'ASu', 'mahIm', 'kziti', 'ISaH']",bruvan
+vi2a,pt633.xml,"['niHspfhaH', 'na', 'aDikArI', 'syAt', 'na', 'a', 'kAmI', 'maRqana', 'priyaH', 'na', 'a', 'vi', 'dagDaH', 'priyam', 'brUyAt', 'sPuwa', 'vaktA', 'na', 'vaYcakaH']",syAt
+vi2a,pt1319.xml,"['evam', 'astu', 'iti', 'prati', 'pannam', 'garuqena']",astu
+vt6a m,pt1124.xml,"['sa', 'ca', 'siMhaH', 'ati', 'mUrKatayA', 'AtmanaH', 'pratibimbam', 'jala', 'maDya', 'gatam', 'dfzwvA', 'siMha', 'nAdam', 'mumoca']",mumoca
+noun_pn_ctp_dvigu,pt703.xml,"['svAgatena', 'agnayaH', 'prItAH', 'Asanena', 'Sata', 'kratuH', 'pAda', 'SOcena', 'govindaH', 'anna', 'Adyena', 'prajA', 'patiH']",kratuH
+adj_ctp_gati,pt677.xml,"['deva', 'SarmA', 'api', 'CAttra', 'guRa', 'gaRa', 'anu', 'raYjita', 'manAH', 'su', 'viSvastaH', 'upa', 'vizwaH', 'yAvat', 'tizWati', 'tAvat', 'huqa', 'yUTa', 'maDye', 'huqa', 'yugala', 'yudDam', 'apaSyat']",viSvastaH
+adj_ctp_gati,pt748.xml,"['yadyapi', 'na', 'Bavati', 'dEvAt', 'pumAn', 'virUpaH', 'api', 'banDukI', 'rahasi', 'Badram', 'api', 'tat', 'api', 'kazwAt', 'nija', 'kAntam', 'sA', 'Bajati', 'eva']",virUpaH
+pp. ctp na,mbh12_13982.xml,"['vi', 'mucya', 'agni', 'Dana', 'kalatra', 'paribarha', 'saNgAn', 'AtmanaH', 'sneha', 'pASAn', 'ava', 'DUya', 'pari', 'vrajanti', 'sama', 'lozwa', 'aSma', 'kAYcanAH', 'tri', 'varga', 'pra', 'vfttezu', 'AramBezu', 'a', 'sakta', 'budDayaH', 'ari', 'mitra', 'ud', 'AsInezu', 'tulya', 'vfttayaH', 'sTAvara', 'jara', 'Ayuja', 'aRqaja', 'svedaja', 'ud', 'BijjAnAm', 'BUtAnAm', 'vAk', 'manaH', 'karmaBiH', 'an', 'aBi', 'drohiRaH', 'a', 'niketAH', 'parvata', 'pulina', 'vfkza', 'mUla', 'devata', 'yatanAni', 'anu', 'carantaH', 'vAsa', 'ArTam', 'upa', 'IyuH', 'nagaram', 'grAmam', 'vA', 'nagare', 'paYca', 'rAtrikAH', 'grAma', 'eka', 'rAtrikAH']",budDayaH
+prmp[1],pt479.xml,"['asti', 'atra', 'DarA', 'a', 'tale', 'varDamAnam', 'nAma', 'nagaram']",varDamAnam
+prmp[1],pt1685.xml,"['saH', 'api', 'tat', 'A', 'karRya', 'palAyitum', 'IhamAnaH', 'vyAGreRa', 'KaRqaSaH', 'kftaH', 'mftaH', 'ca']",IhamAnaH
+ cbv,pt1024.xml,"['aTa', 'tat', 'vana', 'jAH', 'sarve', 'sAraNga', 'varAha', 'mahiza', 'gavaya', 'SaSaka', 'AdayaH', 'militvA', 'dIna', 'AnanAH', 'mahI', 'tala', 'ava', 'sakta', 'jAnavaH', 'pra', 'nata', 'SirasaH', 'sa', 'vinayAH', 'tam', 'mfga', 'patim', 'vi', 'jYapayitum', 'A', 'rabDAH']",militvA
+ cbv,pt1021.xml,"['asti', 'kasmin', 'cit', 'vana', 'uddeSe', 'mada', 'ut', 'mattaH', 'manda', 'mati', 'nAmA', 'siMhaH']",siMhaH
+ctp prAdi,mbh12_26120.xml,"['tataH', 'devAH', 'fzayaH', 'ca', 'indram', 'na', 'apaSyan', 'yadA', 'tadA', 'SacIm', 'UcuH', 'gacCa', 'suBage', 'indram', 'Anayasva', 'iti']",suBage
+ctp prAdi,mbh12_13929.xml,"['tapasaH', 'ca', 'su', 'taptasya', 'sva', 'aDyAyasya', 'hutasya', 'ca']",taptasya
+cdvigu,mbh03_14417.xml,"['tam', 'eka', 'aSvena', 'mfgam', 'anu', 'sarantam', 'mfgaH', 'dUram', 'apa', 'aharat']",aSvena
+cdvigu,mbh12_13968.xml,"['parivAda', 'upa', 'GAtO', 'ca', 'pAruzyam', 'ca', 'atra', 'garhitam']",GAtO
+cab,mbh03_14584.xml,"['evam', 'uktaH', 'vAmadevena', 'rAjan', 'antaH', 'pure', 'rAja', 'putram', 'jaGAna']",pure
+cab,mbh03_14528.xml,"['evam', 'uktvA', 'mfgam', 'ava', 'Apya', 'sva', 'nagaram', 'etya', 'ASvO', 'antaH', 'pure', 'asTApayat']",pure
+adj cd,mbh03_14450.xml,"['aTa', 'amAtyaH', 'an', 'udakam', 'vanam', 'kArayitvA', 'udAra', 'vfkzam', 'bahu', 'mUla', 'puzpa', 'Palam', 'rahasi', 'upa', 'gamya', 'rAjAnam', 'abravIt']",Palam
+noun_ctp_prAdi,pt926.xml,"['BakzayitvA', 'bahUn', 'matsyAn', 'uttama', 'aDama', 'maDyamAn', 'atilOlyAt', 'bakaH', 'kaH', 'cit', 'mftaH', 'karkawaka', 'grahAt']",atilOlyAt
+noun_ctp_prAdi,pt1763.xml,"['he', 'sumitra', 'yaTezwam', 'uzyatAm', 'asmin', 'mahA', 'sarasi', 'suKa', 'sevye', 'atra', 'vane', 'mayA', 'samam']",sumitra
+vi6am,pt770.xml,"['tat', 'drutam', 'muYca', 'mAm', 'banDanAt', 'yAvat', 'na', 'ayam', 'prati', 'buDyate', 'yena', 'sva', 'gfham', 'gacCAmi']",muYca
+vi1a,pt1969.xml,"['aTa', 'tatra', 'vane', 'vimalaH', 'nAma', 'siMhaH', 'prati', 'vasati', 'sma']",vasati
+vi1a,pt1643.xml,"['mada', 'Srama', 'nidrA', 'parIta', 'kAyaH', 'yadA', 'nf', 'patiH', 'Bavati', 'tadA', 'niBftam', 'pAdayoH', 'tvayA', 'daMzwavyaH', 'etO', 'deSa', 'kAlO']",Bavati
+vt7a,pt784.xml,"['uSanA', 'veda', 'yat', 'SAstram', 'yat', 'ca', 'veda', 'bfhaspatiH', 'strI', 'budDyA', 'na', 'vi', 'Sizyeta', 'tasmAt', 'rakzyAH', 'kaTam', 'hi', 'tAH']",Sizyeta
+vt7a,pt1327.xml,"['sura', 'ari', 'saNGAta', 'ni', 'pIta', 'SoRitam', 'na', 'cakram', 'ut', 'muYcati', 'mAnuze', 'hariH', 'kareRa', 'yena', 'pra', 'pinazwi', 'kuYjarAn', 'na', 'tena', 'siMhaH', 'maSakAn', 'pra', 'bADyate']",pinazwi
+ctp_dvigu,pt1474.xml,"['tri', 'satyena', 'AtmAnam', 'SapAmi']",satyena
+ctp_dvigu,pt847.xml,"['ekam', 'eva', 'idam', 'vyasanam', 'prasaNga', 'A', 'Kyam', 'sapta', 'aNgam', 'iti']",aNgam
+pcl_kp,pt254.xml,"['savya', 'dakziRa', 'yatra', 'viSezaH', 'na', 'upa', 'laByate', 'na', 'tatra', 'kzaRam', 'api', 'AryaH', 'vidyamAna', 'gatiH', 'vaset']",api
+pcl_kp,pt1118.xml,"['tataH', 'kam', 'cit', 'kUpam', 'A', 'sAdya', 'siMham', 'prati', 'Aha']",prati
+cdi,pt401.xml,"['sarva', 'devamayasya', 'asya', 'viSezaH', 'BU', 'pateH', 'ayam', 'SuBa', 'a', 'SuBa', 'Palam', 'datte', 'sadyaH', 'devAH', 'Bava', 'antare']",SuBa
+cdi,pt1103.xml,"['AtmanaH', 'Saktim', 'ut', 'vi', 'Ikzya', 'mAna', 'utsAhO', 'tu', 'yaH', 'vrajet', 'SatrUn', 'ekaH', 'api', 'hanyAt', 'ca', 'kzatriyAn', 'BArgavaH', 'yaTA']",utsAhO
+root,pt11.xml,"['aTa', 'vA', 'sADU', 'idam', 'ucyate']",ucyate
+root,pt220.xml,"['yasya', 'yasya', 'hi', 'yaH', 'BAvaH', 'tasya', 'tasya', 'hi', 'tam', 'naraH', 'anupra', 'viSya', 'meDAvI', 'kzipram', 'Atma', 'vaSam', 'nayet']",nayet
+vi10am,pt627.xml,"['aTa', 'AzAQaBUti', 'nAmA', 'para', 'vitta', 'apa', 'hArI', 'DUrtaH', 'arTa', 'mAtrAm', 'tasya', 'kakzA', 'antaH', 'gatAm', 'lakzayitvA', 'vi', 'acintayat']",acintayat
+pp. cd,mbh12_13914.xml,"['caRqa', 'vAta', 'ati', 'uzRa', 'ati', 'SIta', 'kftEH', 'ca', 'prati', 'BayEH', 'SArIrEH', 'duHKEH', 'upa', 'tapyante']",vAta
+pcl_post,pt707.xml,"['aham', 'tava', 'kfte', 'praBUtam', 'madya', 'mAMsam', 'A', 'nezyAmi', 'iti']",kfte
+noun_pn_ctp_upapada,pt1155.xml,"['tAm', 'ca', 'a', 'pratirUpa', 'rUpAm', 'ni', 'rUpayan', 'kOlikaH', 'paYcaBiH', 'bAREH', 'manasi', 'manasijena', 'samantAt', 'tAqitaH', 'kaTam', 'kaTam', 'api', 'DErya', 'ava', 'zwamBAt', 'AkAra', 'saMvaraRam', 'kftvA', 'gfham', 'sam', 'pra', 'AptaH', 'sarvAH', 'diSaH', 'rAja', 'duhitf', 'mayIH', 'apaSyat']",manasijena
+noun_pn_ctp_upapada,pt1614.xml,"['tat', 'sparSa', 'A', 'kfzwa', 'manAH', 'itaH', 'ca', 'itaH', 'ca', 'pari', 'Braman', 'kaTam', 'api', 'dEva', 'vaSAt', 'manda', 'visarpiRyA', 'militaH', 'tayA', 'ca', 'aBi', 'hitaH']",militaH
+adj pn,mbh12_26023.xml,"['hEraRyagarBAt', 'ca', 'vasizWAt', 'hiraRyakaSipuH', 'SApam', 'pra', 'AptavAn']",hEraRyagarBAt
+adj pn,mbh03_14650.xml,"['BavAn', 'indradyumnam', 'rAjAnam', 'aBi', 'jAnAti', 'iti']",indradyumnam
+vi1a 4a,pt1470.xml,"['yuzmat', 'nAma', 'grahaRena', 'api', 'trasyate', 'kim', 'punaH', 'sparSanena']",trasyate
+noun_pn_ck,pt1270.xml,"['taTA', 'anyedyuH', 'vikrama', 'sena', 'balEH', 'A', 'gatya', 'upa', 'rudDe', 'puRQravarDana', 'pure', 'sa', 'rAjA', 'mantri', 'puras', 'hita', 'mahA', 'janEH', 'vi', 'jYaptaH']",pure
+noun_pn_ck,pt1749.xml,"['asti', 'kasmin', 'cit', 'vana', 'uddeSe', 'mahA', 'pramARam', 'saraH']",pramARam
+int. ppr. md.,mbh01_968.xml,"['tam', 'mAtA', 'rorUyamARam', 'uvAca']",rorUyamARam
+int. ppr. md.,mbh01_967.xml,"['sa', 'janamejayasya', 'BrAtfBiH', 'aBihataH', 'rorUyamARaH', 'mAtuH', 'samIpam', 'upa', 'agacCat']",rorUyamARaH
+gerundive_anIya_cau,pt1565.xml,"['sva', 'janaH', 'aTa', 'suhft', 'guruH', 'nfpaH', 'vA', 'puruzeRa', 'utpaTagaH', 'ni', 'vAraRIyaH', 'vini', 'vartayitum', 'sa', 'cet', 'na', 'SakyaH', 'parataH', 'tasya', 'manas', 'anugam', 'vi', 'Deyam']",vAraRIyaH
+gerundive_anIya_cau,pt208.xml,"['kalpayati', 'yena', 'vfttim', 'sadasi', 'ca', 'sadBiH', 'pra', 'Sasyate', 'yena', 'sa', 'guRaH', 'tena', 'guRavatA', 'vi', 'varDanIyaH', 'ca', 'rakzyaH', 'ca']",varDanIyaH
+adj pp.,mbh03_14524.xml,"['sa', 'ca', 'tO', 'aSvO', 'prati', 'gfhya', 'anu', 'jYApya', 'ca', 'fzim', 'pra', 'ayAt', 'vAmya', 'sam', 'yuktena', 'raTena', 'mfgam', 'prati']",yuktena
+adj pp.,mbh12_26093.xml,"['tAm', 'indraH', 'patnIm', 'kfSAm', 'glAnAm', 'ca', 'dfzwvA', 'cintayAm', 'baBUva']",glAnAm
+pp. ctp3,mbh12_13978.xml,"['tyakta', 'grAmya', 'vastra', 'AhAra', 'upaBogAH', 'vanya', 'OzaDi', 'mUla', 'Pala', 'parRa', 'pari', 'mita', 'vicitra', 'ni', 'yata', 'AhArAH', 'sTAna', 'AsaninaH', 'BUmi', 'pAzARa', 'sikatA', 'SarkarA', 'vAlukA', 'Basma', 'SAyinaH', 'kASa', 'kuSa', 'carma', 'valkala', 'saM', 'vfta', 'aNgAH', 'keSa', 'SmaSru', 'naKa', 'roma', 'DAriRaH', 'niyata', 'kAla', 'upasparSanAH', 'askanna', 'homa', 'bali', 'kAla', 'anu', 'zWAyinaH', 'samitkuSa', 'kusuma', 'upahAra', 'homa', 'arjana', 'labDa', 'viSrAmAH', 'SItA', 'uzRa', 'pavana', 'niH', 'tapta', 'vi', 'Binna', 'sarva', 'tvacaH', 'viviDa', 'niyama', 'yoga', 'carya', 'avihita', 'Darma', 'anu', 'zWAna', 'hfta', 'mAMsa', 'SoRitAH', 'tvak', 'asTi', 'BUtAH', 'Dfti', 'parAH', 'sattva', 'yogAt', 'SarIrARi', 'ud', 'vahanti']",keSa
+ ctp upapada,mbh12_13955.xml,"['sam', 'A', 'vfttAnam', 'sa', 'dArARAm', 'sahaDarma', 'carya', 'Pala', 'arTinAm', 'gfha', 'ASramaH', 'vi', 'DIyate']",Pala
+vt1a,pt1312.xml,"['Bagavat', 'BaktAH', 'ca', 'tridaRqinaH', 'pravrajyAm', 'tyakzyanti']",tyakzyanti
+vt1a,pt656.xml,"['yat', 'kAraRam', 'niHsaNgatA', 'yatInAm', 'pra', 'Sasyate', 'tava', 'mama', 'api', 'ca']",Sasyate
+noun_pn,pt52.xml,"['dAkziRAtyezu', 'jana', 'padezu', 'purandarapurasya', 'fdDi', 'sarva', 'guRa', 'sam', 'pannam', 'pfTivyAH', 'cUqA', 'maRi', 'ratna', 'BUtam', 'kElAsa', 'SiKara', 'Akfti', 'viviDa', 'yantra', 'praharaRa', 'AcaraRa', 'pari', 'pUrRa', 'go', 'pura', 'awwAlakam', 'visaNkawa', 'utkawa', 'dfQa', 'pariGa', 'kapAwa', 'toraRa', 'argala', 'upagata', 'indra', 'kIla', 'vipula', 'dvAram', 'su', 'vi', 'hita', 'SfNgAwaka', 'catuzpaTa', 'prati', 'sTita', 'an', 'eka', 'devatA', 'Ayatanam', 'pariKA', 'pari', 'karita', 'ut', 'Srita', 'hima', 'giri', 'sadfSa', 'AkAra', 'prAkAra', 'valaya', 'pari', 'vezwitam', 'mahilA', 'ropyam', 'nAma', 'nagaram']",ropyam
+noun_pn,pt5.xml,"['asti', 'dAkziRAtye', 'jana', 'pade', 'mahilAropyaM', 'nAma', 'nagaram']",mahilAropyaM
+adv_cbv,pt1278.xml,"['tataH', 'sudarSanAm', 'A', 'hUya', 'maDura', 'a', 'kzarEH', 'sa', 'bahu', 'mAnam', 'abravIt']",mAnam
+adv_cbv,pt1265.xml,"['aTa', 'asO', 'sa', 'bala', 'parivAraH', 'catuH', 'aNga', 'senA', 'sa', 'nATaH', 'tat', 'upari', 'pra', 'calitaH', 'sa', 'kroDam', 'uktavAn', 'ca']",kroDam
+vt2a,pt1738.xml,"['sADu', 'ca', 'idam', 'ucyate']",ucyate
+vt2a,pt778.xml,"['evam', 'uktvA', 'BUyaH', 'api', 'tam', 'Aha']",Aha
+gerundive_ya,pt1924.xml,"['na', 'a', 'Bakzyam', 'Bakzayet', 'prAjYaH', 'prAREH', 'kaRWa', 'gatEH', 'api', 'viSezAt', 'tat', 'api', 'stokam', 'loka', 'dvaya', 'vinASi', 'ca']",Bakzyam
+gerundive_ya,pt44.xml,"['te', 'api', 'tAni', 'aDi', 'itya', 'mAsa', 'zawkena', 'yaToktAH', 'sam', 'jAtAH']",itya
+noun_ctp3,pt1612.xml,"['evam', 'ca', 'tasyAH', 'tatra', 'vasantyAH', 'quRqukaH', 'nAma', 'matkuRaH', 'vAyu', 'pra', 'IritaH', 'tasmin', 'Sayane', 'patitaH']",IritaH
+noun_ctp3,pt977.xml,"['varam', 'vi', 'hAraH', 'saha', 'pannagEH', 'kftaH', 'SaWa', 'AtmaBiH', 'vA', 'ripuBiH', 'saha', 'uzitam', 'a', 'Darma', 'yuktEH', 'capalEH', 'a', 'paRqitEH', 'na', 'pApa', 'mitrEH', 'saha', 'vartitum', 'kzamam']",capalEH
+ gati,mbh12_26011.xml,"['yasmAt', 'mama', 'upa', 'spfSataH', 'kaluzI', 'BUtAH', 'na', 'prasAdam', 'upa', 'gatAH', 'tasmAt', 'adya', 'praBfti', 'Jaza', 'makara', 'matsya', 'kacCapa', 'jantu', 'sam', 'kIrRAH', 'kaluzI', 'Bavata', 'iti']",BUtAH
+ gati,pt1770.xml,"['tizWan', 'aham', 'iha', 'AvAse', 'vfdDI', 'BUtaH', 'na', 'ca', 'anyAm', 'aham', 'kAm', 'cit', 'api', 'diSam', 'jAnAmi']",BUtaH
+noun_cab,pt872.xml,"['aTa', 'guRa', 'prati', 'lomakam', 'ucyate', 'yadA', 'sanDi', 'vigraha', 'yAna', 'Asana', 'sam', 'Sraya', 'dvEDI', 'BAvAnAm', 'zaRRAm', 'guRAnAm', 'prAti', 'lomyena', 'vartate', 'sanDO', 'pra', 'Apte', 'vigraham', 'vigrahe', 'ca', 'sanDim', 'karoti', 'evam', 'Sezezu', 'api', 'guRezu', 'prAti', 'lomyena', 'yadA', 'vartate', 'tat', 'vyasanam', 'prati', 'lomakam', 'iti']",lomakam
+pcl_rel,pt1396.xml,"['pUjyaH', 'banDuH', 'api', 'priyaH', 'api', 'tanayaH', 'BrAtA', 'vayasyaH', 'api', 'vA', 'yaH', 'mohAt', 'an', 'avadya', 'kArya', 'vimuKaH', 'heyaH', 'sa', 'kArya', 'arTinA', 'loke', 'hi', 'praTitAH', 'nanu', 'SrutiH', 'iyam', 'na', 'arTaH', 'api', 'gAyanti', 'yAm', 'kim', 'kAryam', 'kanakena', 'tena', 'Bavati', 'CedAya', 'karRasya', 'yat']",yaH
+pcl_rel,pt1162.xml,"['yadi', 'sarvasya', 'lokasya', 'guRAH', 'kalyARa', 'kAriRaH', 'tat', 'kaTam', 'mfga', 'SAva', 'akzyAH', 'guRa', 'yogaH', 'dunoti', 'mAm']",yadi
+noun_action_ppf_caus,pt1267.xml,"['tataH', 'anavarata', 'prayARakEH', 'vikrama', 'senaH', 'tat', 'deSam', 'anu', 'pra', 'Apya', 'vi', 'DvaMsayAm', 'Asa']",DvaMsayAm
+preverb,mbh03_14648.xml,"['etat', 'SrutvA', 'sa', 'kacCapaH', 'tasmAt', 'sarasaH', 'ut', 'TAya', 'aBi', 'agacCat', 'yatra', 'tizWAmaH', 'vayam', 'tasya', 'sarasaH', 'tIre']",ut
+preverb,mbh03_14642.xml,"['sa', 'naH', 'abravIt', 'asti', 'Kalu', 'iha', 'eva', 'sarasi', 'akUparaH', 'nAma', 'kacCapaH', 'prati', 'vasati']",prati
+vi4m,pt1038.xml,"['ajAH', 'iva', 'prajAH', 'mohAt', 'yaH', 'hanyAt', 'pfTivI', 'patiH', 'tasya', 'ekA', 'jAyate', 'tfptiH', 'na', 'dvitIyA', 'kaTam', 'cana']",jAyate
+vi4m,pt1027.xml,"['ekasya', 'janmanaH', 'arTe', 'mUQAH', 'kurvanti', 'yAni', 'pApAni', 'janayanti', 'tAni', 'duHKam', 'tezAm', 'janma', 'antara', 'sahasram']",janayanti
+vt4a,pt762.xml,"['na', 'tvAm', 'BUyaH', 'tozayizyAmi']",tozayizyAmi
+vt4a,pt1251.xml,"['iti', 'SrutvA', 'rAjA', 'pra', 'hfzwa', 'hfdayaH', 'tat', 'dinam', 'varza', 'Satam', 'iva', 'kaTam', 'cit', 'ati', 'cakrAma']",cakrAma
+pfp,mbh12_13971.xml,"['api', 'ca', 'atra', 'mAlya', 'ABaraRa', 'vastra', 'aByaNga', 'ganDa', 'upaBoga', 'nftta', 'gita', 'vAditra', 'Sruti', 'suKa', 'nayana', 'aBirAma', 'saM', 'darSanAnAm', 'prAptiH', 'Bakzya', 'Bojya', 'peya', 'lehya', 'cozyAnam', 'aBI', 'ava', 'hAryARAm', 'viviDAnAm', 'upaBogaH', 'sva', 'dAra', 'vihAra', 'santozaH', 'kAma', 'suKa', 'ava', 'AptiH', 'iti']",lehya
+cvi,mbh12_26011.xml,"['yasmAt', 'mama', 'upa', 'spfSataH', 'kaluzI', 'BUtAH', 'na', 'prasAdam', 'upa', 'gatAH', 'tasmAt', 'adya', 'praBfti', 'Jaza', 'makara', 'matsya', 'kacCapa', 'jantu', 'sam', 'kIrRAH', 'kaluzI', 'Bavata', 'iti']",kaluzI
+cvi,pt1770.xml,"['tizWan', 'aham', 'iha', 'AvAse', 'vfdDI', 'BUtaH', 'na', 'ca', 'anyAm', 'aham', 'kAm', 'cit', 'api', 'diSam', 'jAnAmi']",vfdDI
+noun_ctp_upapada,pt197.xml,"['dvizat', 'dveza', 'paraH', 'nityam', 'izwAnAm', 'izwa', 'karma', 'kft', 'yaH', 'naraH', 'nara', 'nATasya', 'sa', 'Bavet', 'rAja', 'vallaBaH']",kft
+noun_ctp_upapada,pt1396.xml,"['pUjyaH', 'banDuH', 'api', 'priyaH', 'api', 'tanayaH', 'BrAtA', 'vayasyaH', 'api', 'vA', 'yaH', 'mohAt', 'an', 'avadya', 'kArya', 'vimuKaH', 'heyaH', 'sa', 'kArya', 'arTinA', 'loke', 'hi', 'praTitAH', 'nanu', 'SrutiH', 'iyam', 'na', 'arTaH', 'api', 'gAyanti', 'yAm', 'kim', 'kAryam', 'kanakena', 'tena', 'Bavati', 'CedAya', 'karRasya', 'yat']",arTinA
+ppr. [2] md.,mbh03_14515.xml,"['aTa', 'enam', 'evam', 'bruvARam', 'abravIt', 'rAjA']",bruvARam
+ppr. [2] md.,mbh03_14422.xml,"['tataH', 'SayAnaH', 'maDuram', 'gIta', 'Sabdam', 'aSfRot']",SayAnaH
+ppp_desid,pt374.xml,"['tat', 'yAvat', 'asya', 'cikIrzitam', 'vettum', 'sTAna', 'antaram', 'gatvA', 'prati', 'pAlayAmi']",cikIrzitam
+ppp_desid,pt96.xml,"['sadA', 'manda', 'mada', 'syandi', 'mAtaNga', 'piSita', 'aSanaH', 'a', 'sam', 'panna', 'Ipsita', 'AhAraH', 'tfRAni', 'atti', 'na', 'kesarI']",Ipsita
+noun_pn_ctp6,pt703.xml,"['svAgatena', 'agnayaH', 'prItAH', 'Asanena', 'Sata', 'kratuH', 'pAda', 'SOcena', 'govindaH', 'anna', 'Adyena', 'prajA', 'patiH']",patiH
+noun_pn_ctp6,pt674.xml,"['AzAQaBUte', 'yAvat', 'aham', 'purIza', 'utsargam', 'kftvA', 'sam', 'A', 'gacCAmi', 'tAvat', 'ezA', 'kanTA', 'yoga', 'ISvaraH', 'ca', 'sAvaDAnena', 'rakzaRIyaH']",ISvaraH
+ppr. ps.,mbh12_26125.xml,"['tataH', 'sa', 'deva', 'rAw', 'devEH', 'fziBiH', 'stUyamAnaH', 'tri', 'vizwapa', 'sTaH', 'nizkalmazaH', 'baBUva']",stUyamAnaH
+ppr. ps.,mbh03_14466.xml,"['aTa', 'maRqUka', 'vaDe', 'Gore', 'kriyamARe', 'dikzu', 'sarvAsu', 'maRqUkAn', 'Bayam', 'A', 'aviSat']",kriyamARe
+adj ca. pp.,mbh12_26056.xml,"['tasmAt', 'anantaram', 'viSvarUpa', 'gAtra', 'maTana', 'samBavam', 'tvazwf', 'ut', 'pAditam', 'eva', 'arim', 'vftram', 'indraH', 'jaGAna']",pAditam
+adj ca. pp.,mbh03_14443.xml,"['pari', 'A', 'SvastaH', 'ca', 'rAjA', 'tayA', 'eva', 'saha', 'SibikayA', 'pra', 'ayAt', 'a', 'vi', 'GAwitayA']",GAwitayA
+noun_gerundive_ya,pt1411.xml,"['mUla', 'Bftya', 'uparoDena', 'na', 'hi', 'A', 'gantum', 'pra', 'pUjayet', 'na', 'ataH', 'parataraH', 'anyaH', 'asti', 'rAjya', 'Beda', 'karaH', 'karaH', 'gadaH', 'gadaH']",rAjya
+noun_gerundive_ya,pt1561.xml,"['tena', 'ca', 'svakIya', 'kuwumbam', 'A', 'nIya', 'suhft', 'sva', 'jana', 'sama', 'itena', 'Bojana', 'Adi', 'kriyA', 'pari', 'tuzwena', 'an', 'eka', 'maKa', 'karaRa', 'arjita', 'puRya', 'prAk', 'BAreRa', 'sakala', 'rAjya', 'cintA', 'sam', 'Bfta', 'ADipatyena', 'suKam', 'anu', 'BUyate', 'sma']",rAjya
+num_ordinal,pt935.xml,"['mAma', 'kim', 'adya', 'AhAra', 'vihAra', 'kriyA', 'na', 'kriyate', 'yaTA', 'praTamam', 'iti']",praTamam
+num_ordinal,pt1013.xml,"['upa', 'IkzitaH', 'kzIRa', 'balaH', 'api', 'SatruH', 'pramAda', 'dozAt', 'puruzEH', 'mada', 'anDEH', 'sADyaH', 'api', 'BUtvA', 'praTamam', 'tataH', 'asO', 'a', 'sADyatAm', 'vyADiH', 'iva', 'pra', 'yAti']",praTamam
+abs c,mbh03_14450.xml,"['aTa', 'amAtyaH', 'an', 'udakam', 'vanam', 'kArayitvA', 'udAra', 'vfkzam', 'bahu', 'mUla', 'puzpa', 'Palam', 'rahasi', 'upa', 'gamya', 'rAjAnam', 'abravIt']",kArayitvA
+prap[2],pt1389.xml,"['a', 'priyARi', 'api', 'kurvARaH', 'nizWurARi', 'ca', 'bruvan', 'cetaH', 'pra', 'hlAdayati', 'eva', 'sarva', 'avasTAsu', 'vallaBaH']",bruvan
+prap[2],pt917.xml,"['Badra', 'kim', 'evam', 'sati', 'pra', 'Apta', 'kAlam', 'manyase']",sati
+vi1m,pt842.xml,"['kasmin', 'vyasane', 'vartate', 'svAmI', 'piNgalakaH']",vartate
+vi1m,pt1751.xml,"['tasya', 'ca', 'tatra', 'an', 'eka', 'kAlam', 'bahu', 'prakAram', 'krIqataH', 'samayaH', 'ati', 'vartate']",vartate
+adj ppr. [1] ac.,mbh12_26128.xml,"['AkASa', 'gaNgA', 'gataH', 'ca', 'purA', 'BaradvAjaH', 'mahA', 'fziH', 'upa', 'aspfSan', 'trIn', 'kramAn', 'kramatA', 'vizRunA', 'aBi', 'A', 'sAditaH']",vizRunA
+adj ppr. [1] ac.,mbh03_14417.xml,"['tam', 'eka', 'aSvena', 'mfgam', 'anu', 'sarantam', 'mfgaH', 'dUram', 'apa', 'aharat']",sarantam
+adv cab,mbh12_26029.xml,"['saktam', 'ca', 'enam', 'jYAtvA', 'apsarasaH', 'UcuH', 'gacCAmahe', 'vayam', 'yaTAgatam', 'iti']",yaTAgatam
+adv cab,mbh03_14659.xml,"['yaTAucitam', 'sTAnam', 'aBi', 'padyasva']",yaTAucitam
+ctp6,mbh12_26087.xml,"['sA', 'upaSrutiH', 'SacI', 'samIpam', 'agAt']",samIpam
+ctp6,mbh03_14459.xml,"['sADu', 'ava', 'tara', 'vApI', 'salilam', 'iti']",salilam
+pron_reflexive,pt1632.xml,"['deSam', 'kAlam', 'kAryam', 'param', 'AtmAnam', 'ca', 'yaH', 'na', 'jAnAti', 'a', 'vi', 'mfSya', 'yaH', 'karoti', 'ca', 'na', 'sa', 'Palam', 'Apnoti', 'vE', 'mUrKaH']",AtmAnam
+pron_reflexive,pt423.xml,"['tat', 'SrutvA', 'gatAsum', 'iva', 'AtmAnam', 'manyamAnaH', 'saYjIvakaH', 'param', 'vizAdam', 'agamat', 'Aha', 'ca']",AtmAnam
+vt3am,pt1931.xml,"['dIyatAm', 'mama', 'a', 'kzayaH', 'svarga', 'vAsaH']",dIyatAm
+vt3am,pt1095.xml,"['Satam', 'ekaH', 'api', 'sam', 'Datte', 'prAkAra', 'sTaH', 'DanuH', 'DaraH', 'tasmAt', 'durgam', 'pra', 'SaMsanti', 'nIti', 'SAstra', 'vicakzaRAH']",Datte
+pap_caus,pt1264.xml,"['tEH', 'ca', 'sva', 'vizayam', 'yam', 'anu', 'pra', 'AptEH', 'Sata', 'sahasra', 'guRam', 'tat', 'kaTayitvA', 'kopitaH', 'sva', 'svAmI']",kopitaH
+pap_caus,pt1050.xml,"['sa', 'ca', 'sarvEH', 'mfga', 'gaREH', 'A', 'jYApitaH', 'iti', 'cintayAm', 'Asa']",jYApitaH
+noun_ctp7,pt846.xml,"['striyaH', 'akzAH', 'mfgayA', 'pAnam', 'vAk', 'pAruzyam', 'ca', 'paYcamam', 'mahat', 'ca', 'daRqa', 'pAruzyam', 'arTa', 'dUzaRam', 'eva', 'ca']",pAruzyam
+noun_ctp7,pt746.xml,"['sam', 'digDe', 'para', 'loke', 'jana', 'apavAde', 'ca', 'jagati', 'bahu', 'citre', 'sva', 'aDIne', 'para', 'ramaRe', 'DanyAH', 'tAruRya', 'Pala', 'BAjaH']",apavAde
+pron,pt11.xml,"['aTa', 'vA', 'sADU', 'idam', 'ucyate']",idam
+pron,pt220.xml,"['yasya', 'yasya', 'hi', 'yaH', 'BAvaH', 'tasya', 'tasya', 'hi', 'tam', 'naraH', 'anupra', 'viSya', 'meDAvI', 'kzipram', 'Atma', 'vaSam', 'nayet']",yasya
+ca. ppa.,mbh12_26159.xml,"['tatra', 'tasya', 'anila', 'vyajana', 'kfta', 'paritozasya', 'sadyaH', 'vanaspatayaH', 'puzpa', 'SoBAm', 'na', 'darSitavantaH', 'iti', 'saH', 'etAn', 'SaSApa', 'na', 'sarva', 'kAlam', 'puzpavantaH', 'BavizyaTa', 'iti']",darSitavantaH
+adj_ctp6,pt52.xml,"['dAkziRAtyezu', 'jana', 'padezu', 'purandarapurasya', 'fdDi', 'sarva', 'guRa', 'sam', 'pannam', 'pfTivyAH', 'cUqA', 'maRi', 'ratna', 'BUtam', 'kElAsa', 'SiKara', 'Akfti', 'viviDa', 'yantra', 'praharaRa', 'AcaraRa', 'pari', 'pUrRa', 'go', 'pura', 'awwAlakam', 'visaNkawa', 'utkawa', 'dfQa', 'pariGa', 'kapAwa', 'toraRa', 'argala', 'upagata', 'indra', 'kIla', 'vipula', 'dvAram', 'su', 'vi', 'hita', 'SfNgAwaka', 'catuzpaTa', 'prati', 'sTita', 'an', 'eka', 'devatA', 'Ayatanam', 'pariKA', 'pari', 'karita', 'ut', 'Srita', 'hima', 'giri', 'sadfSa', 'AkAra', 'prAkAra', 'valaya', 'pari', 'vezwitam', 'mahilA', 'ropyam', 'nAma', 'nagaram']",Akfti
+adj_ctp6,pt840.xml,"['vyasanam', 'hi', 'mahA', 'rAjYaH', 'mohAt', 'sam', 'prati', 'padyate', 'viDinA', 'SAstra', 'dfzwena', 'mftyuH', 'vAryaH', 'pra', 'yatnataH']",dfzwena
+ca. pp.,mbh12_26003.xml,"['aSvinoH', 'graha', 'pratizeDa', 'ud', 'yata', 'vajrasya', 'puraMdarasya', 'cyavanena', 'stamBitaH', 'bAhuH']",bAhuH
+noun_ctp_dvigu,pt1068.xml,"['svAmin', 'adya', 'samasta', 'mfgEH', 'jAti', 'krameRa', 'prastAvam', 'vi', 'jYAya', 'laGutarasya', 'tarasya', 'mama', 'tataH', 'paYca', 'SaSakEH', 'saha', 'aham', 'pra', 'IzitaH']",SaSakEH
+noun_ctp_dvigu,pt1125.xml,"['tataH', 'tat', 'pratiSabdena', 'dvi', 'guRataraH', 'nAdaH', 'kUpAt', 'sam', 'ut', 'sTitaH']",guRataraH
+pcl,pt1969.xml,"['aTa', 'tatra', 'vane', 'vimalaH', 'nAma', 'siMhaH', 'prati', 'vasati', 'sma']",aTa
+pcl,pt656.xml,"['yat', 'kAraRam', 'niHsaNgatA', 'yatInAm', 'pra', 'Sasyate', 'tava', 'mama', 'api', 'ca']",api
+adj pp. ctp3,mbh12_26054.xml,"['tena', 'vajreRa', 'a', 'Bidyena', 'a', 'pra', 'DfzyeRa', 'brahma', 'asTi', 'sam', 'BUtena', 'vizRu', 'pra', 'vizwena', 'indraH', 'viSvarUpam', 'jaGAna']",viSvarUpam
+adj pp. ctp3,mbh12_26117.xml,"['UcuH', 'ca', 'enam', 'Bagavan', 'indram', 'brahma', 'vaDyA', 'aBi', 'BUtam', 'trAtum', 'arhasi', 'iti']",BUtam
+ppr. [10] ac.,mbh03_14599.xml,"['brAhmaReByaH', 'mfgayantI', 'sUnftAni', 'taTA', 'brahman', 'puRya', 'lokam', 'laBeyam']",mfgayantI
+adj_ctp_prAdi,pt1294.xml,"['itaH', 'ca', 'kOlikaH', 'mukta', 'surata', 'AramBaH', 'ati', 'AkulaH', 'sva', 'manasA', 'parI', 'A', 'locitavAn']",AkulaH
+adj_ctp_prAdi,pt863.xml,"['su', 'boDaH', 'eva', 'kAma', 'jaH', 'vargaH']",boDaH
+ctp_gati,pt1006.xml,"['kAkI', 'api', 'sarpa', 'koware', 'tat', 'kanaka', 'sUtram', 'ni', 'kzipya', 'su', 'dUrataram', 'ava', 'sTitA']",dUrataram
+ctp_gati,pt711.xml,"['duH', 'divase', 'asita', 'pakze', 'duH', 'saYcArAsu', 'nagara', 'vITIzu', 'patyuH', 'videSa', 'gamane', 'parama', 'suKam', 'jaGana', 'capalAyAH']",divase
+adj,mbh12_26044.xml,"['tAn', 'brahma', 'uvAca', 'fziH', 'BArgavaH', 'tapaH', 'tapyate', 'daDIcaH']",fziH
+adj,mbh12_26118.xml,"['tataH', 'sa', 'varadaH', 'tAn', 'abravIt', 'aSva', 'meDam', 'yajYam', 'vEzRavam', 'SakraH', 'aBi', 'yajatu']",varadaH
+adj ctp prAdi,mbh12_13919.xml,"['su', 'suKaH', 'pavanaH', 'svarge', 'ganDaH', 'ca', 'suraBiH', 'taTA']",suKaH
+adj ctp prAdi,mbh12_26040.xml,"['viSvarUpeRa', 'sarva', 'yajYezu', 'su', 'hutaH', 'somaH', 'pIyate']",hutaH
+abb,mbh12_25988.xml,"['agniH', 'vizRuH', 'sarva', 'BUtAni', 'anu', 'pra', 'viSya', 'prARAn', 'DArayati']",prARAn
+ppf. ac.,mbh03_14483.xml,"['na', 'arhasi', 'vidvan', 'mAm', 'upa', 'rodDum', 'iti']",vidvan
+ppf. ac.,mbh12_25986.xml,"['agnO', 'sam', 'idDe', 'sa', 'juhoti', 'yaH', 'vidvAn', 'brAhmaRa', 'muKe', 'dAna', 'Ahutim', 'juhoti']",vidvAn
+ ctp na,mbh12_13910.xml,"['an', 'ftAt', 'Kalu', 'tamaH', 'prAduH', 'BUtam', 'tamaH', 'grastAH', 'a', 'Darmam', 'eva', 'anu', 'vartante', 'na', 'Darmam']",Kalu
+ ctp na,mbh12_25959.xml,"['na', 'sat', 'AsIt', 'na', 'a', 'sat', 'AsIt']",AsIt
+adj ctp2,mbh12_13955.xml,"['sam', 'A', 'vfttAnam', 'sa', 'dArARAm', 'sahaDarma', 'carya', 'Pala', 'arTinAm', 'gfha', 'ASramaH', 'vi', 'DIyate']",gfha
+adj ctp2,mbh12_25999.xml,"['vAk', 'samakAlam', 'hi', 'tasya', 'devasya', 'vara', 'pradasya', 'brAhmaRAH', 'praTamam', 'prAduH', 'BUtAH', 'brAhmaReByaH', 'ca', 'SezAH', 'varRAH', 'prAduH', 'BUtAH']",pradasya
+bv,mbh12_26034.xml,"['aTa', 'tAH', 'viSvarUpaH', 'abravIt', 'adya', 'eva', 'sa', 'indrAH', 'devAH', 'na', 'Bavizyanti', 'iti']",indrAH
+bv,mbh12_26003.xml,"['aSvinoH', 'graha', 'pratizeDa', 'ud', 'yata', 'vajrasya', 'puraMdarasya', 'cyavanena', 'stamBitaH', 'bAhuH']",puraMdarasya
+vi6a,pt1459.xml,"['tri', 'satyena', 'aham', 'AtmAnam', 'SapAmi', 'na', 'Bayam', 'tava', 'asmat', 'sakASAt', 'vidyate']",vidyate
+vi6a,pt1570.xml,"['sa', 'snigDaH', 'vyasanAt', 'ni', 'vArayati', 'yaH', 'tat', 'karma', 'yat', 'nirmalam', 'sA', 'strI', 'yA', 'anu', 'viDAyinI', 'sa', 'matimAn', 'yaH', 'sadBiH', 'aBi', 'arcyate', 'sA', 'SrIH', 'yA', 'na', 'madam', 'karoti', 'sa', 'suKI', 'yaH', 'tfzRayA', 'na', 'Uhyate', 'tat', 'mitram', 'yat', 'a', 'yantraRam', 'sa', 'puruzaH', 'yaH', 'Kidyate', 'na', 'Apadi']",Kidyate
+adj ctp na,mbh12_26052.xml,"['aTa', 'daDIcaH', 'taTA', 'eva', 'a', 'vimanAH', 'suKa', 'duHKa', 'samaH', 'mahA', 'yogI', 'AtmAnam', 'sam', 'DAya', 'SarIra', 'parityAgam', 'cakAra']",vimanAH
+adj ctp na,mbh12_26173.xml,"['kzatram', 'api', 'SASvatIm', 'a', 'vyayAm', 'pfTivIm', 'patnIm', 'aBi', 'gamya', 'buBuje']",vyayAm
+ctp5,mbh12_25949.xml,"['Atma', 'teja', 'udBavam', 'pArTa', 'SfRuzva', 'ekamanAH', 'mama']",udBavam
+ctp5,mbh03_14478.xml,"['tam', 'evam', 'vAdinam', 'izwa', 'jana', 'Soka', 'pari', 'ita', 'AtmA', 'rAjA', 'pra', 'uvAca']",Soka
+ adv cab,mbh03_14500.xml,"['sa', 'ca', 'maRqUka', 'rAjaH', 'jAmAtaram', 'anu', 'jYApya', 'yaTA', 'A', 'gatam', 'agacCat']",agacCat
+vt8a,pt159.xml,"['tat', 'kaTaya', 'kaTam', 'AtmI', 'karizyasi']",karizyasi
+ cpt3,mbh03_14456.xml,"['tat', 'pra', 'viSya', 'rAjA', 'sa', 'saha', 'priyayA', 'suDA', 'tala', 'sukftAm', 'vimala', 'salila', 'pUrRAm', 'vApIm', 'apaSyat']",vApIm
+adj ppr. [1] md.,mbh03_14654.xml,"['saraH', 'ca', 'idam', 'asya', 'dakziRA', 'dattABiH', 'goBiH', 'ati', 'kramamARABiH', 'kftam']",kftam
+adj ppr. [1] md.,mbh03_14651.xml,"['sa', 'muhUrtam', 'DyAtvA', 'bAzpa', 'pUrRa', 'nayanaH', 'ud', 'vigna', 'hfdayaH', 'vepamAnaH', 'visaYjYa', 'kalpaH', 'prAYjaliH', 'abravIt']",visaYjYa
+gerundive_tavya,pt1317.xml,"['anena', 'tasya', 'rAjYaH', 'GAtakena', 'Bavitavyam']",Bavitavyam
+gerundive_tavya,pt190.xml,"['rAja', 'mAtari', 'devyAm', 'ca', 'kumAre', 'muKya', 'mantriRi', 'puras', 'hite', 'pratIhAre', 'kartavyam', 'rAjavat', 'sadA']",kartavyam
+prap_cau,pt80.xml,"['tasmin', 'ca', 'marakata', 'sadfSAni', 'Sazpa', 'pallava', 'agrARi', 'Bakzayan', 'katipayEH', 'ahoBiH', 'hara', 'vfzaBaH', 'iva', 'pInaH', 'kakudmAn', 'balavAn', 'ca', 'sam', 'vfttaH']",Bakzayan
+prap_cau,pt1208.xml,"['evam', 'aBi', 'DAya', 'gate', 'raTa', 'kAre', 'manaH', 'raTa', 'SatEH', 'divasa', 'Sezam', 'ati', 'vAhya', 'pra', 'sannAyAm', 'rajanyAm', 'snAna', 'DUpa', 'cUrRa', 'vilepana', 'tAmbUla', 'muKa', 'vAsa', 'vAsa', 'vAsa', 'kusuma', 'AdiBiH', 'ati', 'suraBi', 'vicitra', 'mAlya', 'ambaraH', 'mukuwa', 'Adi', 'ABaraRa', 'alaNkftaH', 'kOlikaH', 'taTEva', 'anu', 'sTitavAn', 'yAvat', 'asO', 'rAja', 'kanyA', 'suDA', 'aMSu', 'kara', 'adAte', 'harmya', 'tale', 'Sayana', 'tala', 'ava', 'sTitA', 'ekAkinI', 'candramasam', 'ava', 'lokayantI', 'manAg', 'madanena', 'spfSyamAna', 'sahasA', 'eva', 'tam', 'vEnateya', 'aDi', 'rUQam', 'nArAyaRa', 'AkAram', 'kOlikam', 'ava', 'lokitavatI']",lokayantI
+noun_ctp_na,pt633.xml,"['niHspfhaH', 'na', 'aDikArI', 'syAt', 'na', 'a', 'kAmI', 'maRqana', 'priyaH', 'na', 'a', 'vi', 'dagDaH', 'priyam', 'brUyAt', 'sPuwa', 'vaktA', 'na', 'vaYcakaH']",kAmI
+noun_ctp_na,pt977.xml,"['varam', 'vi', 'hAraH', 'saha', 'pannagEH', 'kftaH', 'SaWa', 'AtmaBiH', 'vA', 'ripuBiH', 'saha', 'uzitam', 'a', 'Darma', 'yuktEH', 'capalEH', 'a', 'paRqitEH', 'na', 'pApa', 'mitrEH', 'saha', 'vartitum', 'kzamam']",na
+vt1a 6am,pt893.xml,"['trayaH', 'sTAnam', 'na', 'muYcanti', 'kAkAH', 'kA', 'puruzAH', 'mfgAH', 'apamAne', 'trayaH', 'yAnti', 'siMhAH', 'sat', 'puruzAH', 'gajAH']",muYcanti
+vt9a 4a,pt1001.xml,"['tasmAt', 'kasya', 'api', 'DaninaH', 'kanaka', 'sUtram', 'hAram', 'vA', 'pra', 'mAdinaH', 'gfhItvA', 'tatra', 'pra', 'kzipatu', 'yaTA', 'sarpaH', 'tat', 'grahaRena', 'baDyate']",baDyate
+ctp_upapada,pt812.xml,"['A', 'yAti', 'sKalitEH', 'pAdEH', 'muKa', 'vEvarRya', 'saM', 'yutaH', 'lalAwa', 'sveda', 'BAk', 'BUri', 'gadgadam', 'BAzate', 'vacaH']",BAk
+ctp_upapada,pt1806.xml,"['gallopa', 'ante', 'sucira', 'niBftam', 'vAri', 'vanya', 'dvipAnAm', 'ye', 'sevante', 'nava', 'maDu', 'rasa', 'A', 'svAda', 'lubDAH', 'dvirePAH', 'te', 'tat', 'karRa', 'vyajana', 'pavana', 'pra', 'INKitEH', 'kzipta', 'dehAH', 'BUmim', 'pra', 'AptAH', 'kamala', 'vivara', 'krIqitAni', 'smaranti']",dvirePAH
+pcl_int,pt23.xml,"['tat', 'sam', 'kzepa', 'mAtram', 'kim', 'cit', 'etezAm', 'praboDana', 'arTam', 'cintyatAm', 'iti']",kim
+pcl_int,pt1003.xml,"['tataH', 'ca', 'kAkI', 'kim', 'cit', 'saraH', 'prA', 'Apya', 'yAvat', 'paSyati', 'tat', 'maDye', 'kasya', 'cit', 'rAjYaH', 'antaH', 'puram', 'jala', 'A', 'sanna', 'ni', 'asta', 'kanaka', 'sUtra', 'muktA', 'hAra', 'vastra', 'ABaraRam', 'jala', 'krIqAm', 'karoti']",kim
+adj ctp4,mbh12_13967.xml,"['vatsalAH', 'sarva', 'BUtAnAm', 'vAcyAH', 'Srotra', 'suKAH', 'giraH']",giraH
+adj ctp4,mbh12_13982.xml,"['vi', 'mucya', 'agni', 'Dana', 'kalatra', 'paribarha', 'saNgAn', 'AtmanaH', 'sneha', 'pASAn', 'ava', 'DUya', 'pari', 'vrajanti', 'sama', 'lozwa', 'aSma', 'kAYcanAH', 'tri', 'varga', 'pra', 'vfttezu', 'AramBezu', 'a', 'sakta', 'budDayaH', 'ari', 'mitra', 'ud', 'AsInezu', 'tulya', 'vfttayaH', 'sTAvara', 'jara', 'Ayuja', 'aRqaja', 'svedaja', 'ud', 'BijjAnAm', 'BUtAnAm', 'vAk', 'manaH', 'karmaBiH', 'an', 'aBi', 'drohiRaH', 'a', 'niketAH', 'parvata', 'pulina', 'vfkza', 'mUla', 'devata', 'yatanAni', 'anu', 'carantaH', 'vAsa', 'ArTam', 'upa', 'IyuH', 'nagaram', 'grAmam', 'vA', 'nagare', 'paYca', 'rAtrikAH', 'grAma', 'eka', 'rAtrikAH']",vAk
+cds,mbh12_25963.xml,"['tataH', 'BUta', 'sarge', 'pra', 'vftte', 'prajA', 'krama', 'vaSAt', 'brahma', 'kzatram', 'upa', 'atizWat']",kzatram
+ ctp3,mbh12_13910.xml,"['an', 'ftAt', 'Kalu', 'tamaH', 'prAduH', 'BUtam', 'tamaH', 'grastAH', 'a', 'Darmam', 'eva', 'anu', 'vartante', 'na', 'Darmam']",Darmam
+ ctp3,mbh03_14654.xml,"['saraH', 'ca', 'idam', 'asya', 'dakziRA', 'dattABiH', 'goBiH', 'ati', 'kramamARABiH', 'kftam']",goBiH
+ck,mbh12_26001.xml,"['ahalyA', 'DarzaRa', 'nimittam', 'hi', 'gOtamAt', 'hari', 'SmaSrutAm', 'indraH', 'pra', 'AptaH']",SmaSrutAm
+ck,mbh12_26020.xml,"['putra', 'kim', 'para', 'pakza', 'varDanaH', 'tvam', 'mAtula', 'pakzam', 'nASayasi']",pakza
+ adj cbv,pt977.xml,"['varam', 'vi', 'hAraH', 'saha', 'pannagEH', 'kftaH', 'SaWa', 'AtmaBiH', 'vA', 'ripuBiH', 'saha', 'uzitam', 'a', 'Darma', 'yuktEH', 'capalEH', 'a', 'paRqitEH', 'na', 'pApa', 'mitrEH', 'saha', 'vartitum', 'kzamam']",vA
+ adj cbv,pt1153.xml,"['aTa', 'kadA', 'cit', 'kasmin', 'cit', 'sam', 'jAta', 'mahA', 'utsave', 'sarvaH', 'eva', 'pOra', 'janaH', 'yaTA', 'viBava', 'Bfta', 'alaNkAraH', 'devatA', 'Ayatana', 'Adizu', 'sTAnezu', 'pari', 'Bramitum', 'pra', 'vfttaH']",sTAnezu
+adj_rel,pt1311.xml,"['yAni', 'ca', 'BawwAraka', 'AyatanAni', 'tAni', 'nAstikAH', 'vi', 'nASayizyanti']",yAni
+adj_rel,pt1038.xml,"['ajAH', 'iva', 'prajAH', 'mohAt', 'yaH', 'hanyAt', 'pfTivI', 'patiH', 'tasya', 'ekA', 'jAyate', 'tfptiH', 'na', 'dvitIyA', 'kaTam', 'cana']",yaH
+ cab,mbh03_14467.xml,"['te', 'BItAH', 'maRqUka', 'rAjYe', 'yaTA', 'vfttam', 'ni', 'avedayan']",ni
+ cab,pt584.xml,"['araRya', 'DarmAt', 'vi', 'yojya', 'grAma', 'Darmezu', 'ni', 'yojitaH', 'kim', 'bahunA', 'prati', 'aham', 'saYjIvaka', 'piNgalakO', 'kevalam', 'rahasyam', 'miTaH', 'mantrayete']",saYjIvaka
+adv_int,pt1752.xml,"['aTa', 'kadA', 'cit', 'tasya', 'antakaraH', 'mftyuH', 'ulUka', 'rUpeRa', 'A', 'yAtaH']",kadA
+adv_int,pt911.xml,"['tat', 'kaTam', 'asya', 'apa', 'karizyasi']",kaTam
+ ctp4,mbh12_26056.xml,"['tasmAt', 'anantaram', 'viSvarUpa', 'gAtra', 'maTana', 'samBavam', 'tvazwf', 'ut', 'pAditam', 'eva', 'arim', 'vftram', 'indraH', 'jaGAna']",eva
+ ctp4,mbh12_26160.xml,"['nArAyaRaH', 'loka', 'hita', 'ArTam', 'vaqavAmuKaH', 'nAma', 'mahA', 'fziH', 'purA', 'aBavat']",ArTam
+adj_pron,pt1255.xml,"['tat', 'sidDAH', 'asmAkam', 'sarve', 'hfdayasTA', 'mano', 'raTAh']",sarve
+adj_pron,pt1047.xml,"['param', 'yadi', 'mama', 'atra', 'upa', 'vizwasya', 'na', 'ekEkaH', 'mfgaH', 'sam', 'A', 'ezyati', 'tat', 'nUnam', 'sarvAn', 'api', 'BakzayizyAmi', 'iti']",sarvAn
+infinitive,pt1685.xml,"['saH', 'api', 'tat', 'A', 'karRya', 'palAyitum', 'IhamAnaH', 'vyAGreRa', 'KaRqaSaH', 'kftaH', 'mftaH', 'ca']",palAyitum
+infinitive,pt773.xml,"['Dik', 'Dik', 'mahA', 'mUQa', 'kaH', 'mAm', 'mahA', 'satIm', 'pati', 'vratAm', 'Darzayitum', 'vyaNgayitum', 'vA', 'samarTaH']",Darzayitum
+ca. pfp. [2],mbh12_26022.xml,"['sa', 'rUpaviSvaH', 'mAtuH', 'vAkyam', 'an', 'ati', 'kramaRIyam', 'iti', 'matvA', 'sam', 'pUjya', 'hiraRyakaSipum', 'agAt']",kramaRIyam
+vt6m 1m,pt907.xml,"['kva', 'gataH', 'mfgaH', 'na', 'jIvati', 'pATaH', 'culukena', 'GAsa', 'muzwyA', 'vA', 'muYcati', 'cira', 'uzitatvAt', 'janma', 'vanam', 'na', 'apamAne', 'api']",muYcati
+ctp_na,pt540.xml,"['asya', 'sammAnasya', 'a', 'cirAt', 'eva', 'drakzyasi', 'rAja', 'prasAda', 'Adi', 'Palam']",cirAt
+ctp_na,pt857.xml,"['tatra', 'praTamam', 'tAvat', 'svAmi', 'amAtya', 'janapada', 'durga', 'koSa', 'daRqa', 'mitrARAm', 'ekatamasya', 'tamaH', 'yA', 'api', 'a', 'BAve', 'a', 'BAv', 'A', 'Kyam', 'ava', 'gantavyam']",BAve
+v2m,pt1111.xml,"['yaH', 'a', 'balaH', 'pra', 'ut', 'natam', 'yAti', 'vi', 'hantum', 'sa', 'balam', 'ripum', 'vimadaH', 'sa', 'ni', 'varteta', 'SIrRa', 'dantaH', 'yaTA', 'gajaH']",vi
+pfp. [2],mbh03_14426.xml,"['aTa', 'apaSyat', 'kanyAm', 'parama', 'rUpa', 'darSanIyAm', 'puzpARi', 'ava', 'cinvatIm', 'gAyantIm', 'ca']",darSanIyAm
+vt5a,pt1632.xml,"['deSam', 'kAlam', 'kAryam', 'param', 'AtmAnam', 'ca', 'yaH', 'na', 'jAnAti', 'a', 'vi', 'mfSya', 'yaH', 'karoti', 'ca', 'na', 'sa', 'Palam', 'Apnoti', 'vE', 'mUrKaH']",Apnoti
+vt5a,pt1162.xml,"['yadi', 'sarvasya', 'lokasya', 'guRAH', 'kalyARa', 'kAriRaH', 'tat', 'kaTam', 'mfga', 'SAva', 'akzyAH', 'guRa', 'yogaH', 'dunoti', 'mAm']",mAm
+vt1m 6am,pt624.xml,"['tataH', 'sa', 'na', 'kasya', 'cit', 'vi', 'Svasiti', 'naktam', 'dinam', 'kakzA', 'antarAt', 'tAm', 'na', 'muYcati']",muYcati
+pron_p1,pt525.xml,"['aparaM', 'mayA', 'asya', 'BU', 'pateH', 'anyasya', 'vA', 'kasyacit', 'svapne', 'api', 'vAk', 'mAtreRa', 'api', 'na', 'kftam', 'a', 'hitam']",mayA
+noun_ctp2,pt1145.xml,"['damBena', 'api', 'niScaya', 'pUrvam', 'suprayuktena', 'kArya', 'sidDiH', 'iti']",pUrvam
+noun_ctp2,pt1124.xml,"['sa', 'ca', 'siMhaH', 'ati', 'mUrKatayA', 'AtmanaH', 'pratibimbam', 'jala', 'maDya', 'gatam', 'dfzwvA', 'siMha', 'nAdam', 'mumoca']",gatam
+adj cbv,mbh03_14651.xml,"['sa', 'muhUrtam', 'DyAtvA', 'bAzpa', 'pUrRa', 'nayanaH', 'ud', 'vigna', 'hfdayaH', 'vepamAnaH', 'visaYjYa', 'kalpaH', 'prAYjaliH', 'abravIt']",ud
+adj cbv,mbh03_14478.xml,"['tam', 'evam', 'vAdinam', 'izwa', 'jana', 'Soka', 'pari', 'ita', 'AtmA', 'rAjA', 'pra', 'uvAca']",rAjA
+ctp7,mbh12_13978.xml,"['tyakta', 'grAmya', 'vastra', 'AhAra', 'upaBogAH', 'vanya', 'OzaDi', 'mUla', 'Pala', 'parRa', 'pari', 'mita', 'vicitra', 'ni', 'yata', 'AhArAH', 'sTAna', 'AsaninaH', 'BUmi', 'pAzARa', 'sikatA', 'SarkarA', 'vAlukA', 'Basma', 'SAyinaH', 'kASa', 'kuSa', 'carma', 'valkala', 'saM', 'vfta', 'aNgAH', 'keSa', 'SmaSru', 'naKa', 'roma', 'DAriRaH', 'niyata', 'kAla', 'upasparSanAH', 'askanna', 'homa', 'bali', 'kAla', 'anu', 'zWAyinaH', 'samitkuSa', 'kusuma', 'upahAra', 'homa', 'arjana', 'labDa', 'viSrAmAH', 'SItA', 'uzRa', 'pavana', 'niH', 'tapta', 'vi', 'Binna', 'sarva', 'tvacaH', 'viviDa', 'niyama', 'yoga', 'carya', 'avihita', 'Darma', 'anu', 'zWAna', 'hfta', 'mAMsa', 'SoRitAH', 'tvak', 'asTi', 'BUtAH', 'Dfti', 'parAH', 'sattva', 'yogAt', 'SarIrARi', 'ud', 'vahanti']",kuSa
+ctp7,mbh12_13948.xml,"['tatra', 'guru', 'kula', 'vAsam', 'eva', 'tAvat', 'praTamam', 'ASramam', 'uda', 'A', 'haranti']",vAsam
+onom,pt803.xml,"['aTa', 'asmin', 'vyatikare', 'sA', 'duzwA', 'UrDvO', 'bAhU', 'vi', 'DAya', 'PUt', 'kartu', 'manAH', 'gfhAt', 'niH', 'cakrAma']",PUt
+ctp3,mbh12_26165.xml,"['etat', 'ca', 'te', 'toyam', 'vaqavAmuKa', 'saYjYitena', 'pIyamAnam', 'maDuram', 'Bavizyati']",pIyamAnam
+ctp3,mbh12_26166.xml,"['tat', 'etat', 'adya', 'api', 'vaqavAmuKa', 'saYjYitena', 'anu', 'vartinA', 'toyam', 'sAmudram', 'pIyate']",anu
+vt6am 1m,pt665.xml,"['taTA', 'api', 'kakzA', 'antarAt', 'mAtrAm', 'na', 'muYcati']",muYcati
+ppr. [1] ac.,mbh03_14551.xml,"['tAByAm', 'yAhi', 'tvam', 'yatra', 'kAmaH', 'mahA', 'fze', 'CandAMsi', 'vE', 'tvA', 'dfSam', 'sam', 'vahanti']",vahanti
+ppr. [1] ac.,mbh12_26066.xml,"['nahuzaH', 'paYcaBiH', 'SatEH', 'jyotizAm', 'lalAwe', 'jvaladBiH', 'sarva', 'tejaH', 'harEH', 'tri', 'vizwapam', 'pAlayAm', 'baBUva']",jvaladBiH
+adj cds,mbh03_14418.xml,"['aTa', 'aDvani', 'jAta', 'SramaH', 'kzut', 'tfzRA', 'aBi', 'BUtaH', 'ca', 'kasmin', 'cit', 'uddeSe', 'nIlam', 'vana', 'zaRqam', 'apaSyat']",tfzRA
+noun_ctp_gati,pt52.xml,"['dAkziRAtyezu', 'jana', 'padezu', 'purandarapurasya', 'fdDi', 'sarva', 'guRa', 'sam', 'pannam', 'pfTivyAH', 'cUqA', 'maRi', 'ratna', 'BUtam', 'kElAsa', 'SiKara', 'Akfti', 'viviDa', 'yantra', 'praharaRa', 'AcaraRa', 'pari', 'pUrRa', 'go', 'pura', 'awwAlakam', 'visaNkawa', 'utkawa', 'dfQa', 'pariGa', 'kapAwa', 'toraRa', 'argala', 'upagata', 'indra', 'kIla', 'vipula', 'dvAram', 'su', 'vi', 'hita', 'SfNgAwaka', 'catuzpaTa', 'prati', 'sTita', 'an', 'eka', 'devatA', 'Ayatanam', 'pariKA', 'pari', 'karita', 'ut', 'Srita', 'hima', 'giri', 'sadfSa', 'AkAra', 'prAkAra', 'valaya', 'pari', 'vezwitam', 'mahilA', 'ropyam', 'nAma', 'nagaram']",visaNkawa
+noun_ctp_gati,pt840.xml,"['vyasanam', 'hi', 'mahA', 'rAjYaH', 'mohAt', 'sam', 'prati', 'padyate', 'viDinA', 'SAstra', 'dfzwena', 'mftyuH', 'vAryaH', 'pra', 'yatnataH']",yatnataH
+adj_ck,pt1771.xml,"['tat', 'aDunA', 'gacCAmi', 'tasya', 'priya', 'suhfdaH', 'ulUkasya', 'sakASam']",suhfdaH
+adj_ck,pt633.xml,"['niHspfhaH', 'na', 'aDikArI', 'syAt', 'na', 'a', 'kAmI', 'maRqana', 'priyaH', 'na', 'a', 'vi', 'dagDaH', 'priyam', 'brUyAt', 'sPuwa', 'vaktA', 'na', 'vaYcakaH']",vaktA
+1st pron,pt656.xml,"['yat', 'kAraRam', 'niHsaNgatA', 'yatInAm', 'pra', 'Sasyate', 'tava', 'mama', 'api', 'ca']",mama
+1st pron,pt1867.xml,"['tat', 'tizWantu', 'BavantaH', 'atra', 'eva', 'yAvat', 'aham', 'gfham', 'gatvA', 'svAmi', 'vacanam', 'A', 'nayAmi']",aham
+ preverb,pt229.xml,"['yaTA', 'aBi', 'pra', 'itam', 'anu', 'sTIyatAm']",aBi
+ preverb,pt566.xml,"['evam', 'aBi', 'hite', 'damanakaH', 'tam', 'sam', 'A', 'dAya', 'piNgalaka', 'sakASam', 'A', 'agacCat', 'Aha', 'ca']",aBi
+vt6am,pt1538.xml,"['mAm', 'asmAt', 'banDanAt', 'mocaya']",mocaya
+vt6am,pt1040.xml,"['yaTA', 'gOH', 'duhyate', 'kAle', 'pAlyate', 'ca', 'taTA', 'prajAH', 'sicyate', 'cIyate', 'ca', 'eva', 'latA', 'puzpa', 'Pala', 'pradA']",sicyate
+adv_cab,pt1981.xml,"['vayasya', 'tvayA', 'prati', 'aham', 'atra', 'A', 'gantavyam', 'param', 'ekAkinA', 'eva']",aham
+adv_cab,pt1033.xml,"['yat', 'kAraRam', 'vayam', 'eva', 'svAminaH', 'ekEkam', 'vana', 'caram', 'vArakeRa', 'sTAna', 'sTitasya', 'eva', 'AhAra', 'arTam', 'prati', 'aham', 'prezayizyAmaH']",aham
+vt1am,pt1867.xml,"['tat', 'tizWantu', 'BavantaH', 'atra', 'eva', 'yAvat', 'aham', 'gfham', 'gatvA', 'svAmi', 'vacanam', 'A', 'nayAmi']",nayAmi
+vt1am,pt1101.xml,"['jAta', 'mAtram', 'na', 'yaH', 'Satrum', 'rogam', 'ca', 'praSamam', 'nayet', 'mahA', 'balaH', 'api', 'tena', 'eva', 'vfdDim', 'pra', 'Apya', 'sa', 'hanyate']",nayet
+adj ck,mbh12_25998.xml,"['veda', 'purARa', 'itihAsa', 'prAmARyAt', 'nArAyaRa', 'muKa', 'ut', 'gatAH', 'sarva', 'AtmAnaH', 'sarva', 'kartAraH', 'sarva', 'BAvanAH', 'ca', 'brAhmaRAH']",sarva
+adj ck,mbh03_14456.xml,"['tat', 'pra', 'viSya', 'rAjA', 'sa', 'saha', 'priyayA', 'suDA', 'tala', 'sukftAm', 'vimala', 'salila', 'pUrRAm', 'vApIm', 'apaSyat']",sukftAm
+ cd,mbh12_13978.xml,"['tyakta', 'grAmya', 'vastra', 'AhAra', 'upaBogAH', 'vanya', 'OzaDi', 'mUla', 'Pala', 'parRa', 'pari', 'mita', 'vicitra', 'ni', 'yata', 'AhArAH', 'sTAna', 'AsaninaH', 'BUmi', 'pAzARa', 'sikatA', 'SarkarA', 'vAlukA', 'Basma', 'SAyinaH', 'kASa', 'kuSa', 'carma', 'valkala', 'saM', 'vfta', 'aNgAH', 'keSa', 'SmaSru', 'naKa', 'roma', 'DAriRaH', 'niyata', 'kAla', 'upasparSanAH', 'askanna', 'homa', 'bali', 'kAla', 'anu', 'zWAyinaH', 'samitkuSa', 'kusuma', 'upahAra', 'homa', 'arjana', 'labDa', 'viSrAmAH', 'SItA', 'uzRa', 'pavana', 'niH', 'tapta', 'vi', 'Binna', 'sarva', 'tvacaH', 'viviDa', 'niyama', 'yoga', 'carya', 'avihita', 'Darma', 'anu', 'zWAna', 'hfta', 'mAMsa', 'SoRitAH', 'tvak', 'asTi', 'BUtAH', 'Dfti', 'parAH', 'sattva', 'yogAt', 'SarIrARi', 'ud', 'vahanti']",sTAna
+i,mbh03_14647.xml,"['sADu', 'A', 'gamyatAm', 'tAvat', 'iti']",tAvat
+noun_action,pt846.xml,"['striyaH', 'akzAH', 'mfgayA', 'pAnam', 'vAk', 'pAruzyam', 'ca', 'paYcamam', 'mahat', 'ca', 'daRqa', 'pAruzyam', 'arTa', 'dUzaRam', 'eva', 'ca']",pAnam
+noun_action,pt859.xml,"['prasaNgaH', 'pUrvam', 'uktaH', 'eva', 'striyaH', 'akzAH', 'mfgayA', 'pAnam', 'ityAdi']",pAnam
+vt9a,pt819.xml,"['BoH', 'anyAyena', 'eza', 'varAkaH', 'nApitaH', 'baDyate', 'sADu', 'samAcAraH']",baDyate
+prap_caus,pt1127.xml,"['SaSakaH', 'api', 'hfzwa', 'manAH', 'sarvAn', 'mfgAn', 'A', 'nandya', 'tEH', 'pra', 'SasyamAnaH', 'yaTA', 'suKam', 'tatra', 'vane', 'vasati', 'sma']",SasyamAnaH
+prap_caus,pt693.xml,"['evam', 'bahu', 'viDam', 'vi', 'lapya', 'tasya', 'pada', 'padDatim', 'anu', 'ezayat', 'vayam', 'ca', 'AzAQaBUtinA', 'pra', 'jalpan', 'SanEH', 'SanEH', 'pra', 'sTitaH']",ezayat
+pcl_sub,pt1889.xml,"['yasmin', 'kule', 'yaH', 'puruzaH', 'praDAnaH', 'sadA', 'eva', 'yatnena', 'sa', 'rakzaRIyaH', 'tasmin', 'vinazwe', 'hi', 'kulam', 'vinazwam', 'na', 'nABi', 'BaNge', 'hi', 'arakAH', 'vahanti']",hi
+pcl_sub,pt1396.xml,"['pUjyaH', 'banDuH', 'api', 'priyaH', 'api', 'tanayaH', 'BrAtA', 'vayasyaH', 'api', 'vA', 'yaH', 'mohAt', 'an', 'avadya', 'kArya', 'vimuKaH', 'heyaH', 'sa', 'kArya', 'arTinA', 'loke', 'hi', 'praTitAH', 'nanu', 'SrutiH', 'iyam', 'na', 'arTaH', 'api', 'gAyanti', 'yAm', 'kim', 'kAryam', 'kanakena', 'tena', 'Bavati', 'CedAya', 'karRasya', 'yat']",hi
+gerundive_tavya_cau,pt1479.xml,"['etat', 'matvA', 'na', 'ut', 'tArayitavyaH', 'ayam', 'na', 'ca', 'asya', 'viSvAsam', 'anu', 'gantavyam']",tArayitavyaH
+gerundive_tavya_cau,pt425.xml,"['tat', 'yadi', 'mAm', 'avaSyam', 'tatra', 'nayasi', 'tataH', 'a', 'Baya', 'prasAdaH', 'svAminaH', 'sakASAt', 'dApayitavyaH']",dApayitavyaH
+adj_ctp_upapada,pt1752.xml,"['aTa', 'kadA', 'cit', 'tasya', 'antakaraH', 'mftyuH', 'ulUka', 'rUpeRa', 'A', 'yAtaH']",antakaraH
+adj_ctp_upapada,pt649.xml,"['SUdraH', 'vA', 'yadi', 'vA', 'anyaH', 'api', 'cARqAlaH', 'vA', 'jawA', 'DaraH', 'dIkzitaH', 'Siva', 'mantreRa', 'sa', 'Basma', 'aNgaH', 'dvijaH', 'Bavet']",DaraH
+prap[4],pt1692.xml,"['adya', 'yadi', 'SfNga', 'agra', 'praharaRa', 'aBi', 'yukta', 'cittaH', 'sa', 'cakitaH', 'ca', 'upa', 'Slizyati', 'tat', 'deva', 'pAdEH', 'ava', 'gantavyam', 'duzwa', 'budDiH', 'iti']",tat
+prap[4],pt1302.xml,"['kim', 'ca', 'yudDam', 'aNgI', 'kftavantam', 'kadA', 'cit', 'dA', 'cit', 'garuqa', 'A', 'rUQam', 'mAm', 'paSyantaH', 'vAsudevam', 'matvA', 'SatravaH', 'pra', 'parA', 'ayate', 'uktam', 'ca']",paSyantaH
+vt10m,pt1169.xml,"['dikzu', 'BUmO', 'taTA', 'AkASe', 'sarvatra', 'ca', 'vi', 'BAvyate', 'smaryate', 'prARa', 'sandehe', 'tanvI', 'nArAyaRAyate']",nArAyaRAyate
+prmp_cau,pt1574.xml,"['aTa', 'budDa', 'prakAram', 'vi', 'jYapyamAnAH', 'deva', 'pAdAH', 'asmat', 'vacanam', 'an', 'A', 'dftya', 'kAmataH', 'pra', 'vartante']",jYapyamAnAH
+pap,pt1637.xml,"['tat', 'ca', 'smftvA', 'tat', 'vacanam', 'prati', 'padya', 'aBi', 'hitavatI']",hitavatI
+pap,pt1682.xml,"['aTa', 'te', 'siMha', 'AdayaH', 'tat', 'A', 'karRya', 'SfgAlaH', 'ayam', 'iti', 'matvA', 'sa', 'lajjA', 'aDo', 'muKAH', 'kzaRam', 'ekam', 'tasTuH', 'uktavantaH', 'ca']",ca
+adj ppr. ps.,mbh12_26165.xml,"['etat', 'ca', 'te', 'toyam', 'vaqavAmuKa', 'saYjYitena', 'pIyamAnam', 'maDuram', 'Bavizyati']",maDuram
+adj ppr. ps.,mbh12_26007.xml,"['tEH', 'asya', 'BujagEH', 'pIqyamAnaH', 'kaRWaH', 'nilatAm', 'upa', 'nItaH']",pIqyamAnaH
+prap,mbh12_13977.xml,"['vAna', 'prasTAH', 'Kalu', 'fzi', 'Darmam', 'anu', 'sarantaH', 'puRyAni', 'tIrTAni', 'nadI', 'prasravaRAni', 'su', 'vi', 'viktezu', 'araRyezu', 'mfga', 'mahiza', 'varAha', 'sfmara', 'gaja', 'AkIrRezu', 'tapasyantaH', 'anu', 'sam', 'caranti']",anu
+prap,pt197.xml,"['dvizat', 'dveza', 'paraH', 'nityam', 'izwAnAm', 'izwa', 'karma', 'kft', 'yaH', 'naraH', 'nara', 'nATasya', 'sa', 'Bavet', 'rAja', 'vallaBaH']",dvizat
+ppf. md.,mbh03_14441.xml,"['tatra', 'eva', 'AsIne', 'rAjani', 'senA', 'anu', 'agacCat']",AsIne
+noun,pt1140.xml,"['kfte', 'viniScaye', 'puMsAm', 'devAH', 'yAnti', 'sahAyatAm', 'vizRuH', 'cakram', 'garutmAn', 'ca', 'kOlikasya', 'yaTA', 'Ahave']",viniScaye
+noun,pt1973.xml,"['A', 'ihi', 'A', 'ihi', 'saKe']",saKe
+noun_ctp4,pt1213.xml,"['Badre', 'tvad', 'arTam', 'eva', 'idam', 'iha', 'Agamanam']",arTam
+noun_ctp4,pt1843.xml,"['tat', 'yUyam', 'Atma', 'arTe', 'tAvat', 'aBi', 'udyamam', 'kuruDvam', 'iti']",arTe
+vt6a,pt1203.xml,"['vayasyaH', 'enam', 'A', 'ruhya', 'kIlikAm', 'dattvA', 'yatra', 'izyate', 'tatra', 'gamyate']",izyate
+vt6a,pt1211.xml,"['tasmAt', 'sam', 'A', 'diSyatAm', 'kim', 'kartavyam']",diSyatAm
+adj ctp upapada,mbh03_14478.xml,"['tam', 'evam', 'vAdinam', 'izwa', 'jana', 'Soka', 'pari', 'ita', 'AtmA', 'rAjA', 'pra', 'uvAca']",vAdinam
+adj ctp upapada,mbh03_14468.xml,"['tataH', 'maRqUka', 'rAw', 'tApasa', 'veza', 'DArI', 'rAjAnam', 'aBi', 'agacCat']",DArI
+pp.,mbh12_26053.xml,"['tasya', 'parama', 'Atmani', 'ava', 'sfte', 'tAni', 'asTIni', 'DAtA', 'sam', 'gfhya', 'vajram', 'akarot']",sfte
+pp.,mbh03_14608.xml,"['tataH', 'sa', 'rAjA', 'muditaH', 'baBUva', 'vAmyO', 'ca', 'asmE', 'sam', 'pra', 'dadO', 'pra', 'namya']",muditaH
+ctp2,mbh12_13949.xml,"['samyak', 'atra', 'SOca', 'saMskAra', 'vinaya', 'niyama', 'pra', 'RItaH', 'vi', 'nIta', 'AtmAH', 'uBe', 'sanDye', 'BAskara', 'agni', 'dEvatAni', 'upa', 'sTAya', 'vi', 'hAya', 'tandrA', 'Alasye', 'guroH', 'aBivAdana', 'veda', 'aByAsa', 'SravaRa', 'pavitrI', 'kfta', 'antara', 'AtmA', 'trizavaRam', 'upa', 'spfSya', 'brahmacarya', 'agni', 'pari', 'caraRa', 'guru', 'SuSrUzA', 'nityaH', 'BEkza', 'Adi', 'sarva', 'ni', 'vedita', 'Antara', 'AtmA', 'guru', 'vacana', 'nirdeSa', 'anuzWAna', 'a', 'pratikUlaH', 'guru', 'prasAda', 'labDa', 'svADyAya', 'tat', 'paraH', 'syAt']",SuSrUzA
+ctp2,mbh12_13959.xml,"['vAna', 'prasTa', 'AnAm', 'dravya', 'upaskAraH', 'iti', 'prAyaSaH', 'Kalu', 'ete', 'sADavaH', 'sADu', 'paTya', 'darSanAH', 'svADyAya', 'prasaNginaH', 'tIrTa', 'aBigamana', 'deSa', 'darSana', 'arTam', 'pfTivIm', 'pari', 'awanti']",prasaNginaH
+adj ppr. [5] ac.,mbh03_14426.xml,"['aTa', 'apaSyat', 'kanyAm', 'parama', 'rUpa', 'darSanIyAm', 'puzpARi', 'ava', 'cinvatIm', 'gAyantIm', 'ca']",gAyantIm
+abs,mbh03_14648.xml,"['etat', 'SrutvA', 'sa', 'kacCapaH', 'tasmAt', 'sarasaH', 'ut', 'TAya', 'aBi', 'agacCat', 'yatra', 'tizWAmaH', 'vayam', 'tasya', 'sarasaH', 'tIre']",SrutvA
+abs,mbh03_14586.xml,"['ikzvAkavaH', 'hanta', 'carAmi', 'vaH', 'priyam', 'ni', 'hanmi', 'imam', 'vipram', 'adya', 'pra', 'maTya']",maTya
+vt2am,pt633.xml,"['niHspfhaH', 'na', 'aDikArI', 'syAt', 'na', 'a', 'kAmI', 'maRqana', 'priyaH', 'na', 'a', 'vi', 'dagDaH', 'priyam', 'brUyAt', 'sPuwa', 'vaktA', 'na', 'vaYcakaH']",brUyAt
+vt2am,pt1524.xml,"['evam', 'ca', 'cittena', 'ava', 'DAryA', 'abravIt']",abravIt
+adj ppr. [9] ac.,mbh03_14475.xml,"['pra', 'kzIyate', 'Dana', 'udrekaH', 'janAnAm', 'a', 'vi', 'jAnatAm']",jAnatAm
+noun_cbv,pt61.xml,"['tataH', 'pra', 'Aptasya', 'sataH', 'rakzaRa', 'vi', 'varDana', 'upayoga', 'Adi', 'kAryam']",Adi
+v2a,pt1140.xml,"['kfte', 'viniScaye', 'puMsAm', 'devAH', 'yAnti', 'sahAyatAm', 'vizRuH', 'cakram', 'garutmAn', 'ca', 'kOlikasya', 'yaTA', 'Ahave']",yAnti
+v2a,pt1973.xml,"['A', 'ihi', 'A', 'ihi', 'saKe']",ihi
+ctp na,mbh12_13910.xml,"['an', 'ftAt', 'Kalu', 'tamaH', 'prAduH', 'BUtam', 'tamaH', 'grastAH', 'a', 'Darmam', 'eva', 'anu', 'vartante', 'na', 'Darmam']",anu
+ctp na,mbh03_14601.xml,"['tvayA', 'trAtam', 'rAja', 'kulam', 'SuBa', 'IkzaRe', 'varam', 'vfRIzva', 'apratimam', 'dadAni', 'te']",apratimam
+ifc,pt252.xml,"['budDimAn', 'anu', 'raktaH', 'ayam', 'a', 'BaktaH', 'ayam', 'ayam', 'jaqaH', 'iti', 'Bftya', 'vicAra', 'jYaH', 'BftyEH', 'A', 'pUryate', 'nfpaH']",jYaH
+ifc,pt274.xml,"['Badra', 'yat', 'te', 'hfdaya', 'sTam', 'tat', 'brUhi']",sTam
+vt8am,pt1632.xml,"['deSam', 'kAlam', 'kAryam', 'param', 'AtmAnam', 'ca', 'yaH', 'na', 'jAnAti', 'a', 'vi', 'mfSya', 'yaH', 'karoti', 'ca', 'na', 'sa', 'Palam', 'Apnoti', 'vE', 'mUrKaH']",karoti
+vt8am,pt1555.xml,"['BavAn', 'enAm', 'nirvizI', 'karotu']",karotu
+pfp. [1],mbh03_14498.xml,"['sa', 'ca', 'rAjA', 'tAm', 'upa', 'laBya', 'tasyAm', 'surata', 'guRa', 'nibadDa', 'hfdayaH', 'loka', 'traya', 'ESvaryam', 'iva', 'upa', 'laBya', 'harza', 'bAzpa', 'kalayA', 'vAcA', 'pra', 'Ri', 'patya', 'aBi', 'pUjya', 'maRqUka', 'rAjAnam', 'abravIt']",pUjya
+pfp. [1],mbh03_14547.xml,"['pra', 'yacCa', 'vAmyO', 'mama', 'pArTiva', 'tvam', 'kftam', 'hi', 'te', 'kAryam', 'anyEH', 'a', 'Sakyam']",kAryam
+vt10a,pt1047.xml,"['param', 'yadi', 'mama', 'atra', 'upa', 'vizwasya', 'na', 'ekEkaH', 'mfgaH', 'sam', 'A', 'ezyati', 'tat', 'nUnam', 'sarvAn', 'api', 'BakzayizyAmi', 'iti']",BakzayizyAmi
+vt10a,pt957.xml,"['sTira', 'hfdaya', 'ni', 'hita', 'rAgAH', 'sujanatayA', 'sam', 'smarantaH', 'iha', 'sukftam', 'svam', 'jIvitam', 'api', 'santaH', 'na', 'gatam', 'gaRayanti', 'mitra', 'arTe']",gaRayanti
+vt4am,pt1592.xml,"['taTApi', 'asO', 'yadi', 'svayam', 'an', 'arTam', 'na', 'karizyati', 'tataH', 'anyasmAt', 'ut', 'pAdayizyati']",pAdayizyati
+ppp_cau,pt312.xml,"['darSita', 'Baye', 'api', 'DAtari', 'DIratvam', 'na', 'eva', 'calati', 'DIrARAm', 'Sozita', 'sarasi', 'nidAGe', 'nitarAm', 'eva', 'ut', 'gataH', 'sinDuH']",darSita
+ppp_cau,pt1263.xml,"['evam', 'ukte', 'tezAm', 'rAjYA', 'deva', 'mArgaH', 'darSitaH']",darSitaH
+pron_int,pt842.xml,"['kasmin', 'vyasane', 'vartate', 'svAmI', 'piNgalakaH']",kasmin
+pron_int,pt1396.xml,"['pUjyaH', 'banDuH', 'api', 'priyaH', 'api', 'tanayaH', 'BrAtA', 'vayasyaH', 'api', 'vA', 'yaH', 'mohAt', 'an', 'avadya', 'kArya', 'vimuKaH', 'heyaH', 'sa', 'kArya', 'arTinA', 'loke', 'hi', 'praTitAH', 'nanu', 'SrutiH', 'iyam', 'na', 'arTaH', 'api', 'gAyanti', 'yAm', 'kim', 'kAryam', 'kanakena', 'tena', 'Bavati', 'CedAya', 'karRasya', 'yat']",kim
+adj_cbv,pt1643.xml,"['mada', 'Srama', 'nidrA', 'parIta', 'kAyaH', 'yadA', 'nf', 'patiH', 'Bavati', 'tadA', 'niBftam', 'pAdayoH', 'tvayA', 'daMzwavyaH', 'etO', 'deSa', 'kAlO']",kAyaH
+adj_cbv,pt1004.xml,"['aTa', 'sA', 'vAyasI', 'kanaka', 'sUtram', 'ekam', 'A', 'dAya', 'sva', 'vfzA', 'aBimuKI', 'pra', 'tasTe']",aBimuKI
+ ctp2,mbh03_14524.xml,"['sa', 'ca', 'tO', 'aSvO', 'prati', 'gfhya', 'anu', 'jYApya', 'ca', 'fzim', 'pra', 'ayAt', 'vAmya', 'sam', 'yuktena', 'raTena', 'mfgam', 'prati']",raTena
+ ctp2,mbh12_13978.xml,"['tyakta', 'grAmya', 'vastra', 'AhAra', 'upaBogAH', 'vanya', 'OzaDi', 'mUla', 'Pala', 'parRa', 'pari', 'mita', 'vicitra', 'ni', 'yata', 'AhArAH', 'sTAna', 'AsaninaH', 'BUmi', 'pAzARa', 'sikatA', 'SarkarA', 'vAlukA', 'Basma', 'SAyinaH', 'kASa', 'kuSa', 'carma', 'valkala', 'saM', 'vfta', 'aNgAH', 'keSa', 'SmaSru', 'naKa', 'roma', 'DAriRaH', 'niyata', 'kAla', 'upasparSanAH', 'askanna', 'homa', 'bali', 'kAla', 'anu', 'zWAyinaH', 'samitkuSa', 'kusuma', 'upahAra', 'homa', 'arjana', 'labDa', 'viSrAmAH', 'SItA', 'uzRa', 'pavana', 'niH', 'tapta', 'vi', 'Binna', 'sarva', 'tvacaH', 'viviDa', 'niyama', 'yoga', 'carya', 'avihita', 'Darma', 'anu', 'zWAna', 'hfta', 'mAMsa', 'SoRitAH', 'tvak', 'asTi', 'BUtAH', 'Dfti', 'parAH', 'sattva', 'yogAt', 'SarIrARi', 'ud', 'vahanti']",yogAt
+adj_ctp5,pt1217.xml,"['SApa', 'BrazwA', 'tvam', 'mama', 'eva', 'pUrva', 'patnI']",BrazwA
+adj_ctp5,pt948.xml,"['tat', 'ca', 'duzwa', 'BAzitam', 'SrutvA', 'sarvEH', 'tEH', 'jala', 'carEH', 'prARa', 'BItEH', 'vi', 'jYaptaH', 'bakaH', 'yaTA']",BItEH
+prap[5],pt608.xml,"['a', 'SfRvan', 'api', 'bodDavyaH', 'mantriBiH', 'pfTivI', 'patiH', 'yaTA', 'sva', 'doza', 'nASAya', 'vidureRa', 'ambikA', 'sutaH']",SfRvan
+prap[5],pt182.xml,"['kopa', 'prasAda', 'vastUni', 'vi', 'cinvantaH', 'samIpa', 'gAH', 'A', 'rohanti', 'SanEH', 'BftyAH', 'Dunvantam', 'api', 'pArTivam']",cinvantaH
+adj pfp. [1],mbh03_14547.xml,"['pra', 'yacCa', 'vAmyO', 'mama', 'pArTiva', 'tvam', 'kftam', 'hi', 'te', 'kAryam', 'anyEH', 'a', 'Sakyam']",Sakyam
+adj pfp. [1],mbh12_25955.xml,"['etasyAm', 'avasTAyAm', 'nArAyaRa', 'guRa', 'aSrayAt', 'a', 'kzayAt', 'a', 'jarAt', 'an', 'indriyAt', 'a', 'grAhyAt', 'a', 'samBavAt', 'satyAt', 'a', 'hiMsrAt', 'lala', 'AmAt', 'viviDa', 'pravftti', 'viSezAt']",grAhyAt
+gerundive_ya_caus,pt1309.xml,"['tat', 'vi', 'jYApyam', 'idam']",jYApyam
+adj pfp,mbh12_13971.xml,"['api', 'ca', 'atra', 'mAlya', 'ABaraRa', 'vastra', 'aByaNga', 'ganDa', 'upaBoga', 'nftta', 'gita', 'vAditra', 'Sruti', 'suKa', 'nayana', 'aBirAma', 'saM', 'darSanAnAm', 'prAptiH', 'Bakzya', 'Bojya', 'peya', 'lehya', 'cozyAnam', 'aBI', 'ava', 'hAryARAm', 'viviDAnAm', 'upaBogaH', 'sva', 'dAra', 'vihAra', 'santozaH', 'kAma', 'suKa', 'ava', 'AptiH', 'iti']",viviDAnAm
+adj ctp6,mbh12_26118.xml,"['tataH', 'sa', 'varadaH', 'tAn', 'abravIt', 'aSva', 'meDam', 'yajYam', 'vEzRavam', 'SakraH', 'aBi', 'yajatu']",meDam
+adj ctp6,mbh12_26015.xml,"['aTa', 'hiraRyakaSipum', 'puraH', 'kftya', 'viSvarUpa', 'mAtaram', 'svasAram', 'asurAH', 'varam', 'ayAcanta']",mAtaram
+pfp.,mbh12_13982.xml,"['vi', 'mucya', 'agni', 'Dana', 'kalatra', 'paribarha', 'saNgAn', 'AtmanaH', 'sneha', 'pASAn', 'ava', 'DUya', 'pari', 'vrajanti', 'sama', 'lozwa', 'aSma', 'kAYcanAH', 'tri', 'varga', 'pra', 'vfttezu', 'AramBezu', 'a', 'sakta', 'budDayaH', 'ari', 'mitra', 'ud', 'AsInezu', 'tulya', 'vfttayaH', 'sTAvara', 'jara', 'Ayuja', 'aRqaja', 'svedaja', 'ud', 'BijjAnAm', 'BUtAnAm', 'vAk', 'manaH', 'karmaBiH', 'an', 'aBi', 'drohiRaH', 'a', 'niketAH', 'parvata', 'pulina', 'vfkza', 'mUla', 'devata', 'yatanAni', 'anu', 'carantaH', 'vAsa', 'ArTam', 'upa', 'IyuH', 'nagaram', 'grAmam', 'vA', 'nagare', 'paYca', 'rAtrikAH', 'grAma', 'eka', 'rAtrikAH']",mucya
+prap[8],pt551.xml,"['deva', 'dyUta', 'AsaktatayA', 'rAtri', 'jAgaraRena', 'mama', 'sam', 'mArjanam', 'kurvataH', 'api', 'balAt', 'nidrA', 'sam', 'upa', 'A', 'gatA']",kurvataH
+prap[8],pt555.xml,"['mayA', 'tAvat', 'A', 'janmataH', 'api', 'evaM', 'viDam', 'karma', 'kurvatA', 'cirBiwikA', 'na', 'BakzitA']",kurvatA
+ctp_prAdi,pt893.xml,"['trayaH', 'sTAnam', 'na', 'muYcanti', 'kAkAH', 'kA', 'puruzAH', 'mfgAH', 'apamAne', 'trayaH', 'yAnti', 'siMhAH', 'sat', 'puruzAH', 'gajAH']",puruzAH
+ctp_prAdi,pt1293.xml,"['avaSyam', 'prAtaH', 'vi', 'A', 'pAdayizyati', 'prati', 'pakzam']",pakzam
+ adj_cbv xxxxx,pt1992.xml,"['tAn', 'aham', 'prIti', 'pUrvakam', 'upa', 'BuYje']",upa
+ adj_cbv xxxxx,pt861.xml,"['vAk', 'pAruzya', 'AdiH', 'kopa', 'jaH', 'vargaH']",kopa
+prmp[10],pt1291.xml,"['pawaha', 'GozaRAm', 'SrutvA', 'tuzwAH', 'pOra', 'janAH', 'parasparam', 'mantrayamARAH', 'UcuH', 'yaTA']",mantrayamARAH
+prmp[10],pt1681.xml,"['evam', 'gacCati', 'kAle', 'kadA', 'cit', 'tena', 'A', 'sTAna', 'gatena', 'tat', 'pradeSa', 'A', 'sanna', 'SabdAyamAna', 'SfgAla', 'vfnda', 'Sabdam', 'A', 'karRya', 'pulakita', 'vapuza', 'Ananda', 'aSru', 'pUrRa', 'nayana', 'yugalena', 'ut', 'sTAya', 'tAra', 'tara', 'svareRa', 'SabdAyitum', 'A', 'rabDam']",SabdAyamAna
+adv,mbh03_14459.xml,"['sADu', 'ava', 'tara', 'vApI', 'salilam', 'iti']",sADu
+adv,mbh12_13980.xml,"['sa', 'dahet', 'agnivat', 'dozAn', 'jayet', 'lokAn', 'ca', 'durjayAn']",agnivat
+ppr. [4] ac.,mbh12_13890.xml,"['loka', 'sfzwim', 'pra', 'paSyantaH', 'na', 'muhyanti', 'vicakzaRAH']",paSyantaH
+pv,mbh12_26128.xml,"['AkASa', 'gaNgA', 'gataH', 'ca', 'purA', 'BaradvAjaH', 'mahA', 'fziH', 'upa', 'aspfSan', 'trIn', 'kramAn', 'kramatA', 'vizRunA', 'aBi', 'A', 'sAditaH']",aspfSan
+pv,mbh12_26126.xml,"['brahma', 'vaDyAm', 'caturzu', 'sTAnezu', 'vanitA', 'agni', 'vanaspati', 'gozu', 'vi', 'aBajat']",vi
+des ppr. [1] md.,mbh12_25962.xml,"['tasya', 'idAnIm', 'tamaH', 'samBavasya', 'puruzasya', 'padma', 'yoneH', 'brahmaRaH', 'prAduH', 'BAve', 'sa', 'puruzaH', 'prajAH', 'sisfkzamARaH', 'netrAByAm', 'agnIzomO', 'sasarja']",sisfkzamARaH
+pp. ctp prAdi,mbh12_13914.xml,"['caRqa', 'vAta', 'ati', 'uzRa', 'ati', 'SIta', 'kftEH', 'ca', 'prati', 'BayEH', 'SArIrEH', 'duHKEH', 'upa', 'tapyante']",SIta
+prmp[8],pt1389.xml,"['a', 'priyARi', 'api', 'kurvARaH', 'nizWurARi', 'ca', 'bruvan', 'cetaH', 'pra', 'hlAdayati', 'eva', 'sarva', 'avasTAsu', 'vallaBaH']",kurvARaH
+prmp[8],pt1323.xml,"['SrutvA', 'ca', 'SaNKa', 'Sabdam', 'gaja', 'tura', 'ga', 'raTa', 'padAtayaH', 'kzuBitAH', 'sakft', 'mUtram', 'a', 'sakft', 'kurvARAH', 'ke', 'cit', 'virasam', 'A', 'rasantaH', 'pra', 'palAyitAH', 'ke', 'cit', 'mUrCA', 'vihvala', 'tanavaH', 'BUmO', 'luWitAH', 'ke', 'cit', 'ca', 'BItAH', 'gagana', 'tala', 'ni', 'hita', 'stabDa', 'dfzwayaH', 'sTitAH']",kurvARAH
+adj_int,pt1770.xml,"['tizWan', 'aham', 'iha', 'AvAse', 'vfdDI', 'BUtaH', 'na', 'ca', 'anyAm', 'aham', 'kAm', 'cit', 'api', 'diSam', 'jAnAmi']",cit
+adj_int,pt926.xml,"['BakzayitvA', 'bahUn', 'matsyAn', 'uttama', 'aDama', 'maDyamAn', 'atilOlyAt', 'bakaH', 'kaH', 'cit', 'mftaH', 'karkawaka', 'grahAt']",kaH
+adv_rel,pt1643.xml,"['mada', 'Srama', 'nidrA', 'parIta', 'kAyaH', 'yadA', 'nf', 'patiH', 'Bavati', 'tadA', 'niBftam', 'pAdayoH', 'tvayA', 'daMzwavyaH', 'etO', 'deSa', 'kAlO']",yadA
+adv_rel,pt1867.xml,"['tat', 'tizWantu', 'BavantaH', 'atra', 'eva', 'yAvat', 'aham', 'gfham', 'gatvA', 'svAmi', 'vacanam', 'A', 'nayAmi']",yAvat
+vi3a,pt1455.xml,"['nanu', 'aham', 'ataH', 'tvattaH', 'biBemi']",biBemi
+ adj ctp3,mbh03_14455.xml,"['aTa', 'kzut', 'tfzRA', 'arditaH', 'SrAntaH', 'ati', 'mAtram', 'atimukta', 'AgAram', 'apaSyat']",SrAntaH
+ adj ctp3,mbh03_14418.xml,"['aTa', 'aDvani', 'jAta', 'SramaH', 'kzut', 'tfzRA', 'aBi', 'BUtaH', 'ca', 'kasmin', 'cit', 'uddeSe', 'nIlam', 'vana', 'zaRqam', 'apaSyat']",ca
+pap_cau,pt782.xml,"['tataH', 'sa', 'vismaya', 'manAH', 'tAm', 'ut', 'mucya', 'banDanAt', 'cAwu', 'SatEH', 'pari', 'tozitavAn']",tozitavAn
+pap_cau,pt1784.xml,"['aTa', 'sArTa', 'patiH', 'pratyUza', 'kAle', 'ut', 'sTAya', 'prayARa', 'SaNKam', 'dApitavAn']",dApitavAn
+adj_ctp7,pt1663.xml,"['tataH', 'nagara', 'AvAsiBiH', 'sArameyEH', 'tIkzRa', 'daSana', 'kowiBiH', 'vi', 'lupyamAna', 'avayavaH', 'BayaNkara', 'a', 'rava', 'trasta', 'hfdayaH', 'itaH', 'tataH', 'pra', 'sKalan', 'palAyamAnaH', 'kim', 'api', 'Silpi', 'gfham', 'anu', 'pra', 'vizwaH']",kowiBiH
+adj_ctp7,pt1208.xml,"['evam', 'aBi', 'DAya', 'gate', 'raTa', 'kAre', 'manaH', 'raTa', 'SatEH', 'divasa', 'Sezam', 'ati', 'vAhya', 'pra', 'sannAyAm', 'rajanyAm', 'snAna', 'DUpa', 'cUrRa', 'vilepana', 'tAmbUla', 'muKa', 'vAsa', 'vAsa', 'vAsa', 'kusuma', 'AdiBiH', 'ati', 'suraBi', 'vicitra', 'mAlya', 'ambaraH', 'mukuwa', 'Adi', 'ABaraRa', 'alaNkftaH', 'kOlikaH', 'taTEva', 'anu', 'sTitavAn', 'yAvat', 'asO', 'rAja', 'kanyA', 'suDA', 'aMSu', 'kara', 'adAte', 'harmya', 'tale', 'Sayana', 'tala', 'ava', 'sTitA', 'ekAkinI', 'candramasam', 'ava', 'lokayantI', 'manAg', 'madanena', 'spfSyamAna', 'sahasA', 'eva', 'tam', 'vEnateya', 'aDi', 'rUQam', 'nArAyaRa', 'AkAram', 'kOlikam', 'ava', 'lokitavatI']",sTitA
+prap[6],pt207.xml,"['apAya', 'saM', 'darSana', 'jAm', 'vipattim', 'upAya', 'saM', 'darSana', 'jAm', 'ca', 'sidDim', 'meDAvinaH', 'nIti', 'guRa', 'pra', 'yuktAm', 'puraH', 'sPurantIm', 'iva', 'darSayanti']",sPurantIm
+prap[6],pt192.xml,"['jIva', 'iti', 'pra', 'bruvan', 'prA', 'uktaH', 'kfti', 'a', 'kftya', 'vicakzaRaH', 'karoti', 'nir', 'vikalpam', 'yaH', 'sa', 'Bavet', 'rAja', 'vallaBaH']",bruvan
+pron_rel,pt656.xml,"['yat', 'kAraRam', 'niHsaNgatA', 'yatInAm', 'pra', 'Sasyate', 'tava', 'mama', 'api', 'ca']",yat
+pron_rel,pt1889.xml,"['yasmin', 'kule', 'yaH', 'puruzaH', 'praDAnaH', 'sadA', 'eva', 'yatnena', 'sa', 'rakzaRIyaH', 'tasmin', 'vinazwe', 'hi', 'kulam', 'vinazwam', 'na', 'nABi', 'BaNge', 'hi', 'arakAH', 'vahanti']",yasmin
+vt1m,pt734.xml,"['saKi', 'sa', 'deva', 'dattaH', 'tasmin', 'sTAne', 'prati', 'Ikzate']",Ikzate
+vt1m,pt1041.xml,"['nfpa', 'dIpaH', 'Dana', 'sneham', 'prajAByaH', 'san', 'gfhan', 'api', 'antara', 'sTEH', 'guREH', 'SuBrEH', 'lakzyate', 'na', 'eva', 'kena', 'cit']",lakzyate
+num_cardinal,pt1004.xml,"['aTa', 'sA', 'vAyasI', 'kanaka', 'sUtram', 'ekam', 'A', 'dAya', 'sva', 'vfzA', 'aBimuKI', 'pra', 'tasTe']",ekam
+num_cardinal,pt1937.xml,"['etEH', 'tAvat', 'SoBA', 'vacanAni', 'aBi', 'hitAni', 'na', 'ca', 'ekaH', 'api', 'svAminA', 'vi', 'nASitaH']",ekaH
+adv_pron,pt608.xml,"['a', 'SfRvan', 'api', 'bodDavyaH', 'mantriBiH', 'pfTivI', 'patiH', 'yaTA', 'sva', 'doza', 'nASAya', 'vidureRa', 'ambikA', 'sutaH']",yaTA
+adv_pron,pt1765.xml,"['aTa', 'anyadA', 'ulUkaH', 'Aha']",anyadA
+adj_ctp3,pt1000.xml,"['gacCatu', 'BavAn', 'kim', 'cit', 'sTAnam', 'mahA', 'ISvara', 'aDi', 'sTitam']",sTitam
+adj_ctp3,pt1208.xml,"['evam', 'aBi', 'DAya', 'gate', 'raTa', 'kAre', 'manaH', 'raTa', 'SatEH', 'divasa', 'Sezam', 'ati', 'vAhya', 'pra', 'sannAyAm', 'rajanyAm', 'snAna', 'DUpa', 'cUrRa', 'vilepana', 'tAmbUla', 'muKa', 'vAsa', 'vAsa', 'vAsa', 'kusuma', 'AdiBiH', 'ati', 'suraBi', 'vicitra', 'mAlya', 'ambaraH', 'mukuwa', 'Adi', 'ABaraRa', 'alaNkftaH', 'kOlikaH', 'taTEva', 'anu', 'sTitavAn', 'yAvat', 'asO', 'rAja', 'kanyA', 'suDA', 'aMSu', 'kara', 'adAte', 'harmya', 'tale', 'Sayana', 'tala', 'ava', 'sTitA', 'ekAkinI', 'candramasam', 'ava', 'lokayantI', 'manAg', 'madanena', 'spfSyamAna', 'sahasA', 'eva', 'tam', 'vEnateya', 'aDi', 'rUQam', 'nArAyaRa', 'AkAram', 'kOlikam', 'ava', 'lokitavatI']",alaNkftaH
+adv_reflexive,pt1881.xml,"['yadi', 'punaH', 'sa', 'deva', 'pAdAnAm', 'svayam', 'eva', 'BaktyA', 'AtmanaH', 'jIvitavyam', 'pra', 'yacCati', 'tataH', 'na', 'dozaH']",svayam
+adv_reflexive,pt1342.xml,"['tataH', 'api', 'nara', 'kari', 'raTa', 'turaga', 'BARqa', 'AgAra', 'Adi', 'sarvam', 'pratipakza', 'Danam', 'suprativarmaRaH', 'vaSI', 'kftya', 'svayam', 'kOlikaH', 'labDa', 'vi', 'jaya', 'mahAtmyaH', 'rAja', 'duhitrA', 'saha', 'sakala', 'suKAni', 'anu', 'baBUva']",kOlikaH
+cau ppf_actn,pt560.xml,"['evam', 'an', 'ekaDA', 'vi', 'nis', 'citya', 'dantilam', 'sam', 'A', 'hUya', 'nija', 'aNga', 'ABaraRAni', 'vastrARi', 'ca', 'sam', 'yojya', 'sva', 'aDikAre', 'ni', 'yojayAm', 'Asa']",yojayAm
+gati,pt1234.xml,"['jananI', 'manaH', 'harati', 'jAtavatI', 'pari', 'varDate', 'saha', 'SucA', 'suhfdAm', 'parasAt', 'kftA', 'api', 'kurute', 'malinam', 'duratikramAH', 'duhitaraH', 'vipadaH']",parasAt
+ctp3 pp.,mbh03_14544.xml,"['tat', 'SrutvA', 'vacanam', 'a', 'priyam', 'vAmadevaH', 'kroDa', 'pari', 'ita', 'AtmA', 'svayam', 'eva', 'rAjAnam', 'aBi', 'gamya', 'aSva', 'ArTam', 'aBi', 'acodayat']",ita
+v1a,pt1771.xml,"['tat', 'aDunA', 'gacCAmi', 'tasya', 'priya', 'suhfdaH', 'ulUkasya', 'sakASam']",gacCAmi
+v1a,pt687.xml,"['SanEH', 'SanEH', 'yAvat', 'A', 'gacCati', 'tAvat', 'AzAQaBUti', 'na', 'paSyati']",gacCati
+vt5am,pt1656.xml,"['tyaktAH', 'ca', 'aByantarAH', 'yena', 'bAhyAH', 'ca', 'aByantarI', 'kftAH', 'saH', 'eva', 'mftyum', 'Apnoti', 'mUrKaH', 'caRqa', 'ravaH', 'yaTA']",mUrKaH
+pp. ctp5,mbh12_26159.xml,"['tatra', 'tasya', 'anila', 'vyajana', 'kfta', 'paritozasya', 'sadyaH', 'vanaspatayaH', 'puzpa', 'SoBAm', 'na', 'darSitavantaH', 'iti', 'saH', 'etAn', 'SaSApa', 'na', 'sarva', 'kAlam', 'puzpavantaH', 'BavizyaTa', 'iti']",kfta
+agent noun,pt68.xml,"['tasya', 'ca', 'dvO', 'maNgala', 'vfzaBO', 'DUH', 'voQArO', 'nandaka', 'saYjIvaka', 'nAmAnO', 'pARqura', 'aBra', 'sam', 'ni', 'kASO', 'suvarRa', 'kiNkiRI', 'pari', 'vfta', 'uraskO', 'tizWataH']",voQArO
+adj_cdi,pt926.xml,"['BakzayitvA', 'bahUn', 'matsyAn', 'uttama', 'aDama', 'maDyamAn', 'atilOlyAt', 'bakaH', 'kaH', 'cit', 'mftaH', 'karkawaka', 'grahAt']",maDyamAn
+noun ctp prAdi,pt658.xml,"['dur', 'mantrAt', 'nf', 'patiH', 'vi', 'naSyati', 'yatiH', 'saNgAt', 'sutaH', 'lAlanAt', 'vipraH', 'an', 'aDyayanAt', 'kulam', 'ku', 'tanayAt', 'SIlam', 'Kala', 'upAsanAt', 'mEtrI', 'ca', 'a', 'praRayAt', 'samfdDiH', 'a', 'nayAt', 'snehaH', 'pravAsa', 'ASrayAt', 'strI', 'madyAt', 'an', 'ava', 'IkzaRAt', 'api', 'kfziH', 'tyAgAt', 'pramAdAt', 'Danam']",mantrAt
+pn ctp6,mbh12_13965.xml,"['apatya', 'utpAdanena', 'prajApatiH', 'iti']",prajApatiH
+noun_ctp6,pt1312.xml,"['Bagavat', 'BaktAH', 'ca', 'tridaRqinaH', 'pravrajyAm', 'tyakzyanti']",BaktAH
+noun_ctp6,pt1637.xml,"['tat', 'ca', 'smftvA', 'tat', 'vacanam', 'prati', 'padya', 'aBi', 'hitavatI']",vacanam
+adj cpt na,mbh03_14451.xml,"['vanam', 'idam', 'udAram', 'an', 'udakam']",udakam
+vi4a,pt1311.xml,"['yAni', 'ca', 'BawwAraka', 'AyatanAni', 'tAni', 'nAstikAH', 'vi', 'nASayizyanti']",nASayizyanti
+vi4a,pt1236.xml,"['yAsyati', 'sat', 'jana', 'hastam', 'ramayizyati', 'tam', 'Bavet', 'ca', 'nirdozA', 'ut', 'mAdayitayA', 'kaviH', 'tAmyati', 'kaTayA', 'duhitrA', 'iva']",tAmyati
+gerundive_ya_cau,pt1226.xml,"['kim', 'cit', 'vi', 'jYapyam', 'asti']",jYapyam
+cd,mbh12_25998.xml,"['veda', 'purARa', 'itihAsa', 'prAmARyAt', 'nArAyaRa', 'muKa', 'ut', 'gatAH', 'sarva', 'AtmAnaH', 'sarva', 'kartAraH', 'sarva', 'BAvanAH', 'ca', 'brAhmaRAH']",purARa
+cd,mbh12_26052.xml,"['aTa', 'daDIcaH', 'taTA', 'eva', 'a', 'vimanAH', 'suKa', 'duHKa', 'samaH', 'mahA', 'yogI', 'AtmAnam', 'sam', 'DAya', 'SarIra', 'parityAgam', 'cakAra']",duHKa
+num,pt1095.xml,"['Satam', 'ekaH', 'api', 'sam', 'Datte', 'prAkAra', 'sTaH', 'DanuH', 'DaraH', 'tasmAt', 'durgam', 'pra', 'SaMsanti', 'nIti', 'SAstra', 'vicakzaRAH']",Satam
+ppp_caus,pt52.xml,"['dAkziRAtyezu', 'jana', 'padezu', 'purandarapurasya', 'fdDi', 'sarva', 'guRa', 'sam', 'pannam', 'pfTivyAH', 'cUqA', 'maRi', 'ratna', 'BUtam', 'kElAsa', 'SiKara', 'Akfti', 'viviDa', 'yantra', 'praharaRa', 'AcaraRa', 'pari', 'pUrRa', 'go', 'pura', 'awwAlakam', 'visaNkawa', 'utkawa', 'dfQa', 'pariGa', 'kapAwa', 'toraRa', 'argala', 'upagata', 'indra', 'kIla', 'vipula', 'dvAram', 'su', 'vi', 'hita', 'SfNgAwaka', 'catuzpaTa', 'prati', 'sTita', 'an', 'eka', 'devatA', 'Ayatanam', 'pariKA', 'pari', 'karita', 'ut', 'Srita', 'hima', 'giri', 'sadfSa', 'AkAra', 'prAkAra', 'valaya', 'pari', 'vezwitam', 'mahilA', 'ropyam', 'nAma', 'nagaram']",karita
+vt5a 9am,pt1570.xml,"['sa', 'snigDaH', 'vyasanAt', 'ni', 'vArayati', 'yaH', 'tat', 'karma', 'yat', 'nirmalam', 'sA', 'strI', 'yA', 'anu', 'viDAyinI', 'sa', 'matimAn', 'yaH', 'sadBiH', 'aBi', 'arcyate', 'sA', 'SrIH', 'yA', 'na', 'madam', 'karoti', 'sa', 'suKI', 'yaH', 'tfzRayA', 'na', 'Uhyate', 'tat', 'mitram', 'yat', 'a', 'yantraRam', 'sa', 'puruzaH', 'yaH', 'Kidyate', 'na', 'Apadi']",vArayati
+ctp upapada,mbh12_25970.xml,"['mantra', 'vAdaH', 'api', 'hi', 'Bavati']",vAdaH
+ctp upapada,mbh12_13903.xml,"['brahma', 'cArI', 'na', 'kAma', 'suKezu', 'AtmAnam', 'ava', 'daDAti']",cArI
+pron_p2,pt656.xml,"['yat', 'kAraRam', 'niHsaNgatA', 'yatInAm', 'pra', 'Sasyate', 'tava', 'mama', 'api', 'ca']",tava
+pron_p2,pt1643.xml,"['mada', 'Srama', 'nidrA', 'parIta', 'kAyaH', 'yadA', 'nf', 'patiH', 'Bavati', 'tadA', 'niBftam', 'pAdayoH', 'tvayA', 'daMzwavyaH', 'etO', 'deSa', 'kAlO']",tvayA
+pfap,pt1812.xml,"['siMhEH', 'paYjara', 'yantraRA', 'pariBava', 'prasnAna', 'dIna', 'AnanEH', 'nAgEH', 'aNkuSa', 'Binna', 'mastaka', 'puwEH', 'mantra', 'a', 'lasEH', 'pannagEH', 'vidvadBiH', 'ca', 'nirASraya', 'vyasaniBiH', 'SUrEH', 'ca', 'BAgya', 'kzatEH', 'kAlaH', 'krIqanakEH', 'iva', 'Atma', 'rucitEH', 'preNKolayan', 'krIqati']",vidvadBiH
+adj_comp,pt1445.xml,"['kiyantam', 'api', 'aDvAnam', 'gatvA', 'yaTA', 'Sakti', 'kam', 'api', 'aSana', 'upAyam', 'kftvA', 'drutataram', 'punaH', 'A', 'gacCa']",drutataram
+adj_comp,pt1068.xml,"['svAmin', 'adya', 'samasta', 'mfgEH', 'jAti', 'krameRa', 'prastAvam', 'vi', 'jYAya', 'laGutarasya', 'tarasya', 'mama', 'tataH', 'paYca', 'SaSakEH', 'saha', 'aham', 'pra', 'IzitaH']",laGutarasya
+noun_cds,pt707.xml,"['aham', 'tava', 'kfte', 'praBUtam', 'madya', 'mAMsam', 'A', 'nezyAmi', 'iti']",mAMsam
+noun_cds,pt1252.xml,"['tataH', 'tu', 'rAtrO', 'niBftaH', 'BUtvA', 'rAjA', 'sa', 'kalatraH', 'vAtAyana', 'sTaH', 'gagana', 'ni', 'veSita', 'dfzwiH', 'yAvat', 'tizWati', 'tAvat', 'garuqa', 'A', 'rUQam', 'SaNKa', 'cakra', 'gadA', 'hastam', 'yaTA', 'ucita', 'AkASAt', 'ava', 'tarantam', 'apaSyat']",hastam
+prap[1],pt1612.xml,"['evam', 'ca', 'tasyAH', 'tatra', 'vasantyAH', 'quRqukaH', 'nAma', 'matkuRaH', 'vAyu', 'pra', 'IritaH', 'tasmin', 'Sayane', 'patitaH']",vasantyAH
+prap[1],pt1770.xml,"['tizWan', 'aham', 'iha', 'AvAse', 'vfdDI', 'BUtaH', 'na', 'ca', 'anyAm', 'aham', 'kAm', 'cit', 'api', 'diSam', 'jAnAmi']",tizWan
+adv_other,pt584.xml,"['araRya', 'DarmAt', 'vi', 'yojya', 'grAma', 'Darmezu', 'ni', 'yojitaH', 'kim', 'bahunA', 'prati', 'aham', 'saYjIvaka', 'piNgalakO', 'kevalam', 'rahasyam', 'miTaH', 'mantrayete']",aham
+noun_pn_cbv,pt1969.xml,"['aTa', 'tatra', 'vane', 'vimalaH', 'nAma', 'siMhaH', 'prati', 'vasati', 'sma']",vimalaH
+noun_pn_cbv,pt1045.xml,"['aTa', 'tat', 'vacaH', 'sam', 'A', 'karRya', 'manda', 'matiH', 'Aha']",matiH
+adh,mbh12_13948.xml,"['tatra', 'guru', 'kula', 'vAsam', 'eva', 'tAvat', 'praTamam', 'ASramam', 'uda', 'A', 'haranti']",praTamam
+ ctp6,mbh12_26165.xml,"['etat', 'ca', 'te', 'toyam', 'vaqavAmuKa', 'saYjYitena', 'pIyamAnam', 'maDuram', 'Bavizyati']",saYjYitena
+ ctp6,mbh12_26166.xml,"['tat', 'etat', 'adya', 'api', 'vaqavAmuKa', 'saYjYitena', 'anu', 'vartinA', 'toyam', 'sAmudram', 'pIyate']",saYjYitena
+ppf_actn,pt530.xml,"['tat', 'SrutvA', 'dantilakaH', 'cintayAm', 'Asa']",cintayAm
+ppf_actn,pt666.xml,"['aTa', 'evam', 'gacCati', 'kAle', 'AzAQaBUtiH', 'cintayAm', 'Asa']",cintayAm
